@@ -178,7 +178,7 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Entity/ContentEntityBase.php" timestamp="1481533732960">
         <mark key="'" line="201" column="18" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" timestamp="1482310573488">
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" timestamp="1482311009888">
         <mark key="'" line="127" column="15" />
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/config/install/om_justid.settings.prod.yml" timestamp="1481899640349">
@@ -198,11 +198,11 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Utility/UnroutedUrlAssembler.php" timestamp="1481106364358">
         <mark key="'" line="14" column="6" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_amber/src/Form/SynchronizationForm.php" timestamp="1482310436298">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="19" column="29" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_amber/src/Form/SynchronizationForm.php" timestamp="1482311398341">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="28" />
       </file>
       <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" timestamp="1481639975331">
         <mark key="'" line="1136" column="26" />
@@ -213,7 +213,7 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/dom_c.php" timestamp="1481645700672">
         <mark key="'" line="1077" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482304718726">
+      <file name="/Dummy.txt" timestamp="1482311067768">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_amber/om_amber.links.task.yml" timestamp="1482309992224">
@@ -240,6 +240,12 @@
       </file>
       <file name="D:/project/dlv/project/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1482151310404">
         <mark key="'" line="118" column="28" />
+      </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/ManualAmberSynchronizer.php" timestamp="1482311254896">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="59" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_amber/src/Form/TrolForm.php" timestamp="1482239328233" />
       <file name="D:/project/dlv/project/vendor/dvom/justid_service/src/JustIdServiceFactory.php" timestamp="1481899142055">
@@ -356,10 +362,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXJlbnQ6OmNyZWF0ZSgkY29udGFpbmVyKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>te($container);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>abc</text>
@@ -368,28 +374,28 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNyZWF0ZShDb250YWluZXJJbnRlcmZhY2UgJGNvbnRhaW5lcikgewogICAgcmV0dXJuIG5ldyBzdGF0aWMoKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXJlbnQ6OmNyZWF0ZSgkY29udGFpbmVyKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwYXJlbnQ6OmNyZWF0ZSgkY29udGFpbmVyKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNyZWF0ZShDb250YWluZXJJbnRlcmZhY2UgJGNvbnRhaW5lcikgeyByZXR1cm4gbmV3IHN0YXRpYygpOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNyZWF0ZShDb250YWluZXJJbnRlcmZhY2UgJGNvbnRhaW5lcikgeyByZXR1cm4gbmV3IHN0YXRpYygpOwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVHJvbCB7Cgp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y2xhc3MgVHJvbCB7Cgp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
