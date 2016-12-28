@@ -121,6 +121,13 @@
         <mark key="^" line="57" column="52" />
         <mark key="." line="57" column="52" />
       </file>
+      <file name="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" timestamp="1482932164333">
+        <mark key="'" line="114" column="11" />
+        <mark key="[" line="252" column="18" />
+        <mark key="]" line="252" column="20" />
+        <mark key="." line="252" column="20" />
+        <mark key="^" line="252" column="20" />
+      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/config/install/om_justid.settings.prod.yml" timestamp="1481898257023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="20" />
@@ -208,15 +215,16 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Entity/ContentEntityBase.php" timestamp="1481533732960">
         <mark key="'" line="201" column="18" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" timestamp="1482334732664">
-        <mark key="'" line="79" column="18" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" timestamp="1482930716763">
+        <mark key="'" line="128" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_amber/config/install/om_amber.settings.yml" timestamp="1482931471121" />
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/config/install/om_justid.settings.prod.yml" timestamp="1481899640349">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1482916197775">
+      <file name="/PHP Console" timestamp="1482930577367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/AmberSynchronizationForm.php" timestamp="1482335479526">
@@ -302,53 +310,11 @@
       <file name="D:/project/dlv/project/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" timestamp="1482149106356">
         <mark key="'" line="83" column="56" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" timestamp="1482932210300">
+        <mark key="'" line="30" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1349" column="88" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1602" column="42" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1629" column="44" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1630" column="30" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1631" column="44" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="16" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="19" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="162" column="8" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="163" column="34" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="183" column="47" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="188" column="44" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="191" column="40" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="194" column="39" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="197" column="42" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="203" column="19" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="209" column="19" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="215" column="19" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="221" column="19" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="227" column="19" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="233" column="19" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="239" column="19" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="245" column="19" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="251" column="19" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="287" column="44" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="288" column="9" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="289" column="36" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="292" column="48" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="300" column="25" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="315" column="43" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="12" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.permissions.yml" />
-      <jump line="1" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/AmberSynchronizationForm.php" />
-      <jump line="17" column="11" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/AmberSynchronizationForm.php" />
-      <jump line="12" column="37" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/AmberSynchronizationForm.php" />
-      <jump line="358" column="25" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="478" column="10" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="523" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="529" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="578" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="579" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="580" column="30" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="582" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="583" column="64" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="584" column="20" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="585" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="587" column="20" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="588" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="589" column="38" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="591" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
@@ -404,16 +370,61 @@
       <jump line="249" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/DataForm.php" />
       <jump line="250" column="7" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/DataForm.php" />
       <jump line="260" column="24" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/DataForm.php" />
+      <jump line="128" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" />
+      <jump line="206" column="39" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="32" column="5" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="33" column="5" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="64" column="39" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="83" column="41" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="364" column="24" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="59" column="9" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="87" column="50" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="338" column="11" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="48" column="11" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="118" column="19" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="233" column="30" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="171" column="4" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="84" column="20" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="100" column="31" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="119" column="33" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="130" column="20" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="90" column="23" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="102" column="34" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="125" column="36" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="69" column="0" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="260" column="68" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="39" column="8" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="89" column="44" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="256" column="22" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="259" column="23" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="91" column="28" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="115" column="11" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="284" column="21" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="285" column="18" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="291" column="21" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="292" column="30" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="299" column="21" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="274" column="18" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="114" column="11" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="43" column="19" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="106" column="32" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="107" column="19" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="108" column="27" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="109" column="27" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="195" column="21" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="196" column="23" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="197" column="23" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
+      <jump line="30" column="5" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJzRGF0YXJpZ2h0XD4=</text>
+        <text>alternatefile</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JGZvcm1fc3RhdGUtPmdldFZhbHVlKCdwZXJzb25hbF9kYXRhX2luZGljYXRpb24nKQ==</text>
@@ -450,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJzRGF0YXJpZ2h0XD4=</last-search>
+      <last-search>alternatefile</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJzRGF0YXJpZ2h0XD4=</last-pattern>
+      <last-pattern>alternatefile</last-pattern>
       <last-replace>item</last-replace>
       <last-substitute>syncData</last-substitute>
       <last-dir>1</last-dir>
@@ -460,17 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry>amb</entry>
-        <entry>abc</entry>
-        <entry>que</entry>
-        <entry>form</entry>
-        <entry>amberSynchronizer</entry>
-        <entry>syncData</entry>
-        <entry>queue</entry>
-        <entry>factory</entry>
-        <entry>manual</entry>
-        <entry>plugin</entry>
-        <entry>get</entry>
         <entry>buildform</entry>
         <entry>amber</entry>
         <entry>authorization</entry>
@@ -480,6 +480,17 @@
         <entry>radio</entry>
         <entry encoding="base64">XDxjdXJWYWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxwZXJzRGF0YXJpZ2h0XD4=</entry>
+        <entry encoding="base64">XDx4VHlwZVphYWtcPg==</entry>
+        <entry>mandatory</entry>
+        <entry>extra</entry>
+        <entry>extraprops</entry>
+        <entry>xtypezaak</entry>
+        <entry>getRequest</entry>
+        <entry>indiener</entry>
+        <entry>alternate</entry>
+        <entry>setprimary</entry>
+        <entry>setalterna</entry>
+        <entry>alternatefile</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
