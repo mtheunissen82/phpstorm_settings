@@ -229,22 +229,22 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1483017630997">
+      <file name="/PHP Console" timestamp="1483019063284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/translations/om_dlv.nl.po" timestamp="1483017945240">
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/translations/om_dlv.nl.po" timestamp="1483018706762">
         <mark key="'" line="22" column="23" />
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/AmberSynchronizationForm.php" timestamp="1483017862503">
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/AmberSynchronizationForm.php" timestamp="1483019298232">
         <mark key="'" line="9" column="37" />
-        <mark key="[" line="75" column="35" />
-        <mark key="]" line="75" column="89" />
-        <mark key="." line="50" column="52" />
-        <mark key="^" line="50" column="52" />
+        <mark key="[" line="57" column="29" />
+        <mark key="]" line="57" column="38" />
+        <mark key="." line="57" column="38" />
+        <mark key="^" line="57" column="38" />
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateInterface.php" timestamp="1483013890249">
         <mark key="'" line="311" column="4" />
@@ -448,10 +448,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>ave configuration</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ave configuration</text>
       </register>
       <register name="/" type="4">
         <text>setvalues</text>
@@ -460,31 +460,31 @@
         <text encoding="base64">bXNnaWQgIkFuIGVycm9yIG9jY3VyZWQuIENvbnN1bHQgdGhlIGxvZ3MgZm9yIG1vcmUgaW5mb3JtYXRpb24iCm1zZ3N0ciAiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJyNkZWZhdWx0X3ZhbHVlJyA9PiAkZm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ2FwcGVhbGlkJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGFwcGVhbElkID0gJGZvcm1fc3RhdGUtPmdldFZhbHVlKCdhcHBlYWxpZCcpOwo=</text>
+        <text encoding="base64">bXNnaWQgIlNhdmUgY29uZmlndXJhdGlvbiIKbXNnc3RyICJTbGEgY29uZmlndXJhdGllIG9wIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICR0aGlzLT5yZWJ1aWxkRm9ybSgkZm9ybV9pZCwgJGZvcm1fc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgJyNkZWZhdWx0X3ZhbHVlJyA9PiAkZm9ybV9zdGF0ZS0+Z2V0VmFsdWUoJ2FwcGVhbGlkJyksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8kZm9ybV9zdGF0ZS0+c2V0RXJyb3JCeU5hbWUoJ2VycicsICR0aGlzLT50KCdBbiBlcnJvciBvY2N1cmVkLiBDaGVjayB0aGUgbG9ncyBmb3IgbW9yZSBpbmZvcm1hdGlvbicpKTsK</text>
+        <text encoding="base64">JGFwcGVhbElkID0gJGZvcm1fc3RhdGUtPmdldFZhbHVlKCdhcHBlYWxpZCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgXERydXBhbFxDb3JlXEZvcm1cZHJ1cGFsX3NldF9tZXNzYWdlKCR0aGlzLT50KCdBbiBlcnJvciBvY2N1cmVkLiBDaGVjayB0aGUgbG9ncyBmb3IgbW9yZSBpbmZvcm1hdGlvbicpKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICR0aGlzLT5yZWJ1aWxkRm9ybSgkZm9ybV9pZCwgJGZvcm1fc3RhdGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1fc3RhdGUtPnNldEVycm9yQnlOYW1lKCdlcnInLCAkdGhpcy0+dCgnQXBwZWFsIGRvZXMgbm90IGV4aXN0JykpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8kZm9ybV9zdGF0ZS0+c2V0RXJyb3JCeU5hbWUoJ2VycicsICR0aGlzLT50KCdBbiBlcnJvciBvY2N1cmVkLiBDaGVjayB0aGUgbG9ncyBmb3IgbW9yZSBpbmZvcm1hdGlvbicpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgb21fZGx2LmFtYmVyX3N5bmNocm9uaXphdGlvbl9xdWV1ZXdvcmtlcjoKIyAgICBjbGFzczogJ1xEcnVwYWxcb21fZGx2XFBsdWdpblxRdWV1ZVdvcmtlclxBbWJlclN5bmNocm9uaXplckJhc2UnCiMgICAgZmFjdG9yeTogcGx1Z2luLm1hbmFnZXIucXVldWVfd29ya2VyOmNyZWF0ZUluc3RhbmNlCiMgICAgYXJndW1lbnRzOiBbJ2FtYmVyX3N5bmNocm9uaXphdGlvbl9xdWV1ZSddCgojICBvbV9kbHYuYXBwZWFsX3N0b3JhZ2U6CiMgICAgY2xhc3M6ICdcRHJ1cGFsXG9tX2RsdlxBcHBlYWxTdG9yYWdlSW50ZXJmYWNlJwojICAgIGZhY3Rvcnk6IGVudGl0eV90eXBlLm1hbmFnZXI6Z2V0U3RvcmFnZQojICAgIGFyZ3VtZW50czogWydvbV9kbHZfYXBwZWFsJ10KCg==</text>
+        <text encoding="base64">ICAgICAgXERydXBhbFxDb3JlXEZvcm1cZHJ1cGFsX3NldF9tZXNzYWdlKCR0aGlzLT50KCdBbiBlcnJvciBvY2N1cmVkLiBDaGVjayB0aGUgbG9ncyBmb3IgbW9yZSBpbmZvcm1hdGlvbicpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKiogQHZhciBcUHNyXExvZ1xMb2dnZXJJbnRlcmZhY2UgKi8KICBwcml2YXRlICRsb2dnZXI7Cgo=</text>
+        <text encoding="base64">ICAgICAgJGZvcm1fc3RhdGUtPnNldEVycm9yQnlOYW1lKCdlcnInLCAkdGhpcy0+dCgnQXBwZWFsIGRvZXMgbm90IGV4aXN0JykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgb21fZGx2LmFtYmVyX3N5bmNocm9uaXphdGlvbl9xdWV1ZXdvcmtlcjoKIyAgICBjbGFzczogJ1xEcnVwYWxcb21fZGx2XFBsdWdpblxRdWV1ZVdvcmtlclxBbWJlclN5bmNocm9uaXplckJhc2UnCiMgICAgZmFjdG9yeTogcGx1Z2luLm1hbmFnZXIucXVldWVfd29ya2VyOmNyZWF0ZUluc3RhbmNlCiMgICAgYXJndW1lbnRzOiBbJ2FtYmVyX3N5bmNocm9uaXphdGlvbl9xdWV1ZSddCgojICBvbV9kbHYuYXBwZWFsX3N0b3JhZ2U6CiMgICAgY2xhc3M6ICdcRHJ1cGFsXG9tX2RsdlxBcHBlYWxTdG9yYWdlSW50ZXJmYWNlJwojICAgIGZhY3Rvcnk6IGVudGl0eV90eXBlLm1hbmFnZXI6Z2V0U3RvcmFnZQojICAgIGFyZ3VtZW50czogWydvbV9kbHZfYXBwZWFsJ10KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
