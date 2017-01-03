@@ -64,7 +64,7 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateValuesTrait.php" timestamp="1483013951882">
         <mark key="'" line="33" column="54" />
       </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/authsources.php" timestamp="1483434245176">
+      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/authsources.php" timestamp="1483470540218">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="41" />
         <mark key="." line="22" column="41" />
@@ -512,7 +512,7 @@
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
