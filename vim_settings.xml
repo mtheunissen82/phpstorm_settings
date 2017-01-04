@@ -90,6 +90,12 @@
         <mark key="." line="38" column="22" />
         <mark key="^" line="38" column="22" />
       </file>
+      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" timestamp="1483534366924">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/GbaServiceInterface.php" timestamp="1481292677046">
         <mark key="'" line="13" column="4" />
       </file>
@@ -111,7 +117,7 @@
         <mark key="." line="20" column="39" />
         <mark key="^" line="20" column="96" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/modules/saml/www/sp/saml2-acs.php" timestamp="1483521203530">
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/modules/saml/www/sp/saml2-acs.php" timestamp="1483533728801">
         <mark key="'" line="179" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/Config/AppealConfigForm.php" timestamp="1481807448927">
@@ -138,6 +144,9 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" timestamp="1483533884614">
+        <mark key="'" line="43" column="41" />
       </file>
       <file name="D:/project/dlv/project/web/themes/custom/om_dlv_theme/style/scss/elements/form/_fieldset.scss" timestamp="1481103216831">
         <mark key="[" line="7" column="0" />
@@ -363,9 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="22" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
-      <jump line="259" column="23" filename="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" />
-      <jump line="91" column="28" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="115" column="11" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="284" column="21" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="285" column="18" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
@@ -463,16 +469,19 @@
       <jump line="15" column="13" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/HTTPArtifact.php" />
       <jump line="116" column="4" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
       <jump line="179" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/modules/saml/www/sp/saml2-acs.php" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
+      <jump line="42" column="46" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
+      <jump line="43" column="41" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdzYW1sLlNPQVBDbGllbnQucHJveHlob3N0JyA9PiAnaHR0cDovL291dGJvdW5kcHJveHkuanViaXQyLm1pbnZlbmoubmwnLAogICAgJ3NhbWwuU09BUENsaWVudC5wcm94eXBvcnQnID0+ICc4MDgwJywK</text>
+      <register name="&quot;" type="4">
+        <text>FALSE</text>
       </register>
       <register name="-" type="4">
-        <text>http://outboundproxy.jubit2.</text>
+        <text>FALSE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcE1ldGFkYXRhXD4=</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdzYW1sLlNPQVBDbGllbnQucHJveHlob3N0JyA9PiAnaHR0cDovL291dGJvdW5kcHJveHkuanViaXQyLm1pbnZlbmoubmwnLAogICAgJ3NhbWwuU09BUENsaWVudC5wcm94eXBvcnQnID0+ICc4MDgwJywK</text>
@@ -509,17 +518,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcE1ldGFkYXRhXD4=</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcE1ldGFkYXRhXD4=</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>entity_type.manager</entry>
         <entry>tree_storage</entry>
         <entry>storage</entry>
         <entry>^</entry>
@@ -539,6 +547,7 @@
         <entry encoding="base64">XDxzcmNNZXRhZGF0YVw+</entry>
         <entry>proxyhost</entry>
         <entry encoding="base64">XDxzcE1ldGFkYXRhXD4=</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
