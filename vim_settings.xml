@@ -344,6 +344,7 @@
         <mark key="^" line="475" column="31" />
         <mark key="." line="477" column="30" />
       </file>
+      <file name="D:/project/dlv/project/web/.htaccess" timestamp="1484121916823" />
       <file name="D:/project/dlv/project/config/simplesamlphp/production/config/authsources.php" timestamp="1483601216863">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="36" />
@@ -535,7 +536,7 @@
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
