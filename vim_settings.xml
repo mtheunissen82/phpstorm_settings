@@ -112,9 +112,9 @@
       <file name="D:/project/dlv/project/SoapClientFactoryInterface.php" timestamp="1481697115517">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" timestamp="1483519044892">
+      <file name="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" timestamp="1484213128187">
         <mark key="'" line="116" column="4" />
-        <mark key="[" line="97" column="36" />
+        <mark key="[" line="118" column="0" />
         <mark key="]" line="97" column="60" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/SynchronizationForm.php" timestamp="1482329838361">
@@ -344,7 +344,6 @@
         <mark key="^" line="475" column="31" />
         <mark key="." line="477" column="30" />
       </file>
-      <file name="D:/project/dlv/project/web/.htaccess" timestamp="1484121916823" />
       <file name="D:/project/dlv/project/config/simplesamlphp/production/config/authsources.php" timestamp="1483601216863">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="36" />
