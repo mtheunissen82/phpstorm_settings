@@ -110,6 +110,9 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
+      <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1484302748447">
+        <mark key="'" line="263" column="23" />
+      </file>
       <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/GbaServiceInterface.php" timestamp="1481292677046">
         <mark key="'" line="13" column="4" />
       </file>
@@ -399,12 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="632" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="315" column="36" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="260" column="8" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="532" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="535" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="538" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="541" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="544" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="547" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
@@ -499,6 +496,12 @@
       <jump line="57" column="17" filename="D:/project/ssp_olddlv/config/config.php" />
       <jump line="167" column="67" filename="D:/project/ssp_olddlv/config/config.php" />
       <jump line="0" column="0" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="268" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="273" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="280" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="258" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="263" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -508,7 +511,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>var_dump</text>
+        <text>pagecache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGRlc3Rpb25hdGlvbiA9ICdodHRwczovL3dhcy1wcmVwcm9kMS5kaWdpZC5ubC9zYW1sL2lkcC9yZXNvbHZlX2FydGlmYWN0JzsK</text>
@@ -545,9 +548,9 @@
       </register>
     </registers>
     <search>
-      <last-search>var_dump</last-search>
+      <last-search>pagecache</last-search>
       <last-offset />
-      <last-pattern>var_dump</last-pattern>
+      <last-pattern>pagecache</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -555,7 +558,6 @@
     </search>
     <history>
       <history-search>
-        <entry>input</entry>
         <entry>getinput</entry>
         <entry>setValues</entry>
         <entry>setValue</entry>
@@ -575,6 +577,7 @@
         <entry>popuphandler</entry>
         <entry>proxy</entry>
         <entry>var_dump</entry>
+        <entry>pagecache</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
