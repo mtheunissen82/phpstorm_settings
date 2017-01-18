@@ -72,6 +72,9 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" timestamp="1484746435228">
+        <mark key="'" line="577" column="19" />
+      </file>
       <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1484302748447">
         <mark key="'" line="263" column="23" />
       </file>
@@ -241,7 +244,12 @@
         <mark key="." line="245" column="5" />
         <mark key="^" line="245" column="5" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_login/src/DigidAuthenticationProvider.php" timestamp="1484740829476" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_login/src/DigidAuthenticationProvider.php" timestamp="1484747077015">
+        <mark key="[" line="79" column="50" />
+        <mark key="]" line="79" column="38" />
+        <mark key="^" line="79" column="38" />
+        <mark key="." line="79" column="38" />
+      </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Utility/UnroutedUrlAssembler.php" timestamp="1481106364358">
         <mark key="'" line="14" column="6" />
       </file>
@@ -338,39 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="541" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="544" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="547" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="550" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="564" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="567" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="946" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1104" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="85" column="16" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
-      <jump line="22" column="56" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
-      <jump line="72" column="90" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
-      <jump line="41" column="4" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AmberSynchronizer.php" />
-      <jump line="524" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="562" column="8" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="563" column="34" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="644" column="7" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="605" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="608" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="645" column="36" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="895" column="13" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="896" column="33" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1198" column="63" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1334" column="8" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1335" column="34" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="82" column="2" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
-      <jump line="0" column="1" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AmberSynchronizer.php" />
-      <jump line="11" column="24" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AmberSynchronizer.php" />
-      <jump line="22" column="32" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AmberSynchronizer.php" />
-      <jump line="23" column="11" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AmberSynchronizer.php" />
-      <jump line="39" column="36" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AmberSynchronizer.php" />
-      <jump line="45" column="54" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AmberSynchronizer.php" />
-      <jump line="46" column="11" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AmberSynchronizer.php" />
-      <jump line="87" column="16" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
       <jump line="11" column="6" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
       <jump line="151" column="49" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
       <jump line="327" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateInterface.php" />
@@ -438,6 +413,39 @@
       <jump line="280" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="258" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="263" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="749" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="754" column="66" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="759" column="39" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="760" column="60" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="1023" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="1025" column="70" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="1029" column="30" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="1032" column="30" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="153" column="77" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="156" column="39" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="163" column="82" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="281" column="44" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="282" column="67" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="285" column="76" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="312" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="335" column="26" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="336" column="39" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="339" column="46" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="340" column="66" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="343" column="39" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="344" column="66" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="540" column="66" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="552" column="9" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="553" column="37" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="564" column="42" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="632" column="42" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="633" column="64" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="635" column="40" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="637" column="47" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="645" column="75" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="674" column="32" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="745" column="22" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="577" column="19" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -447,7 +455,7 @@
         <text>saml2/</text>
       </register>
       <register name="/" type="4">
-        <text>pagecache</text>
+        <text>dologout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJzaW1wbGVzYW1scGhwL3NhbWwyIjogewogICAgICAiU2ltcGxlU0FNTFBIUCBTT0FQQ2xpZW50IFNTTCBwZWVyX25hbWUgcGF0Y2giOiAic3NsX3BlZXJfbmFtZS5wYXRjaCIKICAgIH0K</text>
@@ -484,18 +492,16 @@
       </register>
     </registers>
     <search>
-      <last-search>pagecache</last-search>
+      <last-search>dologout</last-search>
       <last-offset />
-      <last-pattern>pagecache</last-pattern>
+      <last-pattern>dologout</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getinput</entry>
-        <entry>setValues</entry>
         <entry>setValue</entry>
         <entry>setvalue</entry>
         <entry>setvalues</entry>
@@ -514,6 +520,8 @@
         <entry>proxy</entry>
         <entry>var_dump</entry>
         <entry>pagecache</entry>
+        <entry>cookie</entry>
+        <entry>dologout</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
