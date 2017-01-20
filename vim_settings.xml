@@ -244,11 +244,11 @@
         <mark key="." line="245" column="5" />
         <mark key="^" line="245" column="5" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_login/src/DigidAuthenticationProvider.php" timestamp="1484901892369">
-        <mark key="[" line="104" column="11" />
-        <mark key="]" line="104" column="26" />
-        <mark key="^" line="79" column="38" />
-        <mark key="." line="104" column="11" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_login/src/DigidAuthenticationProvider.php" timestamp="1484908691263">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="23" column="24" />
+        <mark key="." line="23" column="24" />
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Utility/UnroutedUrlAssembler.php" timestamp="1481106364358">
         <mark key="'" line="14" column="6" />
@@ -449,10 +449,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGRydXBhbFNlc3Npb24g</text>
+        <text>digid</text>
       </register>
       <register name="-" type="4">
-        <text>saml2/</text>
+        <text>digid</text>
       </register>
       <register name="/" type="4">
         <text>dologout</text>
@@ -536,8 +536,8 @@
         <entry>set nohlsearch</entry>
         <entry>set hlsearch</entry>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
