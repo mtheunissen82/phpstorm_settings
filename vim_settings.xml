@@ -111,8 +111,8 @@
         <mark key="^" line="57" column="52" />
         <mark key="." line="57" column="52" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" timestamp="1482932164333">
-        <mark key="'" line="114" column="11" />
+      <file name="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" timestamp="1484919924902">
+        <mark key="'" line="111" column="29" />
         <mark key="[" line="252" column="18" />
         <mark key="]" line="252" column="20" />
         <mark key="." line="252" column="20" />
@@ -346,10 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="6" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
-      <jump line="151" column="49" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
-      <jump line="327" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateInterface.php" />
-      <jump line="340" column="20" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateInterface.php" />
       <jump line="397" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateInterface.php" />
       <jump line="963" column="31" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
       <jump line="796" column="4" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
@@ -446,19 +442,23 @@
       <jump line="674" column="32" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
       <jump line="745" column="22" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
       <jump line="577" column="19" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="357" column="18" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="96" column="0" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="98" column="64" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="111" column="29" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>digid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoQ29ubmVjdGlvbk9iamVjdCAkY29ubmVjdGlvbiwgTG9nZ2VySW50ZXJmYWNlICRsb2dnZXIgPSBOVUxMKSB7CiAgICBpZiAoISRsb2dnZXIpIHsKICAgICAgJGxvZ2dlciA9IG5ldyBOdWxsTG9nZ2VyKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>digid</text>
       </register>
       <register name="/" type="4">
-        <text>dologout</text>
+        <text>securityGroup</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JGRydXBhbFNlc3Npb24g</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoQ29ubmVjdGlvbk9iamVjdCAkY29ubmVjdGlvbiwgTG9nZ2VySW50ZXJmYWNlICRsb2dnZXIgPSBOVUxMKSB7CiAgICBpZiAoISRsb2dnZXIpIHsKICAgICAgJGxvZ2dlciA9IG5ldyBOdWxsTG9nZ2VyKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImRydXBhbC9kcnVwYWwiOiB7CiAgICAgICAgICAgICAgICAiQWRkIHN0YXJ0dXAgY29uZmlndXJhdGlvbiBmb3IgUEhQIHNlcnZlciI6ICJodHRwczovL3d3dy5kcnVwYWwub3JnL2ZpbGVzL2lzc3Vlcy9hZGRfYV9zdGFydHVwLTE1NDM4NTgtMzAucGF0Y2giCiAgICAgICAgICAgIH0KCg==</text>
@@ -492,18 +492,16 @@
       </register>
     </registers>
     <search>
-      <last-search>dologout</last-search>
+      <last-search>securityGroup</last-search>
       <last-offset />
-      <last-pattern>dologout</last-pattern>
+      <last-pattern>securityGroup</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setValue</entry>
-        <entry>setvalue</entry>
         <entry>setvalues</entry>
         <entry>send</entry>
         <entry encoding="base64">XDxiaW5kaW5nXD4=</entry>
@@ -522,6 +520,8 @@
         <entry>pagecache</entry>
         <entry>cookie</entry>
         <entry>dologout</entry>
+        <entry>security</entry>
+        <entry>securityGroup</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
