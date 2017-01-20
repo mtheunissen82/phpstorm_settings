@@ -244,11 +244,11 @@
         <mark key="." line="245" column="5" />
         <mark key="^" line="245" column="5" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_login/src/DigidAuthenticationProvider.php" timestamp="1484748978038">
-        <mark key="[" line="79" column="50" />
-        <mark key="]" line="79" column="38" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_login/src/DigidAuthenticationProvider.php" timestamp="1484901892369">
+        <mark key="[" line="104" column="11" />
+        <mark key="]" line="104" column="26" />
         <mark key="^" line="79" column="38" />
-        <mark key="." line="79" column="38" />
+        <mark key="." line="104" column="11" />
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Utility/UnroutedUrlAssembler.php" timestamp="1481106364358">
         <mark key="'" line="14" column="6" />
@@ -448,8 +448,8 @@
       <jump line="577" column="19" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRydXBhbC9kcnVwYWwiOiB7CiAgICAgICAgICAgICAgICAiQWRkIHN0YXJ0dXAgY29uZmlndXJhdGlvbiBmb3IgUEhQIHNlcnZlciI6ICJodHRwczovL3d3dy5kcnVwYWwub3JnL2ZpbGVzL2lzc3Vlcy9hZGRfYV9zdGFydHVwLTE1NDM4NTgtMzAucGF0Y2giCiAgICAgICAgICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGRydXBhbFNlc3Npb24g</text>
       </register>
       <register name="-" type="4">
         <text>saml2/</text>
@@ -457,8 +457,8 @@
       <register name="/" type="4">
         <text>dologout</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJzaW1wbGVzYW1scGhwL3NhbWwyIjogewogICAgICAiU2ltcGxlU0FNTFBIUCBTT0FQQ2xpZW50IFNTTCBwZWVyX25hbWUgcGF0Y2giOiAic3NsX3BlZXJfbmFtZS5wYXRjaCIKICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">JGRydXBhbFNlc3Npb24g</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImRydXBhbC9kcnVwYWwiOiB7CiAgICAgICAgICAgICAgICAiQWRkIHN0YXJ0dXAgY29uZmlndXJhdGlvbiBmb3IgUEhQIHNlcnZlciI6ICJodHRwczovL3d3dy5kcnVwYWwub3JnL2ZpbGVzL2lzc3Vlcy9hZGRfYV9zdGFydHVwLTE1NDM4NTgtMzAucGF0Y2giCiAgICAgICAgICAgIH0KCg==</text>
@@ -498,7 +498,7 @@
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
