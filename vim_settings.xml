@@ -90,6 +90,7 @@
       <file name="D:/project/dls_old/sites/all/modules/custom/om_gba/stub/service_gba.wsdl" timestamp="1481639844602">
         <mark key="'" line="37" column="37" />
       </file>
+      <file name="D:/project/dls/project/web/modules/custom/om_dls/templates/phase-uitspraak.html.twig" timestamp="1485175758486" />
       <file name="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" timestamp="1484315979537">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="0" />
@@ -332,6 +333,9 @@
         <mark key="^" line="9" column="59" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" timestamp="1485175256676">
+        <mark key="'" line="714" column="19" />
+      </file>
       <file name="D:/project/dlv/project/vendor/dvom/justid_service/src/JustIdServiceFactory.php" timestamp="1481899142055">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="16" />
@@ -352,59 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="796" column="4" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
-      <jump line="922" column="17" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
-      <jump line="1197" column="15" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
-      <jump line="795" column="17" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
-      <jump line="893" column="2" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" />
-      <jump line="23" column="10" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateInterface.php" />
-      <jump line="312" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateInterface.php" />
-      <jump line="311" column="4" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateInterface.php" />
-      <jump line="35" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateValuesTrait.php" />
-      <jump line="33" column="54" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateValuesTrait.php" />
-      <jump line="21" column="23" filename="D:/project/dlv/project/web/modules/custom/om_dlv/translations/om_dlv.nl.po" />
-      <jump line="30" column="27" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/www/saml2/idp/ArtifactResolutionService.php" />
-      <jump line="21" column="20" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/ArtifactResponse.php" />
-      <jump line="67" column="1" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/www/saml2/idp/ArtifactResolutionService.php" />
-      <jump line="46" column="62" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="93" column="13" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="94" column="38" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="97" column="13" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="98" column="38" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="17" column="41" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="22" column="71" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="33" column="13" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="34" column="21" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="37" column="21" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="39" column="21" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="40" column="53" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="45" column="64" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="60" column="20" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="147" column="15" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/HTTPArtifact.php" />
-      <jump line="119" column="52" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/HTTPArtifact.php" />
-      <jump line="113" column="44" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/HTTPArtifact.php" />
-      <jump line="108" column="30" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/HTTPArtifact.php" />
-      <jump line="15" column="13" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/HTTPArtifact.php" />
-      <jump line="116" column="4" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
-      <jump line="179" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/modules/saml/www/sp/saml2-acs.php" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
-      <jump line="42" column="46" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
-      <jump line="43" column="41" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
-      <jump line="10" column="32" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/authsources.php" />
-      <jump line="23" column="15" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/AppealFormBase.php" />
-      <jump line="352" column="49" filename="D:/project/dlv/project/web/themes/custom/om_dlv_theme/js/om_dlv_theme.js" />
-      <jump line="354" column="12" filename="D:/project/dlv/project/web/themes/custom/om_dlv_theme/js/om_dlv_theme.js" />
-      <jump line="469" column="6" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
-      <jump line="699" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/config/optional/views.view.om_dlv_appeal_manager.yml" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/config/optional/views.view.om_dlv_appeal_manager.yml" />
-      <jump line="561" column="6" filename="D:/project/dlv/project/web/modules/custom/om_dlv/config/optional/views.view.om_dlv_appeal_manager.yml" />
-      <jump line="697" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/config/optional/views.view.om_dlv_appeal_manager.yml" />
-      <jump line="21" column="42" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
-      <jump line="59" column="5" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
-      <jump line="146" column="67" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
-      <jump line="0" column="0" filename="D:/project/ssp_olddlv/config/config.php" />
-      <jump line="9" column="81" filename="D:/project/ssp_olddlv/config/config.php" />
-      <jump line="57" column="17" filename="D:/project/ssp_olddlv/config/config.php" />
       <jump line="167" column="67" filename="D:/project/ssp_olddlv/config/config.php" />
       <jump line="0" column="0" filename="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
       <jump line="0" column="0" filename="D:/project/dlv/project/web/core/core.services.yml" />
@@ -452,6 +403,59 @@
       <jump line="111" column="29" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="207" column="37" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="3" column="0" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
+      <jump line="548" column="32" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="601" column="10" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="602" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="603" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="604" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="605" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="606" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="608" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="609" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="610" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="613" column="20" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="614" column="43" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="615" column="39" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="617" column="18" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="618" column="10" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="619" column="10" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="620" column="10" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="621" column="10" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="622" column="10" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="626" column="20" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="627" column="41" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="628" column="39" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="630" column="18" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="631" column="10" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="632" column="10" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="633" column="10" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="639" column="28" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="640" column="18" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="644" column="63" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="646" column="50" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="650" column="43" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="651" column="34" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="655" column="70" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="657" column="56" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="661" column="49" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="662" column="40" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="666" column="32" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="668" column="21" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="670" column="34" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="671" column="45" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="682" column="20" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="686" column="33" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="687" column="13" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="688" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="691" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="692" column="35" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="694" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="695" column="35" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="697" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="698" column="35" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="700" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="701" column="35" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
+      <jump line="714" column="19" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -461,7 +465,7 @@
         <text>$s</text>
       </register>
       <register name="/" type="4">
-        <text>abc</text>
+        <text>fase</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoQ29ubmVjdGlvbk9iamVjdCAkY29ubmVjdGlvbiwgTG9nZ2VySW50ZXJmYWNlICRsb2dnZXIgPSBOVUxMKSB7CiAgICBpZiAoISRsb2dnZXIpIHsKICAgICAgJGxvZ2dlciA9IG5ldyBOdWxsTG9nZ2VyKCk7CiAgICB9Cgo=</text>
@@ -498,17 +502,16 @@
       </register>
     </registers>
     <search>
-      <last-search>abc</last-search>
+      <last-search>fase</last-search>
       <last-offset />
-      <last-pattern>abc</last-pattern>
+      <last-pattern>fase</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
         <entry encoding="base64">XDxiaW5kaW5nXD4=</entry>
         <entry>soapclienbt</entry>
         <entry>soapclient</entry>
@@ -528,6 +531,7 @@
         <entry>security</entry>
         <entry>securityGroup</entry>
         <entry>abc</entry>
+        <entry>fase</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
