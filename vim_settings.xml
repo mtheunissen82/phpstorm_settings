@@ -141,6 +141,13 @@
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" timestamp="1484298167648">
         <mark key="'" line="146" column="67" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_login/src/Form/ImpersonateForm.php" timestamp="1485347715222">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="^" line="144" column="12" />
+        <mark key="." line="166" column="0" />
+      </file>
       <file name="D:/project/dls_old/sites/all/modules/custom/om_gba/includes/om_gba.soap_definitions.inc" timestamp="1481525166645">
         <mark key="'" line="1007" column="51" />
       </file>
@@ -291,6 +298,9 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/dom_c.php" timestamp="1481645700672">
         <mark key="'" line="1077" column="53" />
       </file>
+      <file name="/Dummy.txt" timestamp="1485347757534">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/HTTPArtifact.php" timestamp="1483433047327">
         <mark key="'" line="15" column="13" />
       </file>
@@ -308,6 +318,9 @@
       </file>
       <file name="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/ArtifactResponse.php" timestamp="1483431922726">
         <mark key="'" line="21" column="20" />
+      </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_login/src/CurrentUser.php" timestamp="1485347358509">
+        <mark key="'" line="15" column="6" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/DataForm.php" timestamp="1482929057056">
         <mark key="'" line="260" column="24" />
@@ -341,6 +354,13 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_login/src/GbaToCurrentUserMapper.php" timestamp="1485347927474">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="12" column="1" />
+      </file>
       <file name="D:/project/dlv/project/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" timestamp="1482149106356">
         <mark key="'" line="83" column="56" />
       </file>
@@ -349,9 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="46" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="340" column="66" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="343" column="39" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
       <jump line="344" column="66" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
       <jump line="540" column="66" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
       <jump line="552" column="9" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
@@ -449,65 +466,65 @@
       <jump line="499" column="66" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
       <jump line="506" column="50" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
       <jump line="553" column="39" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/web/modules/custom/om_login/src/Form/ImpersonateForm.php" />
+      <jump line="15" column="6" filename="D:/project/dlv/project/web/modules/custom/om_login/src/CurrentUser.php" />
+      <jump line="20" column="4" filename="D:/project/dlv/project/web/modules/custom/om_login/src/GbaToCurrentUserMapper.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>$s</text>
       </register>
       <register name="/" type="4">
-        <text>late</text>
+        <text>currentUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoQ29ubmVjdGlvbk9iamVjdCAkY29ubmVjdGlvbiwgTG9nZ2VySW50ZXJmYWNlICRsb2dnZXIgPSBOVUxMKSB7CiAgICBpZiAoISRsb2dnZXIpIHsKICAgICAgJGxvZ2dlciA9IG5ldyBOdWxsTG9nZ2VyKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRydXBhbC9kcnVwYWwiOiB7CiAgICAgICAgICAgICAgICAiQWRkIHN0YXJ0dXAgY29uZmlndXJhdGlvbiBmb3IgUEhQIHNlcnZlciI6ICJodHRwczovL3d3dy5kcnVwYWwub3JnL2ZpbGVzL2lzc3Vlcy9hZGRfYV9zdGFydHVwLTE1NDM4NTgtMzAucGF0Y2giCiAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJleHRyYSI6IHsKICAgICAgInBhdGNoZXMtZmlsZSI6ICJjb21wb3Nlci1wYXRjaGVzL3BhdGNoZXMuanNvbiIKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vU2V0IGluIEN1cnJlbnRVc2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwYXRjaGVzImRkZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRrZXlDZXJ0RGF0YSk7CiAgICAgICAgICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgIC8vU2V0IGluIEN1cnJlbnRVc2VyCiAgICAkdGhpcy0+Y3VycmVudFVzZXItPnNldEJzbigkYnNuKTsKICAgICR0aGlzLT5jdXJyZW50VXNlci0+c2V0Rmlyc3ROYW1lKCRnYmFSZXN1bHQtPmZpcnN0X25hbWUpOwogICAgJHRoaXMtPmN1cnJlbnRVc2VyLT5zZXRMYXN0TmFtZSgkZ2JhUmVzdWx0LT5sYXN0X25hbWUpOwogICAgJHRoaXMtPmN1cnJlbnRVc2VyLT5zZXRMYXN0TmFtZVByZWZpeCgkZ2JhUmVzdWx0LT5sYXN0X25hbWVfcHJlZml4KTsKICAgICR0aGlzLT5jdXJyZW50VXNlci0+c2V0R2VuZGVyKCRnYmFSZXN1bHQtPmdlbmRlcik7CiAgICAkdGhpcy0+Y3VycmVudFVzZXItPnNldFN0cmVldCgkZ2JhUmVzdWx0LT5zdHJhYXRuYWFtKTsKICAgICR0aGlzLT5jdXJyZW50VXNlci0+c2V0SG91c2VOdW1iZXIoJGdiYVJlc3VsdC0+Z2V0SHVpc251bW1lcigpKTsKICAgICR0aGlzLT5jdXJyZW50VXNlci0+c2V0WmlwQ29kZSgkZ2JhUmVzdWx0LT5wb3N0Y29kZSk7CiAgICAkdGhpcy0+Y3VycmVudFVzZXItPnNldENpdHkoJGdiYVJlc3VsdC0+d29vbnBsYWF0cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGRlc3Rpb25hdGlvbiA9ICdodHRwczovL3dhcy1wcmVwcm9kMS5kaWdpZC5ubC9zYW1sL2lkcC9yZXNvbHZlX2FydGlmYWN0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRydXBhbC9kcnVwYWwiOiB7CiAgICAgICAgICAgICAgICAiQWRkIHN0YXJ0dXAgY29uZmlndXJhdGlvbiBmb3IgUEhQIHNlcnZlciI6ICJodHRwczovL3d3dy5kcnVwYWwub3JnL2ZpbGVzL2lzc3Vlcy9hZGRfYV9zdGFydHVwLTE1NDM4NTgtMzAucGF0Y2giCiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JGRlc3Rpb25hdGlvbiA9ICdoJ3R0cHM6Ly93YXMtcHJlcHJvZDEuZGlnaWQubmwvc2FtbC9pZHAvcmVzb2x2ZV9hcnRpZmFjdCc7Cg==</text>
+        <text encoding="base64">ICAgICJleHRyYSI6IHsKICAgICAgInBhdGNoZXMtZmlsZSI6ICJjb21wb3Nlci1wYXRjaGVzL3BhdGNoZXMuanNvbiIKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICJwYXRjaGVzImRkZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZmlsZV9leGlzdHMoJGZpbGUpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRrZXlDZXJ0RGF0YSk7CiAgICAgICAgICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGFjdGlvbiA9ICcnOwo=</text>
+        <text encoding="base64">JGRlc3Rpb25hdGlvbiA9ICdodHRwczovL3dhcy1wcmVwcm9kMS5kaWdpZC5ubC9zYW1sL2lkcC9yZXNvbHZlX2FydGlmYWN0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>late</last-search>
+      <last-search>currentUser</last-search>
       <last-offset />
-      <last-pattern>late</last-pattern>
-      <last-replace>#</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern>currentUser</last-pattern>
+      <last-replace>user</last-replace>
+      <last-substitute>currentUser</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>certificate</entry>
-        <entry>resolve</entry>
-        <entry encoding="base64">XDxzcmNNZXRhZGF0YVw+</entry>
         <entry>proxyhost</entry>
         <entry encoding="base64">XDxzcE1ldGFkYXRhXD4=</entry>
         <entry>debug</entry>
@@ -525,6 +542,9 @@
         <entry>ddocname</entry>
         <entry encoding="base64">XDxkRG9jTmFtZVw+</entry>
         <entry>late</entry>
+        <entry>gender</entry>
+        <entry encoding="base64">dGhpcy0+</entry>
+        <entry>currentUser</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
@@ -539,8 +559,10 @@
         <entry>set nohlsearch</entry>
         <entry>set hlsearch</entry>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL3RoaXMtPg==</entry>
+        <entry encoding="base64">JzwsJz5zL2N1cnJlbnRVc2VyL3VzZXI=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
