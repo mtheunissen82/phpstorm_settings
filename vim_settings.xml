@@ -24,10 +24,9 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1485178651844">
+      <file name="/a.dummy" timestamp="1485437464978">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_dls/templates/phase-zitting.html.twig" timestamp="1485178496315" />
       <file name="D:/project/dlv/project/vendor/guzzlehttp/psr7/src/Stream.php" timestamp="1482087935444">
         <mark key="'" line="50" column="20" />
       </file>
@@ -94,7 +93,6 @@
       <file name="D:/project/dls_old/sites/all/modules/custom/om_gba/stub/service_gba.wsdl" timestamp="1481639844602">
         <mark key="'" line="37" column="37" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_dls/templates/phase-uitspraak.html.twig" timestamp="1485175758486" />
       <file name="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" timestamp="1484315979537">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="0" />
@@ -336,7 +334,6 @@
         <mark key="^" line="475" column="31" />
         <mark key="." line="477" column="30" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/Resources/GbaMapper.php" timestamp="1485347187561" />
       <file name="D:/project/dlv/project/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1482151310404">
         <mark key="'" line="118" column="28" />
       </file>
@@ -534,7 +531,7 @@
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
