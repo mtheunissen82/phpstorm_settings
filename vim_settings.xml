@@ -49,7 +49,6 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" timestamp="1485345778728">
         <mark key="'" line="553" column="39" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/cjib_service/src/Resources/Webservice/v2.1/3062542176489101-response.xml" timestamp="1485442619591" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" timestamp="1484303576098">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -489,7 +488,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>gbaResult</text>
+        <text>throw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoQ29ubmVjdGlvbk9iamVjdCAkY29ubmVjdGlvbiwgTG9nZ2VySW50ZXJmYWNlICRsb2dnZXIgPSBOVUxMKSB7CiAgICBpZiAoISRsb2dnZXIpIHsKICAgICAgJGxvZ2dlciA9IG5ldyBOdWxsTG9nZ2VyKCk7CiAgICB9Cgo=</text>
@@ -526,17 +525,16 @@
       </register>
     </registers>
     <search>
-      <last-search>gbaResult</last-search>
+      <last-search>throw</last-search>
       <last-offset />
-      <last-pattern>gbaResult</last-pattern>
+      <last-pattern>throw</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcE1ldGFkYXRhXD4=</entry>
         <entry>debug</entry>
         <entry>ajax</entry>
         <entry>popuphandler</entry>
@@ -556,6 +554,7 @@
         <entry encoding="base64">dGhpcy0+</entry>
         <entry>currentUser</entry>
         <entry>gbaResult</entry>
+        <entry>throw</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
