@@ -93,9 +93,13 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Component/Plugin/Discovery/DiscoveryInterface.php" timestamp="1485782097694">
         <mark key="." line="39" column="54" />
       </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Block/BlockBase.php" timestamp="1485791116099">
+        <mark key="'" line="55" column="20" />
+      </file>
       <file name="D:/project/dls_old/sites/all/modules/custom/om_gba/stub/service_gba.wsdl" timestamp="1481639844602">
         <mark key="'" line="37" column="37" />
       </file>
+      <file name="D:/project/dlv/project/web/core/modules/help/src/Plugin/Block/HelpBlock.php" timestamp="1485791060241" />
       <file name="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" timestamp="1484315979537">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="0" />
@@ -231,6 +235,9 @@
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" timestamp="1483013998662">
         <mark key="'" line="893" column="2" />
+      </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Component/Plugin/PluginBase.php" timestamp="1485791188959">
+        <mark key="'" line="43" column="5" />
       </file>
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/www/saml2/idp/ArtifactResolutionService.php" timestamp="1483431935659">
         <mark key="'" line="67" column="1" />
@@ -389,12 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="633" column="64" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="635" column="40" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="637" column="47" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="645" column="75" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="674" column="32" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="745" column="22" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
       <jump line="577" column="19" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
       <jump line="357" column="18" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="96" column="0" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
@@ -489,6 +490,12 @@
       <jump line="146" column="43" filename="D:/project/dlv/project/web/modules/custom/om_login/src/Form/ImpersonateForm.php" />
       <jump line="162" column="5" filename="D:/project/dlv/project/web/modules/custom/om_login/src/Form/ImpersonateForm.php" />
       <jump line="164" column="33" filename="D:/project/dlv/project/web/modules/custom/om_login/src/Form/ImpersonateForm.php" />
+      <jump line="198" column="3" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Block/BlockBase.php" />
+      <jump line="56" column="14" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Block/BlockBase.php" />
+      <jump line="55" column="20" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Block/BlockBase.php" />
+      <jump line="8" column="0" filename="D:/project/dlv/project/web/core/lib/Drupal/Component/Plugin/PluginBase.php" />
+      <jump line="52" column="20" filename="D:/project/dlv/project/web/core/lib/Drupal/Component/Plugin/PluginBase.php" />
+      <jump line="43" column="5" filename="D:/project/dlv/project/web/core/lib/Drupal/Component/Plugin/PluginBase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -498,7 +505,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>construct</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoQ29ubmVjdGlvbk9iamVjdCAkY29ubmVjdGlvbiwgTG9nZ2VySW50ZXJmYWNlICRsb2dnZXIgPSBOVUxMKSB7CiAgICBpZiAoISRsb2dnZXIpIHsKICAgICAgJGxvZ2dlciA9IG5ldyBOdWxsTG9nZ2VyKCk7CiAgICB9Cgo=</text>
@@ -535,17 +542,16 @@
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>construct</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
+      <last-pattern>construct</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry>ajax</entry>
         <entry>popuphandler</entry>
         <entry>proxy</entry>
@@ -565,6 +571,7 @@
         <entry>currentUser</entry>
         <entry>gbaResult</entry>
         <entry>throw</entry>
+        <entry>construct</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
