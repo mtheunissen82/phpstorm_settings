@@ -90,6 +90,9 @@
       <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/GbaServiceInterface.php" timestamp="1481292677046">
         <mark key="'" line="13" column="4" />
       </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Component/Plugin/Discovery/DiscoveryInterface.php" timestamp="1485782097694">
+        <mark key="." line="39" column="54" />
+      </file>
       <file name="D:/project/dls_old/sites/all/modules/custom/om_gba/stub/service_gba.wsdl" timestamp="1481639844602">
         <mark key="'" line="37" column="37" />
       </file>
@@ -150,6 +153,12 @@
       </file>
       <file name="D:/project/dlv/project/web/core/modules/file/src/FileUsage/DatabaseFileUsageBackend.php" timestamp="1481532154382">
         <mark key="'" line="44" column="19" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/composer/d6dbaf83/drupal-composer-drupal-core-fbf10f6/lib/Drupal/Component/Discovery/YamlDiscovery.php" timestamp="1485782019514">
+        <mark key="[" line="88" column="21" />
+        <mark key="]" line="88" column="3" />
+        <mark key="^" line="88" column="3" />
+        <mark key="." line="88" column="3" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" timestamp="1481533780201">
         <mark key="'" line="35" column="8" />
