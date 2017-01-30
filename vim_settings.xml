@@ -74,6 +74,9 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="34" />
       </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Plugin/DefaultPluginManager.php" timestamp="1485792730705">
+        <mark key="'" line="23" column="6" />
+      </file>
       <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" timestamp="1484298130522">
         <mark key="'" line="21" column="42" />
         <mark key="[" line="7" column="13" />
@@ -236,6 +239,7 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormState.php" timestamp="1483013998662">
         <mark key="'" line="893" column="2" />
       </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Block/BlockManager.php" timestamp="1485792767481" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Component/Plugin/PluginBase.php" timestamp="1485791188959">
         <mark key="'" line="43" column="5" />
       </file>
@@ -340,6 +344,9 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="4" />
       </file>
+      <file name="/fragment.php" timestamp="1485792764494">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/ArtifactResponse.php" timestamp="1483431922726">
         <mark key="'" line="21" column="20" />
       </file>
@@ -398,7 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="64" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="111" column="29" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="207" column="37" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="3" column="0" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
@@ -498,6 +504,7 @@
       <jump line="71" column="4" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Plugin/Discovery/AnnotatedClassDiscovery.php" />
       <jump line="0" column="0" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Plugin/Discovery/AnnotatedClassDiscovery.php" />
       <jump line="143" column="0" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Plugin/Discovery/AnnotatedClassDiscovery.php" />
+      <jump line="23" column="6" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Plugin/DefaultPluginManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -550,7 +557,7 @@
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
