@@ -24,8 +24,13 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1485437464978">
+      <file name="/a.dummy" timestamp="1485950128559">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_gba_test/om_gba_test.links.task.yml" timestamp="1485950469087">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/vendor/guzzlehttp/psr7/src/Stream.php" timestamp="1482087935444">
         <mark key="'" line="50" column="20" />
@@ -48,6 +53,12 @@
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" timestamp="1485345778728">
         <mark key="'" line="553" column="39" />
+      </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactoryInterface.php" timestamp="1485949983988">
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="57" />
+        <mark key="." line="32" column="57" />
+        <mark key="^" line="32" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" timestamp="1484303576098">
         <mark key="[" line="31" column="0" />
@@ -87,23 +98,26 @@
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" timestamp="1484746435228">
         <mark key="'" line="577" column="19" />
       </file>
-      <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1484302748447">
-        <mark key="'" line="263" column="23" />
+      <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1485950263235">
+        <mark key="'" line="390" column="2" />
+        <mark key="[" line="378" column="0" />
+        <mark key="]" line="382" column="64" />
       </file>
       <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/GbaServiceInterface.php" timestamp="1481292677046">
         <mark key="'" line="13" column="4" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_gba_test/om_gba_test.routing.yml" timestamp="1485950507524" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Component/Plugin/Discovery/DiscoveryInterface.php" timestamp="1485782097694">
         <mark key="." line="39" column="54" />
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Block/BlockBase.php" timestamp="1485791116099">
         <mark key="'" line="55" column="20" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_gba_test/composer.json" timestamp="1485949235557">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="23" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_gba_test/composer.json" timestamp="1485949416272">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="D:/project/dls_old/sites/all/modules/custom/om_gba/stub/service_gba.wsdl" timestamp="1481639844602">
         <mark key="'" line="37" column="37" />
@@ -207,6 +221,7 @@
         <mark key="." line="37" column="33" />
         <mark key="^" line="37" column="36" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_gba_test/src/Form/StubSettingsForm.php" timestamp="1485950122462" />
       <file name="D:/project/dlv/project/web/modules/custom/om_amber/src/Form/Tral.php" timestamp="1482304977280">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="43" />
@@ -364,6 +379,12 @@
         <mark key="^" line="475" column="31" />
         <mark key="." line="477" column="30" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_gba_test/om_gba.info.yml" timestamp="1485950329244">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="11" column="43" />
+      </file>
       <file name="D:/project/dlv/project/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1482151310404">
         <mark key="'" line="118" column="28" />
       </file>
@@ -409,20 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="29" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
-      <jump line="207" column="37" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
-      <jump line="3" column="0" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
-      <jump line="548" column="32" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="601" column="10" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="602" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="603" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="604" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="605" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="606" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="608" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="609" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="610" column="8" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="613" column="20" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
       <jump line="614" column="43" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
       <jump line="615" column="39" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
       <jump line="617" column="18" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
@@ -509,63 +516,76 @@
       <jump line="0" column="0" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Plugin/Discovery/AnnotatedClassDiscovery.php" />
       <jump line="143" column="0" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Plugin/Discovery/AnnotatedClassDiscovery.php" />
       <jump line="23" column="6" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Plugin/DefaultPluginManager.php" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="339" column="87" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="350" column="58" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="356" column="74" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="364" column="105" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="378" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="379" column="30" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="382" column="57" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="383" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="385" column="30" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="386" column="13" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="387" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="388" column="12" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="390" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ServiceReference</text>
       </register>
       <register name="/" type="4">
-        <text>construct</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJkdm9tL2diYV9zZXJ2aWNlIjogImRldi1tYXN0ZXIiLAo=</text>
+        <text encoding="base64">ICBsb2dnZXIuZmFjdG9yeToKICAgIGNsYXNzOiBEcnVwYWxcQ29yZVxMb2dnZXJcTG9nZ2VyQ2hhbm5lbEZhY3RvcnkKICAgIHBhcmVudDogY29udGFpbmVyLnRyYWl0CiAgICB0YWdzOgogICAgICAtIHsgbmFtZTogc2VydmljZV9jb2xsZWN0b3IsIHRhZzogbG9nZ2VyLCBjYWxsOiBhZGRMb2dnZXIgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkdm9tL29tX2diYSI6ICJkZXYtbWFzdGVyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">b21fZ2JhLnNldHRpbmdzOgogIHJvdXRlX25hbWU6IG9tX2diYS5zZXR0aW5ncwogIGJhc2Vfcm91dGU6IG9tX2diYS5zZXR0aW5ncwogIHRpdGxlOiAnR0JBIC0gR2VuZXJhbCcKCm9tX2diYS5jb25maWdfc29hcDoKICByb3V0ZV9uYW1lOiBvbV9nYmEuY29uZmlnX3NvYXAKICBiYXNlX3JvdXRlOiBvbV9nYmEuc2V0dGluZ3MKICB0aXRsZTogJ0dCQSAtIFNPQVAnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICgkdGhpcy0+Z2JhUmVzdWx0KSB7Cg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgKiBSZXR1cm5zIHRoZSBzZXJ2aWNlIGFzIGFzc2lnbmVkIGluIHRoZSBGb3JtLgogICAqCiAgICogQHJldHVybiBcRHZvbVxTZXJ2aWNlXEdiYVxHYmFTZXJ2aWNlSW50ZXJmYWNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgamoK</text>
+        <text encoding="base64">ICAgICJkdm9tL2diYV9zZXJ2aWNlIjogIkBkZXYiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJkdm9tL29tX2diYSI6ICJkZXYtbWFzdGVyIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vR2V0IGZvcm0gZGF0YQogICAgJGdiYVJlc3VsdCA9ICRmb3JtX3N0YXRlLT5nZXRWYWx1ZSgnZ2JhX3Jlc3VsdCcpOwo=</text>
+        <text encoding="base64">ICAgIGlmICgkdGhpcy0+Z2JhUmVzdWx0KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1fc3RhdGUtPnNldFZhbHVlKCdnYmFfcmVzdWx0JywgJGdiYVJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>construct</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>construct</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ajax</entry>
         <entry>popuphandler</entry>
         <entry>proxy</entry>
         <entry>var_dump</entry>
@@ -585,6 +605,7 @@
         <entry>gbaResult</entry>
         <entry>throw</entry>
         <entry>construct</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
@@ -602,8 +623,8 @@
         <entry encoding="base64">JzwsJz5zL3RoaXMtPg==</entry>
         <entry encoding="base64">JzwsJz5zL2N1cnJlbnRVc2VyL3VzZXI=</entry>
         <entry encoding="base64">JzwsJz5zL2diYVJlc3VsdC9tb2RlbA==</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
