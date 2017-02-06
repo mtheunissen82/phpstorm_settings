@@ -49,6 +49,7 @@
         <mark key="." line="73" column="26" />
         <mark key="^" line="73" column="26" />
       </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/modules/saml/www/sp/saml2-logout.php" timestamp="1486381639495" />
       <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/authsources.php" timestamp="1483601287091">
         <mark key="'" line="10" column="32" />
         <mark key="[" line="21" column="26" />
@@ -149,6 +150,7 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="50" column="20" />
       </file>
+      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/metadata/saml20-idp-remote.php" timestamp="1486381371064" />
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/composer-patches/SimpleSamlPhp-SoapClient-peer_name.patch" timestamp="1484317870672">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
@@ -439,6 +441,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="D:/project/dlv/project/config/simplesamlphp/local/metadata/saml20-idp-remote.php" timestamp="1486381402375" />
       <file name="D:/project/dlv/project/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" timestamp="1482149106356">
         <mark key="'" line="83" column="56" />
       </file>
