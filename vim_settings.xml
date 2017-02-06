@@ -561,7 +561,7 @@
         <text>extends</text>
       </register>
       <register name="/" type="4">
-        <text>onRespond</text>
+        <text>post</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgU29hcFN0dWIoKTsK</text>
@@ -598,9 +598,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onRespond</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern>onRespond</last-pattern>
+      <last-pattern>post</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -608,7 +608,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dologout</entry>
         <entry>security</entry>
         <entry>securityGroup</entry>
         <entry>abc</entry>
@@ -628,6 +627,7 @@
         <entry>htaccess</entry>
         <entry>htacc</entry>
         <entry>onRespond</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
