@@ -21,8 +21,11 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1486395267468">
+      <file name="/a.dummy" timestamp="1486396671434">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" timestamp="1486396886108">
+        <mark key="'" line="285" column="47" />
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateValuesTrait.php" timestamp="1483013951882">
         <mark key="'" line="33" column="54" />
@@ -449,10 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="691" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="692" column="35" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="694" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="695" column="35" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
       <jump line="697" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
       <jump line="698" column="35" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
       <jump line="700" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
@@ -549,6 +548,10 @@
       <jump line="105" column="41" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
       <jump line="18" column="37" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactoryCollector.php" />
       <jump line="0" column="0" filename="D:/project/dlv/project/web/core/includes/install.core.inc" />
+      <jump line="230" column="24" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
+      <jump line="178" column="13" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
+      <jump line="96" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
+      <jump line="285" column="47" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -558,7 +561,7 @@
         <text>extends</text>
       </register>
       <register name="/" type="4">
-        <text>htacc</text>
+        <text>onRespond</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgU29hcFN0dWIoKTsK</text>
@@ -595,9 +598,9 @@
       </register>
     </registers>
     <search>
-      <last-search>htacc</last-search>
+      <last-search>onRespond</last-search>
       <last-offset />
-      <last-pattern>htacc</last-pattern>
+      <last-pattern>onRespond</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -605,7 +608,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cookie</entry>
         <entry>dologout</entry>
         <entry>security</entry>
         <entry>securityGroup</entry>
@@ -625,6 +627,7 @@
         <entry>logger</entry>
         <entry>htaccess</entry>
         <entry>htacc</entry>
+        <entry>onRespond</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
