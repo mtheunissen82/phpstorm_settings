@@ -21,7 +21,7 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1486396671434">
+      <file name="/a.dummy" timestamp="1486480931049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" timestamp="1486396886108">
@@ -30,7 +30,6 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormStateValuesTrait.php" timestamp="1483013951882">
         <mark key="'" line="33" column="54" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/modules/saml/www/sp/saml2-logout.php" timestamp="1486381639495" />
       <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/authsources.php" timestamp="1483601287091">
         <mark key="'" line="10" column="32" />
         <mark key="[" line="21" column="26" />
@@ -83,7 +82,6 @@
       <file name="D:/project/dlv/project/web/core/includes/install.core.inc" timestamp="1486395332890">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/metadata/saml20-idp-remote.php" timestamp="1486381371064" />
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/SynchronizationForm.php" timestamp="1482329838361">
         <mark key="'" line="53" column="29" />
         <mark key="[" line="20" column="39" />
@@ -229,7 +227,6 @@
         <mark key="." line="73" column="26" />
         <mark key="^" line="73" column="26" />
       </file>
-      <file name="D:/project/dlv/project/web/core/modules/filter/src/Element/TextFormat.php" timestamp="1486385654288" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" timestamp="1484303576098">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -303,8 +300,8 @@
       <file name="D:/project/dlv/project/web/themes/custom/om_dlv_theme/js/om_dlv_theme.js" timestamp="1483971572385">
         <mark key="'" line="354" column="12" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" timestamp="1484298167648">
-        <mark key="'" line="146" column="67" />
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" timestamp="1486480592320">
+        <mark key="'" line="127" column="19" />
       </file>
       <file name="D:/project/dls_old/sites/all/modules/custom/om_gba/includes/om_gba.soap_definitions.inc" timestamp="1481525166645">
         <mark key="'" line="1007" column="51" />
@@ -402,7 +399,6 @@
         <mark key="." line="245" column="5" />
         <mark key="^" line="245" column="5" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_login/src/DigidAuthenticationProvider.php" timestamp="1486383766738" />
       <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" timestamp="1481639975331">
         <mark key="'" line="1136" column="26" />
       </file>
@@ -446,17 +442,11 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="24" column="16" />
       </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/local/metadata/saml20-idp-remote.php" timestamp="1486381402375" />
       <file name="D:/project/dlv/project/web/modules/custom/om_amber/src/RequestModelBuilder.php" timestamp="1485178749187">
         <mark key="'" line="98" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="697" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="698" column="35" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="700" column="17" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="701" column="35" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
-      <jump line="714" column="19" filename="D:/project/dls/project/vendor/dvom/dls_model/src/Strafzaak.php" />
       <jump line="0" column="0" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="349" column="14" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
       <jump line="364" column="14" filename="D:/project/dlv/project/vendor/dvom/amber_service/src/Resources/RequestModel.php" />
@@ -552,6 +542,11 @@
       <jump line="178" column="13" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
       <jump line="96" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
       <jump line="285" column="47" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
+      <jump line="12" column="13" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
+      <jump line="16" column="20" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
+      <jump line="92" column="14" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
+      <jump line="127" column="19" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -561,7 +556,7 @@
         <text>extends</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>format</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgU29hcFN0dWIoKTsK</text>
@@ -598,9 +593,9 @@
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>format</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern>format</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -608,7 +603,6 @@
     </search>
     <history>
       <history-search>
-        <entry>security</entry>
         <entry>securityGroup</entry>
         <entry>abc</entry>
         <entry>fase</entry>
@@ -628,6 +622,7 @@
         <entry>htacc</entry>
         <entry>onRespond</entry>
         <entry>post</entry>
+        <entry>format</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
