@@ -566,7 +566,7 @@
         <text>{{ legend.title }</text>
       </register>
       <register name="/" type="4">
-        <text>format</text>
+        <text>logout</text>
       </register>
       <register name="0" type="4">
         <text>legend.title</text>
@@ -603,18 +603,16 @@
       </register>
     </registers>
     <search>
-      <last-search>format</last-search>
+      <last-search>logout</last-search>
       <last-offset />
-      <last-pattern>format</last-pattern>
+      <last-pattern>logout</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>securityGroup</entry>
-        <entry>abc</entry>
         <entry>fase</entry>
         <entry>ddocname</entry>
         <entry encoding="base64">XDxkRG9jTmFtZVw+</entry>
@@ -633,6 +631,8 @@
         <entry>onRespond</entry>
         <entry>post</entry>
         <entry>format</entry>
+        <entry>SingleLogoutServiceBinding</entry>
+        <entry>logout</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
