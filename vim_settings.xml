@@ -234,11 +234,11 @@
       <file name="D:/project/dlv/project/vendor/psr/http-message/src/RequestInterface.php" timestamp="1481897045826">
         <mark key="'" line="124" column="20" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_hardening/src/XGeneratorHeaderRemoverSubscriber.php" timestamp="1487173694149">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="31" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_hardening/src/XGeneratorHeaderRemoverSubscriber.php" timestamp="1487174551230">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="26" column="5" />
+        <mark key="^" line="26" column="5" />
       </file>
       <file name="D:/project/dlv/project/vendor/guzzlehttp/psr7/src/Stream.php" timestamp="1482087935444">
         <mark key="'" line="50" column="20" />
@@ -468,6 +468,12 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
+      <file name="D:/project/dlv/project/web/.htaccess" timestamp="1487174822016">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="69" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="69" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/ManualAmberSynchronizer.php" timestamp="1482311254896">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -591,10 +597,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gba</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>gba</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>event_subscriber</text>
