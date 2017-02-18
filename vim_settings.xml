@@ -24,8 +24,13 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1487339949488">
+      <file name="/a.dummy" timestamp="1487347968906">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" timestamp="1487347093403">
+        <mark key="'" line="429" column="26" />
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1487175729293">
         <mark key="[" line="57" column="0" />
@@ -130,6 +135,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="5" column="6" />
       </file>
+      <file name="D:/project/dlv/project/web/core/themes/classy/templates/form/textarea.html.twig" timestamp="1487348375407" />
       <file name="D:/project/dlv/project/vendor/symfony/http-kernel/HttpKernel.php" timestamp="1487162580383">
         <mark key="[" line="181" column="21" />
         <mark key="]" line="181" column="40" />
@@ -158,6 +164,9 @@
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_acceptance/om_dlv_acceptance.install" timestamp="1487251189116">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
+      </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" timestamp="1487348060535">
+        <mark key="'" line="14" column="6" />
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_acceptance/config/install/om_justid.settings.prod.yml" timestamp="1481898132044">
         <mark key="[" line="0" column="0" />
@@ -201,6 +210,7 @@
         <mark key="^" line="52" column="94" />
         <mark key="." line="52" column="8" />
       </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/RenderElement.php" timestamp="1487348225581" />
       <file name="D:/project/dlv/project/web/modules/custom/om_gba/src/SoapStubFactory.php" timestamp="1485953618830">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -243,9 +253,6 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487172827397">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_amber/om_amber.links.task.yml" timestamp="1482309992224">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="32" />
@@ -257,9 +264,6 @@
         <mark key="]" line="15" column="4" />
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="4" />
-      </file>
-      <file name="/fragment.php" timestamp="1485792764494">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_hardening/src/XGeneratorRemoverSubscriber.php" timestamp="1487162704010">
         <mark key="[" line="2" column="30" />
@@ -296,6 +300,7 @@
         <mark key="^" line="9" column="59" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/Textarea.php" timestamp="1487347557153" />
       <file name="D:/project/dlv/project/vendor/dvom/justid_service/src/JustIdServiceFactory.php" timestamp="1481899142055">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="16" />
@@ -321,24 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="4" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
-      <jump line="104" column="4" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
-      <jump line="15" column="12" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
-      <jump line="37" column="32" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
-      <jump line="39" column="11" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
-      <jump line="45" column="34" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
-      <jump line="47" column="77" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
-      <jump line="49" column="21" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
-      <jump line="93" column="55" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
-      <jump line="105" column="41" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactory.php" />
-      <jump line="18" column="37" filename="D:/project/dlv/project/web/modules/custom/om_gba/src/GbaServiceFactoryCollector.php" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/web/core/includes/install.core.inc" />
-      <jump line="230" column="24" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
-      <jump line="178" column="13" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
-      <jump line="96" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
-      <jump line="285" column="47" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/EventSubscriber/FinishResponseSubscriber.php" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
-      <jump line="12" column="13" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
       <jump line="16" column="20" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
       <jump line="92" column="14" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
       <jump line="127" column="19" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/config-templates/config.php" />
@@ -421,16 +408,34 @@
       <jump line="85" column="26" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Cron.php" />
       <jump line="54" column="17" filename="D:/project/dlv/project/vendor/drush/drush/lib/Drush/Queue/Queue8.php" />
       <jump line="69" column="19" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" />
+      <jump line="17" column="6" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" />
+      <jump line="416" column="22" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" />
+      <jump line="429" column="26" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" />
+      <jump line="404" column="52" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="405" column="64" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="413" column="45" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="429" column="5" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="430" column="28" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="431" column="7" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="434" column="21" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="436" column="29" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="437" column="19" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="443" column="23" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="460" column="29" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="461" column="26" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="2" column="22" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="12" column="44" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
+      <jump line="14" column="6" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PD9waHAK</text>
+      <register name="&quot;" type="4">
+        <text>seeeeeeeeee</text>
       </register>
       <register name="-" type="4">
-        <text>om_logger</text>
+        <text>seeeeeeeeee</text>
       </register>
       <register name="/" type="4">
-        <text>ueue</text>
+        <text>theme</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD9waHAK</text>
@@ -467,9 +472,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ueue</last-search>
+      <last-search>theme</last-search>
       <last-offset />
-      <last-pattern>ueue</last-pattern>
+      <last-pattern>theme</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -477,8 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>currentUser</entry>
-        <entry>gbaResult</entry>
         <entry>throw</entry>
         <entry>construct</entry>
         <entry>collector</entry>
@@ -497,6 +500,8 @@
         <entry>format</entry>
         <entry>queue</entry>
         <entry>ueue</entry>
+        <entry>#theme</entry>
+        <entry>theme</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
