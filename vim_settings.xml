@@ -3,8 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/project/dlv/project/vendor/drush/drush/lib/Drush/Queue/Queue8.php" timestamp="1487340150653">
+        <mark key="'" line="54" column="17" />
+      </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Cron.php" timestamp="1487340399204">
         <mark key="'" line="85" column="26" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerErrorLog.php" timestamp="1487337585590">
+        <mark key="'" line="33" column="33" />
       </file>
       <file name="/a.dummy" timestamp="1487509689753">
         <mark key="[" line="0" column="0" />
@@ -14,15 +20,40 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" timestamp="1487347093403">
         <mark key="'" line="429" column="26" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_login/composer.json" timestamp="1486547038103">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+      </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" timestamp="1487340157276">
+        <mark key="'" line="69" column="19" />
+        <mark key="[" line="52" column="7" />
+        <mark key="]" line="52" column="8" />
+        <mark key="^" line="52" column="94" />
+        <mark key="." line="52" column="8" />
+      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1487175729293">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="D:/project/dlv/project/config/simplesamlphp/development/config/config.php.j2" timestamp="1487592570812">
+        <mark key="'" line="20" column="3" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1487175738584">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
+      </file>
+      <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_local/config/install/seckit.settings.yml" timestamp="1487509784817">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_acceptance/om_dlv_acceptance.info.yml" timestamp="1487175745040">
         <mark key="[" line="57" column="0" />
@@ -45,66 +76,32 @@
         <mark key="[" line="1208" column="0" />
         <mark key="]" line="1211" column="33" />
       </file>
-      <file name="D:/project/dlv/project/web/core/themes/classy/templates/form/textarea.html.twig" timestamp="1487348375407" />
-      <file name="D:/project/dlv/project/vendor/symfony/http-kernel/HttpKernel.php" timestamp="1487162580383">
-        <mark key="[" line="181" column="21" />
-        <mark key="]" line="181" column="40" />
-      </file>
-      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" timestamp="1487337610690">
-        <mark key="'" line="88" column="13" />
-      </file>
-      <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_acceptance/om_dlv_acceptance.install" timestamp="1487251189116">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-      </file>
-      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" timestamp="1487348060535">
-        <mark key="'" line="14" column="6" />
-      </file>
-      <file name="D:/project/dlv/project/vendor/drush/drush/lib/Drush/Queue/Queue8.php" timestamp="1487340150653">
-        <mark key="'" line="54" column="17" />
-      </file>
-      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerErrorLog.php" timestamp="1487337585590">
-        <mark key="'" line="33" column="33" />
-      </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_login/composer.json" timestamp="1486547038103">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-      </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" timestamp="1487340157276">
-        <mark key="'" line="69" column="19" />
-        <mark key="[" line="52" column="7" />
-        <mark key="]" line="52" column="8" />
-        <mark key="^" line="52" column="94" />
-        <mark key="." line="52" column="8" />
-      </file>
-      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/RenderElement.php" timestamp="1487348225581" />
-      <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_local/config/install/seckit.settings.yml" timestamp="1487509784817">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
-      </file>
       <file name="D:/project/dlv/project/web/themes/custom/om_base_theme/templates/fieldset.html.twig" timestamp="1486550817856">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/Textarea.php" timestamp="1487347557153" />
+      <file name="D:/project/dlv/project/vendor/symfony/http-kernel/HttpKernel.php" timestamp="1487162580383">
+        <mark key="[" line="181" column="21" />
+        <mark key="]" line="181" column="40" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" timestamp="1487591760721">
+        <mark key="'" line="92" column="55" />
+      </file>
+      <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_acceptance/om_dlv_acceptance.install" timestamp="1487251189116">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.info.yml" timestamp="1487162973080">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" timestamp="1487348060535">
+        <mark key="'" line="14" column="6" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1187" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1192" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1197" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1202" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1206" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1211" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1216" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="1221" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="1226" column="16" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="301" column="54" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
@@ -146,12 +143,6 @@
       <jump line="33" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerErrorLog.php" />
       <jump line="14" column="6" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
       <jump line="29" column="13" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
-      <jump line="63" column="15" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
-      <jump line="65" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
-      <jump line="67" column="34" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
-      <jump line="69" column="25" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
-      <jump line="77" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
-      <jump line="88" column="13" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
       <jump line="11" column="43" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
       <jump line="1208" column="0" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="339" column="127" filename="D:/project/dlv/project/web/core/core.services.yml" />
@@ -198,16 +189,29 @@
       <jump line="15" column="0" filename="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_local/config/install/seckit.settings.yml" />
       <jump line="16" column="0" filename="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_local/config/install/seckit.settings.yml" />
       <jump line="31" column="0" filename="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_local/config/install/seckit.settings.yml" />
+      <jump line="35" column="20" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
+      <jump line="63" column="15" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
+      <jump line="65" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
+      <jump line="67" column="34" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
+      <jump line="77" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
+      <jump line="88" column="13" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
+      <jump line="69" column="8" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
+      <jump line="92" column="55" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/config/simplesamlphp/development/config/config.php.j2" />
+      <jump line="9" column="26" filename="D:/project/dlv/project/config/simplesamlphp/development/config/config.php.j2" />
+      <jump line="18" column="3" filename="D:/project/dlv/project/config/simplesamlphp/development/config/config.php.j2" />
+      <jump line="19" column="3" filename="D:/project/dlv/project/config/simplesamlphp/development/config/config.php.j2" />
+      <jump line="20" column="3" filename="D:/project/dlv/project/config/simplesamlphp/development/config/config.php.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB4X3hzczoK</text>
+      <register name="&quot;" type="4">
+        <text>syslog</text>
       </register>
       <register name="-" type="4">
-        <text>seeeeeeeeee</text>
+        <text>syslog</text>
       </register>
       <register name="/" type="4">
-        <text>theme</text>
+        <text>logging</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD9waHAK</text>
@@ -245,9 +249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>theme</last-search>
+      <last-search>logging</last-search>
       <last-offset />
-      <last-pattern>theme</last-pattern>
+      <last-pattern>logging</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -255,9 +259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>throw</entry>
-        <entry>construct</entry>
-        <entry>collector</entry>
         <entry>service_collector</entry>
         <entry>logger</entry>
         <entry>htaccess</entry>
@@ -269,12 +270,15 @@
         <entry>drop</entry>
         <entry>event_subscriber</entry>
         <entry>syslog</entry>
-        <entry encoding="base64">JHRoaXMtPmZvcm1hdA==</entry>
-        <entry>format</entry>
         <entry>queue</entry>
         <entry>ueue</entry>
         <entry>#theme</entry>
         <entry>theme</entry>
+        <entry>format</entry>
+        <entry encoding="base64">JHRoaXMtPmZvcm1hdA==</entry>
+        <entry>loggindir</entry>
+        <entry>loggingdir</entry>
+        <entry>logging</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
