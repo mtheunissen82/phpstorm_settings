@@ -95,8 +95,12 @@
         <mark key="[" line="181" column="21" />
         <mark key="]" line="181" column="40" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" timestamp="1487758538475">
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" timestamp="1487759511769">
         <mark key="'" line="99" column="0" />
+        <mark key="[" line="1020" column="17" />
+        <mark key="]" line="1020" column="20" />
+        <mark key="^" line="1020" column="20" />
+        <mark key="." line="1020" column="20" />
       </file>
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" timestamp="1487591760721">
         <mark key="'" line="92" column="55" />
