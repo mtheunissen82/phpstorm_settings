@@ -17,7 +17,7 @@
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerErrorLog.php" timestamp="1487337585590">
         <mark key="'" line="33" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1487509689753">
+      <file name="/a.dummy" timestamp="1487757748451">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -69,6 +69,9 @@
         <mark key="]" line="21" column="13" />
         <mark key="." line="21" column="13" />
       </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" timestamp="1487757904496">
+        <mark key="'" line="99" column="0" />
+      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_acceptance/om_dlv_acceptance.info.yml" timestamp="1487175745040">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="16" />
@@ -109,9 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="54" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
-      <jump line="52" column="6" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
-      <jump line="5" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
       <jump line="57" column="76" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
       <jump line="293" column="58" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
       <jump line="300" column="26" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
@@ -209,6 +209,9 @@
       <jump line="20" column="3" filename="D:/project/dlv/project/config/simplesamlphp/development/config/config.php.j2" />
       <jump line="0" column="0" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
       <jump line="42" column="18" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
+      <jump line="641" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
+      <jump line="99" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
