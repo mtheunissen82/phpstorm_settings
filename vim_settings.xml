@@ -25,8 +25,8 @@
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" timestamp="1487340157276">
-        <mark key="'" line="69" column="19" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" timestamp="1487769773211">
+        <mark key="'" line="49" column="11" />
         <mark key="[" line="52" column="7" />
         <mark key="]" line="52" column="8" />
         <mark key="^" line="52" column="94" />
@@ -119,9 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="58" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
-      <jump line="300" column="26" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
-      <jump line="304" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
       <jump line="312" column="68" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
       <jump line="313" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
       <jump line="362" column="13" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
@@ -219,6 +216,9 @@
       <jump line="0" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
       <jump line="99" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
       <jump line="762" column="22" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="25" column="3" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" />
+      <jump line="54" column="27" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" />
+      <jump line="49" column="11" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -228,7 +228,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>setCookie</text>
+        <text>setlogger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD9waHAK</text>
@@ -266,9 +266,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setCookie</last-search>
+      <last-search>setlogger</last-search>
       <last-offset />
-      <last-pattern>setCookie</last-pattern>
+      <last-pattern>setlogger</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -276,7 +276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>htaccess</entry>
         <entry>htacc</entry>
         <entry>onRespond</entry>
         <entry>post</entry>
@@ -296,6 +295,7 @@
         <entry>logging</entry>
         <entry>secure</entry>
         <entry>setCookie</entry>
+        <entry>setlogger</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
