@@ -6,11 +6,6 @@
       <file name="D:/project/dlv/project/vendor/drush/drush/lib/Drush/Queue/Queue8.php" timestamp="1487340150653">
         <mark key="'" line="54" column="17" />
       </file>
-      <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1487339941533">
-        <mark key="'" line="428" column="30" />
-        <mark key="[" line="1208" column="0" />
-        <mark key="]" line="1211" column="33" />
-      </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Cron.php" timestamp="1487340399204">
         <mark key="'" line="85" column="26" />
       </file>
@@ -24,11 +19,6 @@
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" timestamp="1487347093403">
         <mark key="'" line="429" column="26" />
-      </file>
-      <file name="D:/project/dlv/project/web/themes/custom/om_base_theme/templates/fieldset.html.twig" timestamp="1486550817856">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_login/composer.json" timestamp="1486547038103">
         <mark key="[" line="13" column="26" />
@@ -54,10 +44,6 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="27" />
       </file>
-      <file name="D:/project/dlv/project/vendor/symfony/http-kernel/HttpKernel.php" timestamp="1487162580383">
-        <mark key="[" line="181" column="21" />
-        <mark key="]" line="181" column="40" />
-      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1487175738584">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="16" />
@@ -69,16 +55,10 @@
         <mark key="]" line="21" column="13" />
         <mark key="." line="21" column="13" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" timestamp="1487757904496">
-        <mark key="'" line="99" column="0" />
-      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_acceptance/om_dlv_acceptance.info.yml" timestamp="1487175745040">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
-      </file>
-      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" timestamp="1487591760721">
-        <mark key="'" line="92" column="55" />
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_local/om_dlv_local.info.yml" timestamp="1487175733680">
         <mark key="[" line="57" column="0" />
@@ -92,6 +72,35 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" timestamp="1487339852683">
+        <mark key="'" line="11" column="43" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" timestamp="1487758328051">
+        <mark key="'" line="762" column="22" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" timestamp="1487337356115">
+        <mark key="'" line="186" column="64" />
+      </file>
+      <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1487339941533">
+        <mark key="'" line="428" column="30" />
+        <mark key="[" line="1208" column="0" />
+        <mark key="]" line="1211" column="33" />
+      </file>
+      <file name="D:/project/dlv/project/web/themes/custom/om_base_theme/templates/fieldset.html.twig" timestamp="1486550817856">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/symfony/http-kernel/HttpKernel.php" timestamp="1487162580383">
+        <mark key="[" line="181" column="21" />
+        <mark key="]" line="181" column="40" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" timestamp="1487758538475">
+        <mark key="'" line="99" column="0" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" timestamp="1487591760721">
+        <mark key="'" line="92" column="55" />
+      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_acceptance/om_dlv_acceptance.install" timestamp="1487251189116">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -101,18 +110,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" timestamp="1487339852683">
-        <mark key="'" line="11" column="43" />
-      </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" timestamp="1487348060535">
         <mark key="'" line="14" column="6" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" timestamp="1487337356115">
-        <mark key="'" line="186" column="64" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="76" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
       <jump line="293" column="58" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
       <jump line="300" column="26" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
       <jump line="304" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
@@ -212,6 +214,7 @@
       <jump line="641" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
       <jump line="0" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
       <jump line="99" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
+      <jump line="762" column="22" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -221,7 +224,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>secure</text>
+        <text>setCookie</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD9waHAK</text>
@@ -259,9 +262,9 @@
       </register>
     </registers>
     <search>
-      <last-search>secure</last-search>
+      <last-search>setCookie</last-search>
       <last-offset />
-      <last-pattern>secure</last-pattern>
+      <last-pattern>setCookie</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -269,7 +272,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry>htaccess</entry>
         <entry>htacc</entry>
         <entry>onRespond</entry>
@@ -289,6 +291,7 @@
         <entry>loggingdir</entry>
         <entry>logging</entry>
         <entry>secure</entry>
+        <entry>setCookie</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
