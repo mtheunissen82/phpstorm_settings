@@ -9,6 +9,9 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Cron.php" timestamp="1487340399204">
         <mark key="'" line="85" column="26" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/PrivateFileService.php" timestamp="1487931334102">
+        <mark key="'" line="10" column="16" />
+      </file>
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerErrorLog.php" timestamp="1487337585590">
         <mark key="'" line="33" column="33" />
       </file>
@@ -19,6 +22,9 @@
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" timestamp="1487347093403">
         <mark key="'" line="429" column="26" />
+      </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Routing/UrlGenerator.php" timestamp="1487931577931">
+        <mark key="'" line="274" column="28" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_login/composer.json" timestamp="1486547038103">
         <mark key="[" line="13" column="26" />
@@ -60,6 +66,12 @@
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/StreamOmPrivate.php" timestamp="1487931684820">
+        <mark key="[" line="69" column="37" />
+        <mark key="]" line="69" column="42" />
+        <mark key="^" line="69" column="42" />
+        <mark key="." line="69" column="42" />
+      </file>
       <file name="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" timestamp="1487929837233">
         <mark key="'" line="0" column="0" />
       </file>
@@ -89,14 +101,14 @@
         <mark key="[" line="1208" column="0" />
         <mark key="]" line="1211" column="33" />
       </file>
+      <file name="D:/project/dlv/project/web/sites/default/release.settings.php.j2" timestamp="1487931236002" />
       <file name="D:/project/dlv/project/web/themes/custom/om_base_theme/templates/fieldset.html.twig" timestamp="1486550817856">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="D:/project/dlv/project/vendor/symfony/http-kernel/HttpKernel.php" timestamp="1487162580383">
-        <mark key="[" line="181" column="21" />
-        <mark key="]" line="181" column="40" />
+      <file name="D:/project/dlv/project/web/.htaccess" timestamp="1487931931572">
+        <mark key="'" line="5" column="30" />
       </file>
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" timestamp="1487842551931">
         <mark key="'" line="728" column="4" />
@@ -108,10 +120,6 @@
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" timestamp="1487591760721">
         <mark key="'" line="92" column="55" />
       </file>
-      <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_acceptance/om_dlv_acceptance.install" timestamp="1487251189116">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.info.yml" timestamp="1487162973080">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -122,14 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
-      <jump line="14" column="13" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
-      <jump line="39" column="15" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
-      <jump line="41" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
-      <jump line="43" column="34" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
-      <jump line="53" column="33" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
-      <jump line="66" column="9" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
-      <jump line="15" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
       <jump line="45" column="8" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
       <jump line="57" column="8" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerErrorLog.php" />
       <jump line="35" column="34" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerErrorLog.php" />
@@ -222,6 +222,14 @@
       <jump line="7" column="3" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
       <jump line="8" column="3" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
       <jump line="0" column="0" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
+      <jump line="124" column="4" filename="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/PrivateFileService.php" />
+      <jump line="99" column="64" filename="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/PrivateFileService.php" />
+      <jump line="100" column="27" filename="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/PrivateFileService.php" />
+      <jump line="10" column="16" filename="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/PrivateFileService.php" />
+      <jump line="299" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Routing/UrlGenerator.php" />
+      <jump line="274" column="28" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Routing/UrlGenerator.php" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/web/.htaccess" />
+      <jump line="5" column="30" filename="D:/project/dlv/project/web/.htaccess" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -231,7 +239,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>yml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD9waHAK</text>
@@ -269,9 +277,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>yml</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>yml</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -279,12 +287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SingleLogoutServiceBinding</entry>
-        <entry>logout</entry>
-        <entry>drop</entry>
-        <entry>event_subscriber</entry>
-        <entry>syslog</entry>
-        <entry>queue</entry>
         <entry>ueue</entry>
         <entry>#theme</entry>
         <entry>theme</entry>
@@ -299,6 +301,12 @@
         <entry>setcookie</entry>
         <entry>showerrors</entry>
         <entry>debug</entry>
+        <entry>generate</entry>
+        <entry>url</entry>
+        <entry>http</entry>
+        <entry>absolute</entry>
+        <entry>md</entry>
+        <entry>yml</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
@@ -316,9 +324,9 @@
         <entry encoding="base64">JzwsJz5zL3RoaXMtPg==</entry>
         <entry encoding="base64">JzwsJz5zL2N1cnJlbnRVc2VyL3VzZXI=</entry>
         <entry encoding="base64">JzwsJz5zL2diYVJlc3VsdC9tb2RlbA==</entry>
-        <entry>W</entry>
         <entry>bd</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
