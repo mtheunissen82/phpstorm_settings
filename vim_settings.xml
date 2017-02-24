@@ -60,13 +60,16 @@
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" timestamp="1487929837233">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_local/om_dlv_local.info.yml" timestamp="1487175733680">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" timestamp="1487755906337">
-        <mark key="'" line="42" column="18" />
+      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" timestamp="1487929831823">
+        <mark key="'" line="8" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
@@ -119,10 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="19" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
-      <jump line="80" column="23" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
-      <jump line="82" column="20" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
-      <jump line="186" column="64" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" />
       <jump line="1" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
       <jump line="14" column="13" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
       <jump line="39" column="15" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
@@ -219,6 +218,10 @@
       <jump line="969" column="27" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
       <jump line="991" column="15" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
       <jump line="728" column="4" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
+      <jump line="27" column="24" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
+      <jump line="7" column="3" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
+      <jump line="8" column="3" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -228,7 +231,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>setcookie</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD9waHAK</text>
@@ -266,9 +269,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setcookie</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>setcookie</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -276,8 +279,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onRespond</entry>
-        <entry>post</entry>
         <entry>SingleLogoutServiceBinding</entry>
         <entry>logout</entry>
         <entry>drop</entry>
@@ -296,6 +297,8 @@
         <entry>setCookie</entry>
         <entry>setlogger</entry>
         <entry>setcookie</entry>
+        <entry>showerrors</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
