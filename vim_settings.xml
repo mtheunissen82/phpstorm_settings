@@ -96,17 +96,12 @@
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" timestamp="1487337356115">
         <mark key="'" line="186" column="64" />
       </file>
-      <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1487339941533">
-        <mark key="'" line="428" column="30" />
-        <mark key="[" line="1208" column="0" />
-        <mark key="]" line="1211" column="33" />
-      </file>
-      <file name="D:/project/dlv/project/web/sites/default/release.settings.php.j2" timestamp="1487931236002" />
       <file name="D:/project/dlv/project/web/themes/custom/om_base_theme/templates/fieldset.html.twig" timestamp="1486550817856">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" timestamp="1488208241189" />
       <file name="D:/project/dlv/project/web/.htaccess" timestamp="1487931931572">
         <mark key="'" line="5" column="30" />
       </file>
@@ -283,7 +278,7 @@
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
