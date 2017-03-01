@@ -99,9 +99,9 @@
       <file name="D:/project/dlv/project/vendor/dvom/justid_service/src/JustIdService.php" timestamp="1488364039226">
         <mark key="'" line="53" column="3" />
         <mark key="[" line="90" column="101" />
-        <mark key="]" line="91" column="3" />
-        <mark key="." line="91" column="3" />
-        <mark key="^" line="91" column="3" />
+        <mark key="]" line="96" column="3" />
+        <mark key="." line="96" column="3" />
+        <mark key="^" line="96" column="3" />
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_local/om_dlv_local.info.yml" timestamp="1487175733680">
         <mark key="[" line="57" column="0" />
@@ -303,7 +303,7 @@
         <text encoding="base64">aWYgKCRzcmNNZXRhZGF0YS0+aGFzVmFsdWUoJ3NhbWwuU09BUENsaWVudC5wcm94eWhvc3QnKSkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -357,8 +357,8 @@
         <entry>bd</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
