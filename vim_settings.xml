@@ -9,6 +9,7 @@
       <file name="D:/project/dlv/project/vendor/drush/drush/lib/Drush/Queue/Queue8.php" timestamp="1487340150653">
         <mark key="'" line="54" column="17" />
       </file>
+      <file name="D:/project/dlv/project/web/sites/default/acceptance.settings.php.j2" timestamp="1488383975888" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Cron.php" timestamp="1487340399204">
         <mark key="'" line="85" column="26" />
       </file>
@@ -127,6 +128,9 @@
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger.php" timestamp="1487337356115">
         <mark key="'" line="186" column="64" />
       </file>
+      <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1488384165634">
+        <mark key="'" line="350" column="18" />
+      </file>
       <file name="D:/project/dlv/project/web/themes/custom/om_base_theme/templates/fieldset.html.twig" timestamp="1486550817856">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -149,8 +153,8 @@
         <mark key="^" line="1020" column="20" />
         <mark key="." line="1020" column="20" />
       </file>
-      <file name="D:/project/dlv/project/web/core/includes/file.inc" timestamp="1488382992349">
-        <mark key="'" line="310" column="14" />
+      <file name="D:/project/dlv/project/web/core/includes/file.inc" timestamp="1488385547248">
+        <mark key="'" line="370" column="46" />
         <mark key="[" line="448" column="91" />
         <mark key="]" line="448" column="9" />
         <mark key="." line="448" column="9" />
@@ -164,6 +168,9 @@
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" timestamp="1487591760721">
         <mark key="'" line="92" column="55" />
       </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/StreamWrapper/TemporaryStream.php" timestamp="1488385300527">
+        <mark key="'" line="37" column="4" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.info.yml" timestamp="1487162973080">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -174,18 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="12" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Cron.php" />
-      <jump line="85" column="26" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Cron.php" />
-      <jump line="54" column="17" filename="D:/project/dlv/project/vendor/drush/drush/lib/Drush/Queue/Queue8.php" />
-      <jump line="69" column="19" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" />
-      <jump line="17" column="6" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" />
-      <jump line="416" column="22" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" />
-      <jump line="429" column="26" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" />
-      <jump line="404" column="52" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
-      <jump line="405" column="64" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
-      <jump line="413" column="45" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
-      <jump line="429" column="5" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
-      <jump line="430" column="28" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
       <jump line="431" column="7" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
       <jump line="434" column="21" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
       <jump line="436" column="29" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" />
@@ -257,7 +252,6 @@
       <jump line="365" column="95" filename="D:/project/dlv/project/web/core/includes/file.inc" />
       <jump line="366" column="25" filename="D:/project/dlv/project/web/core/includes/file.inc" />
       <jump line="369" column="67" filename="D:/project/dlv/project/web/core/includes/file.inc" />
-      <jump line="370" column="197" filename="D:/project/dlv/project/web/core/includes/file.inc" />
       <jump line="376" column="25" filename="D:/project/dlv/project/web/core/includes/file.inc" />
       <jump line="379" column="44" filename="D:/project/dlv/project/web/core/includes/file.inc" />
       <jump line="380" column="63" filename="D:/project/dlv/project/web/core/includes/file.inc" />
@@ -266,7 +260,6 @@
       <jump line="551" column="20" filename="D:/project/dlv/project/web/core/includes/file.inc" />
       <jump line="552" column="14" filename="D:/project/dlv/project/web/core/includes/file.inc" />
       <jump line="309" column="2" filename="D:/project/dlv/project/web/core/includes/file.inc" />
-      <jump line="310" column="14" filename="D:/project/dlv/project/web/core/includes/file.inc" />
       <jump line="1014" column="2" filename="D:/project/dlv/project/web/core/includes/install.core.inc" />
       <jump line="441" column="18" filename="D:/project/dlv/project/web/core/modules/system/system.install" />
       <jump line="22" column="0" filename="D:/project/dlv/project/web/core/modules/system/system.install" />
@@ -274,6 +267,20 @@
       <jump line="24" column="0" filename="D:/project/dlv/project/web/core/modules/system/system.install" />
       <jump line="82" column="69" filename="D:/project/dlv/project/web/core/modules/system/system.install" />
       <jump line="61" column="6" filename="D:/project/dlv/project/web/core/modules/system/system.install" />
+      <jump line="873" column="1" filename="D:/project/dlv/project/web/core/includes/file.inc" />
+      <jump line="310" column="14" filename="D:/project/dlv/project/web/core/includes/file.inc" />
+      <jump line="312" column="21" filename="D:/project/dlv/project/web/core/includes/file.inc" />
+      <jump line="313" column="12" filename="D:/project/dlv/project/web/core/includes/file.inc" />
+      <jump line="316" column="14" filename="D:/project/dlv/project/web/core/includes/file.inc" />
+      <jump line="318" column="12" filename="D:/project/dlv/project/web/core/includes/file.inc" />
+      <jump line="320" column="61" filename="D:/project/dlv/project/web/core/includes/file.inc" />
+      <jump line="67" column="21" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="348" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="350" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
+      <jump line="1177" column="45" filename="D:/project/dlv/project/web/core/includes/file.inc" />
+      <jump line="37" column="4" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/StreamWrapper/TemporaryStream.php" />
+      <jump line="1192" column="45" filename="D:/project/dlv/project/web/core/includes/file.inc" />
+      <jump line="370" column="46" filename="D:/project/dlv/project/web/core/includes/file.inc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -283,7 +290,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>htaccess</text>
+        <text>htacces</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkYWN0aW9uID0gJ2h0dHA6Ly93d3cub2FzaXMtb3Blbi5vcmcvY29tbWl0dGVlcy9zZWN1cml0eSc7CiAgICAgICAgJHZlcnNpb24gPSAnMS4xJzsKICAgICAgICAkZGVzdGluYXRpb24gPSAkbXNnLT5nZXREZXN0aW5hdGlvbigpOwoKICAgICAgICAvKiBQZXJmb3JtIFNPQVAgUmVxdWVzdCBvdmVyIEhUVFAgKi8KICAgICAgICAkc29hcHJlc3BvbnNleG1sID0gJHgtPl9fZG9SZXF1ZXN0KCRyZXF1ZXN0LCAkZGVzdGluYXRpb24sICRhY3Rpb24sICR2ZXJzaW9uKTsKICAgICAgICBpZiAoJHNvYXByZXNwb25zZXhtbCA9PT0gTlVMTCB8fCAkc29hcHJlc3BvbnNleG1sID09PSAiIikgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCdFbXB0eSBTT0FQIHJlc3BvbnNlLCBjaGVjayBwZWVyIGNlcnRpZmljYXRlLicpOwogICAgICAgIH0K</text>
@@ -320,9 +327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>htaccess</last-search>
+      <last-search>htacces</last-search>
       <last-offset />
-      <last-pattern>htaccess</last-pattern>
+      <last-pattern>htacces</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -330,9 +337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>format</entry>
-        <entry encoding="base64">JHRoaXMtPmZvcm1hdA==</entry>
-        <entry>loggindir</entry>
         <entry>loggingdir</entry>
         <entry>logging</entry>
         <entry>secure</entry>
@@ -347,9 +351,12 @@
         <entry>absolute</entry>
         <entry>md</entry>
         <entry>yml</entry>
-        <entry>htacces</entry>
         <entry>ensure_htaccess</entry>
+        <entry>file_system</entry>
+        <entry encoding="base64">XDxzdHJlYW1fd3JhcHBlcl9tYW5hZ2VyXD4=</entry>
+        <entry>temporary</entry>
         <entry>htaccess</entry>
+        <entry>htacces</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
