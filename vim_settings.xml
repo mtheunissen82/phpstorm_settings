@@ -64,6 +64,7 @@
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/core/lib/Drupal/Component/PhpStorage/FileStorage.php" timestamp="1488386660782" />
       <file name="D:/project/dlv/project/config/simplesamlphp/development/config/config.php.j2" timestamp="1487592570812">
         <mark key="'" line="20" column="3" />
         <mark key="[" line="19" column="24" />
@@ -87,6 +88,7 @@
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/sites/default/files/.htaccess" timestamp="1488387405629" />
       <file name="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/StreamOmPrivate.php" timestamp="1487931684820">
         <mark key="[" line="69" column="37" />
         <mark key="]" line="69" column="42" />
@@ -153,7 +155,7 @@
         <mark key="^" line="1020" column="20" />
         <mark key="." line="1020" column="20" />
       </file>
-      <file name="D:/project/dlv/project/web/core/includes/file.inc" timestamp="1488385852387">
+      <file name="D:/project/dlv/project/web/core/includes/file.inc" timestamp="1488386912669">
         <mark key="'" line="370" column="46" />
         <mark key="[" line="448" column="91" />
         <mark key="]" line="448" column="9" />
