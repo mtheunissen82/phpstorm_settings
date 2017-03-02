@@ -9,7 +9,6 @@
       <file name="D:/project/dlv/project/vendor/drush/drush/lib/Drush/Queue/Queue8.php" timestamp="1487340150653">
         <mark key="'" line="54" column="17" />
       </file>
-      <file name="D:/project/dlv/project/web/sites/default/acceptance.settings.php.j2" timestamp="1488383975888" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Cron.php" timestamp="1487340399204">
         <mark key="'" line="85" column="26" />
       </file>
@@ -64,7 +63,6 @@
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/project/dlv/project/web/core/lib/Drupal/Component/PhpStorage/FileStorage.php" timestamp="1488386660782" />
       <file name="D:/project/dlv/project/config/simplesamlphp/development/config/config.php.j2" timestamp="1487592570812">
         <mark key="'" line="20" column="3" />
         <mark key="[" line="19" column="24" />
@@ -88,7 +86,6 @@
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/project/dlv/project/web/sites/default/files/.htaccess" timestamp="1488387405629" />
       <file name="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/StreamOmPrivate.php" timestamp="1487931684820">
         <mark key="[" line="69" column="37" />
         <mark key="]" line="69" column="42" />
@@ -173,6 +170,7 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/StreamWrapper/TemporaryStream.php" timestamp="1488385300527">
         <mark key="'" line="37" column="4" />
       </file>
+      <file name="D:/project/dlv/project/files/.htaccess" timestamp="1488388059784" />
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.info.yml" timestamp="1487162973080">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -335,7 +333,7 @@
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
