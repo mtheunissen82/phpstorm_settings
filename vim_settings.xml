@@ -23,7 +23,7 @@
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerErrorLog.php" timestamp="1487337585590">
         <mark key="'" line="33" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1488381295006">
+      <file name="/a.dummy" timestamp="1488543122123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -86,12 +86,6 @@
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/StreamOmPrivate.php" timestamp="1487931684820">
-        <mark key="[" line="69" column="37" />
-        <mark key="]" line="69" column="42" />
-        <mark key="^" line="69" column="42" />
-        <mark key="." line="69" column="42" />
-      </file>
       <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/authsources.php" timestamp="1488356695730">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="39" />
@@ -99,8 +93,8 @@
       <file name="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" timestamp="1487929837233">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/dlv/project/vendor/dvom/justid_service/src/JustIdService.php" timestamp="1488364039226">
-        <mark key="'" line="53" column="3" />
+      <file name="D:/project/dlv/project/vendor/dvom/justid_service/src/JustIdService.php" timestamp="1488543165210">
+        <mark key="'" line="122" column="38" />
         <mark key="[" line="90" column="101" />
         <mark key="]" line="96" column="3" />
         <mark key="." line="96" column="3" />
@@ -130,6 +124,7 @@
       <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1488384165634">
         <mark key="'" line="350" column="18" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/config/install/om_dlv.text.yml" timestamp="1488542408791" />
       <file name="D:/project/dlv/project/web/themes/custom/om_base_theme/templates/fieldset.html.twig" timestamp="1486550817856">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -159,8 +154,8 @@
         <mark key="." line="448" column="9" />
         <mark key="^" line="448" column="9" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" timestamp="1488541369963">
-        <mark key="'" line="19" column="0" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" timestamp="1488543078391">
+        <mark key="'" line="184" column="25" />
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
@@ -187,15 +182,11 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Theme/ThemeManager.php" timestamp="1487348060535">
         <mark key="'" line="14" column="6" />
       </file>
+      <file name="D:/project/dlv/project/vendor/dvom/justid_service/src/JustIdServiceInterface.php" timestamp="1488542770376">
+        <mark key="'" line="49" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="961" column="63" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
-      <jump line="964" column="39" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
-      <jump line="969" column="27" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
-      <jump line="991" column="15" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
-      <jump line="728" column="4" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/HTTP.php" />
-      <jump line="27" column="24" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
-      <jump line="7" column="3" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
       <jump line="8" column="3" filename="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" />
       <jump line="0" column="0" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
       <jump line="124" column="4" filename="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/PrivateFileService.php" />
@@ -256,7 +247,6 @@
       <jump line="30" column="6" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="50" column="43" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="380" column="12" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
-      <jump line="20" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="21" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="22" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="23" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
@@ -289,6 +279,14 @@
       <jump line="17" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="18" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="19" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
+      <jump line="20" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
+      <jump line="108" column="2" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
+      <jump line="201" column="64" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
+      <jump line="49" column="0" filename="D:/project/dlv/project/vendor/dvom/justid_service/src/JustIdServiceInterface.php" />
+      <jump line="187" column="15" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
+      <jump line="183" column="15" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
+      <jump line="184" column="25" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
+      <jump line="122" column="38" filename="D:/project/dlv/project/vendor/dvom/justid_service/src/JustIdService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -298,7 +296,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>use</text>
+        <text>handleError</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkYWN0aW9uID0gJ2h0dHA6Ly93d3cub2FzaXMtb3Blbi5vcmcvY29tbWl0dGVlcy9zZWN1cml0eSc7CiAgICAgICAgJHZlcnNpb24gPSAnMS4xJzsKICAgICAgICAkZGVzdGluYXRpb24gPSAkbXNnLT5nZXREZXN0aW5hdGlvbigpOwoKICAgICAgICAvKiBQZXJmb3JtIFNPQVAgUmVxdWVzdCBvdmVyIEhUVFAgKi8KICAgICAgICAkc29hcHJlc3BvbnNleG1sID0gJHgtPl9fZG9SZXF1ZXN0KCRyZXF1ZXN0LCAkZGVzdGluYXRpb24sICRhY3Rpb24sICR2ZXJzaW9uKTsKICAgICAgICBpZiAoJHNvYXByZXNwb25zZXhtbCA9PT0gTlVMTCB8fCAkc29hcHJlc3BvbnNleG1sID09PSAiIikgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCdFbXB0eSBTT0FQIHJlc3BvbnNlLCBjaGVjayBwZWVyIGNlcnRpZmljYXRlLicpOwogICAgICAgIH0K</text>
@@ -335,9 +333,9 @@
       </register>
     </registers>
     <search>
-      <last-search>use</last-search>
+      <last-search>handleError</last-search>
       <last-offset />
-      <last-pattern>use</last-pattern>
+      <last-pattern>handleError</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -345,8 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setCookie</entry>
-        <entry>setlogger</entry>
         <entry>setcookie</entry>
         <entry>showerrors</entry>
         <entry>debug</entry>
@@ -365,6 +361,8 @@
         <entry>photo</entry>
         <entry>user</entry>
         <entry>use</entry>
+        <entry>warning_bar</entry>
+        <entry>handleError</entry>
       </history-search>
       <history-cmd>
         <entry>g/^\$/</entry>
