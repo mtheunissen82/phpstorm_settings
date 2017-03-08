@@ -41,6 +41,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/sites/default/settings.php" timestamp="1488959801018" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Renderer.php" timestamp="1487347093403">
         <mark key="'" line="429" column="26" />
       </file>
@@ -92,10 +93,6 @@
       <file name="/PHP Console" timestamp="1488811576994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/authsources.php" timestamp="1488356695730">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="39" />
-      </file>
       <file name="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" timestamp="1487929837233">
         <mark key="'" line="0" column="0" />
       </file>
@@ -111,7 +108,7 @@
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" timestamp="1487929831823">
+      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" timestamp="1488959844667">
         <mark key="'" line="8" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="21" />
@@ -133,10 +130,6 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/AppealFormBase.php" timestamp="1488554904219">
         <mark key="'" line="138" column="28" />
         <mark key="." line="138" column="37" />
-      </file>
-      <file name="D:/project/dlv/project/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" timestamp="1488356732429">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="121" column="8" />
       </file>
       <file name="D:/project/dlv/project/web/core/includes/install.core.inc" timestamp="1488383010353">
         <mark key="'" line="1014" column="2" />
@@ -358,7 +351,7 @@
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
