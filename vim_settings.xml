@@ -42,9 +42,6 @@
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1490280111472">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_amber/config/install/om_amber.settings.yml" timestamp="1490192878553">
         <mark key="[" line="0" column="0" />
@@ -52,9 +49,6 @@
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1490280122269">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Form/FormInterface.php" timestamp="1490195171345">
         <mark key="[" line="42" column="0" />
@@ -85,15 +79,7 @@
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_release/om_dlv_release.info.yml" timestamp="1490280115892">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_local/om_dlv_local.info.yml" timestamp="1490280106646">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="11" />
-        <mark key="^" line="60" column="11" />
+        <mark key="]" line="60" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/config/config.links.menu.yml" timestamp="1490190478569">
         <mark key="[" line="0" column="0" />
