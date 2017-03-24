@@ -12,7 +12,6 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/production/metadata/saml20-idp-remote.php" timestamp="1490349847118" />
       <file name="/a.dummy" timestamp="1490273326510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -37,7 +36,6 @@
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="D:/project/dlv/provisioning/httpd/dlv.conf" timestamp="1490347673037" />
       <file name="D:/project/dlv/project/web/core/modules/system/src/Form/PerformanceForm.php" timestamp="1490195391541">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="146" column="5" />
@@ -126,7 +124,11 @@
         <mark key="." line="41" column="32" />
         <mark key="^" line="40" column="25" />
       </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/production/config/authsources.php" timestamp="1490349886565" />
+      <file name="D:/project/dlv/project/config/simplesamlphp/production/config/authsources.php" timestamp="1490359553449">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" timestamp="1488818316067">
         <mark key="'" line="350" column="23" />
         <mark key="[" line="357" column="0" />
@@ -269,11 +271,11 @@
       <jump line="74" column="76" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hardening</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdlbnRpdHlJRCcgICAgICAgICAgICAgPT4gJ3ZlcmtlZXIubG9rZXQub20ubmwnLAogICAgJ3ByaXZhdGVrZXknICAgICAgICAgICA9PiAnL2V4cG9ydC93d3cva2V5cy1wcm9kdWN0aW9uL2NvbmYvc2VjdXJlL3ByaXZhdGUua2V5JywKICAgICdjZXJ0aWZpY2F0ZScgICAgICAgICAgPT4gJy9leHBvcnQvd3d3L2tleXMtcHJvZHVjdGlvbi9jb25mL3NlY3VyZS9wdWJsaWMuY3J0JywKICAgICdBdXRobkNvbnRleHRDbGFzc1JlZicgPT4gJ3VybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDphYzpjbGFzc2VzOlBhc3N3b3JkUHJvdGVjdGVkVHJhbnNwb3J0JywKICAgICdpZHAnICAgICAgICAgICAgICAgICAgPT4gJ2h0dHBzOi8vd2FzLmRpZ2lkLm5sL3NhbWwvaWRwL21ldGFkYXRhJywKICAgICdzaWduLmxvZ291dCcgICAgICAgICAgPT4gVFJVRSwK</text>
       </register>
       <register name="-" type="4">
-        <text>hardening</text>
+        <text encoding="base64">PT4gJ3ZlcmtlZXIubG9rZXQub20ubmwn</text>
       </register>
       <register name="/" type="4">
         <text>SIMPLESAMLPHP_CONFIG</text>
@@ -282,31 +284,31 @@
         <text encoding="base64">ICAgIHsKICAgICAgInR5cGUiOiAiZ2l0IiwKICAgICAgInVybCI6ICJodHRwczovL2JpdGJ1Y2tldC5sb2tldC5vbS5ubC9zY20vZGx2L29tX2hhcmRlbmluZy5naXQiCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdlbnRpdHlJRCcgICAgICAgICAgICAgPT4gJ3ZlcmtlZXIubG9rZXQub20ubmwnLAogICAgJ3ByaXZhdGVrZXknICAgICAgICAgICA9PiAnL2V4cG9ydC93d3cva2V5cy1wcm9kdWN0aW9uL2NvbmYvc2VjdXJlL3ByaXZhdGUua2V5JywKICAgICdjZXJ0aWZpY2F0ZScgICAgICAgICAgPT4gJy9leHBvcnQvd3d3L2tleXMtcHJvZHVjdGlvbi9jb25mL3NlY3VyZS9wdWJsaWMuY3J0JywKICAgICdBdXRobkNvbnRleHRDbGFzc1JlZicgPT4gJ3VybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDphYzpjbGFzc2VzOlBhc3N3b3JkUHJvdGVjdGVkVHJhbnNwb3J0JywKICAgICdpZHAnICAgICAgICAgICAgICAgICAgPT4gJ2h0dHBzOi8vd2FzLmRpZ2lkLm5sL3NhbWwvaWRwL21ldGFkYXRhJywKICAgICdzaWduLmxvZ291dCcgICAgICAgICAgPT4gVFJVRSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJGV2ZW50LT5nZXRSZXNwb25zZSgpLT5oZWFkZXJzLT5hZGQoWydYLU5vZGUnID0+ICRoZWFkZXJWYWx1ZV0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGsK</text>
+        <text encoding="base64">ICAgICAgJGV2ZW50LT5nZXRSZXNwb25zZSgpLT5oZWFkZXJzLT5hZGQoWydYLU5vZGUnID0+ICRoZWFkZXJWYWx1ZV0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkaGVhZGVyVmFsdWUgPSAkX0VOVlskZW52aXJvbm1lbnRhbF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkaGVhZGVyVmFsdWUgPSAkX0VOVlskZW52aXJvbm1lbnRhbF07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCRlbnZpcm9ubWVudGFsID0gJHNldHRpbmdzLT5nZXQoJ3hfbm9kZV9oZWFkZXJfZnJvbV9lbnZpcm9ubWVudGFsJykgJiYgaXNzZXQoJF9FTlZbJF0pKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaGVhZGVyVmFsdWUgPSAkX0VOVlskZW52aXJvbm1lbnRhbF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkaXAgPSBnZXRlbnYoJ1JFTU9URV9BRERSJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCRlbnZpcm9ubWVudGFsID0gJHNldHRpbmdzLT5nZXQoJ3hfbm9kZV9oZWFkZXJfZnJvbV9lbnZpcm9ubWVudGFsJykgJiYgaXNzZXQoJF9FTlZbJF0pKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIGlmICghJGhlYWRlclZhbHVlKSB7CiAgICAgICAgJGhlYWRlclZhbHVlID0gZ2V0aG9zdG5hbWUoKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkaXAgPSBnZXRlbnYoJ1JFTU9URV9BRERSJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIGlmICghJGhlYWRlclZhbHVlKSB7CiAgICAgICAgJGhlYWRlclZhbHVlID0gZ2V0aG9zdG5hbWUoKTsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -319,7 +321,7 @@
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
