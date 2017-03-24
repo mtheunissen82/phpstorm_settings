@@ -36,6 +36,7 @@
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
+      <file name="D:/project/dlv/provisioning/httpd/dlv.conf" timestamp="1490347673037" />
       <file name="D:/project/dlv/project/web/core/modules/system/src/Form/PerformanceForm.php" timestamp="1490195391541">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="146" column="5" />
@@ -85,13 +86,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="40" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/Core.php" timestamp="1490273741018" />
       <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1490194589192">
         <mark key="'" line="1156" column="37" />
         <mark key="[" line="1156" column="0" />
         <mark key="]" line="1156" column="170" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490192161418">
+      <file name="/Dummy.txt" timestamp="1490347678584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_debug/om_debug.services.yml" timestamp="1490195922789">
@@ -114,6 +114,9 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" timestamp="1490347753252">
+        <mark key="'" line="74" column="76" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_debug/src/Form/DebugConfigForm.php" timestamp="1490258562395">
         <mark key="[" line="56" column="34" />
@@ -167,10 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="15" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
-      <jump line="387" column="19" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
-      <jump line="7" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
-      <jump line="8" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="9" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="10" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="11" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
@@ -267,6 +266,10 @@
       <jump line="0" column="0" filename="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_release/om_dlv_release.info.yml" />
       <jump line="0" column="0" filename="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" />
       <jump line="11" column="17" filename="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/composer.json" />
+      <jump line="75" column="24" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" />
+      <jump line="61" column="14" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" />
+      <jump line="69" column="32" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" />
+      <jump line="74" column="76" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -276,7 +279,7 @@
         <text>hardening</text>
       </register>
       <register name="/" type="4">
-        <text>harde</text>
+        <text>SIMPLESAMLPHP_CONFIG</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgInR5cGUiOiAiZ2l0IiwKICAgICAgInVybCI6ICJodHRwczovL2JpdGJ1Y2tldC5sb2tldC5vbS5ubC9zY20vZGx2L29tX2hhcmRlbmluZy5naXQiCiAgICB9LAo=</text>
@@ -313,9 +316,9 @@
       </register>
     </registers>
     <search>
-      <last-search>harde</last-search>
+      <last-search>SIMPLESAMLPHP_CONFIG</last-search>
       <last-offset />
-      <last-pattern>harde</last-pattern>
+      <last-pattern>SIMPLESAMLPHP_CONFIG</last-pattern>
       <last-replace>model</last-replace>
       <last-substitute>gbaResult</last-substitute>
       <last-dir>1</last-dir>
@@ -323,7 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>access</entry>
         <entry>complete_form</entry>
         <entry>completed_form</entry>
         <entry>violationform</entry>
@@ -343,6 +345,7 @@
         <entry>hard</entry>
         <entry>hardne</entry>
         <entry>harde</entry>
+        <entry>SIMPLESAMLPHP_CONFIG</entry>
       </history-search>
       <history-cmd>
         <entry>%s/database/lol</entry>
