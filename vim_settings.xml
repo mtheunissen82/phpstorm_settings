@@ -77,6 +77,12 @@
       <file name="/PHP Console" timestamp="1490279882670">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/sites/default/development.settings.php.j2" timestamp="1490598572491">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_release/om_dlv_release.info.yml" timestamp="1490280115892">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="60" column="0" />
@@ -271,11 +277,11 @@
       <jump line="74" column="76" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdlbnRpdHlJRCcgICAgICAgICAgICAgPT4gJ3ZlcmtlZXIubG9rZXQub20ubmwnLAogICAgJ3ByaXZhdGVrZXknICAgICAgICAgICA9PiAnL2V4cG9ydC93d3cva2V5cy1wcm9kdWN0aW9uL2NvbmYvc2VjdXJlL3ByaXZhdGUua2V5JywKICAgICdjZXJ0aWZpY2F0ZScgICAgICAgICAgPT4gJy9leHBvcnQvd3d3L2tleXMtcHJvZHVjdGlvbi9jb25mL3NlY3VyZS9wdWJsaWMuY3J0JywKICAgICdBdXRobkNvbnRleHRDbGFzc1JlZicgPT4gJ3VybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDphYzpjbGFzc2VzOlBhc3N3b3JkUHJvdGVjdGVkVHJhbnNwb3J0JywKICAgICdpZHAnICAgICAgICAgICAgICAgICAgPT4gJ2h0dHBzOi8vd2FzLmRpZ2lkLm5sL3NhbWwvaWRwL21ldGFkYXRhJywKICAgICdzaWduLmxvZ291dCcgICAgICAgICAgPT4gVFJVRSwK</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4gJ3ZlcmtlZXIubG9rZXQub20ubmwn</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>SIMPLESAMLPHP_CONFIG</text>
@@ -311,7 +317,7 @@
         <text encoding="base64">CiAgICAgIGlmICghJGhlYWRlclZhbHVlKSB7CiAgICAgICAgJGhlYWRlclZhbHVlID0gZ2V0aG9zdG5hbWUoKTsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -362,11 +368,11 @@
         <entry encoding="base64">JzwsJz5zL2N1cnJlbnRVc2VyL3VzZXI=</entry>
         <entry encoding="base64">JzwsJz5zL2diYVJlc3VsdC9tb2RlbA==</entry>
         <entry>bd</entry>
-        <entry>q</entry>
         <entry>Lw</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
