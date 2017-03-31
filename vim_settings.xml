@@ -34,6 +34,7 @@
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1490280111472">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="D:/project/dlv/project/config/simplesamlphp/development/config/config.php.j2" timestamp="1490963755613" />
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1490280122269">
         <mark key="'" line="0" column="0" />
       </file>
@@ -57,7 +58,7 @@
         <mark key="]" line="43" column="26" />
         <mark key="." line="36" column="32" />
       </file>
-      <file name="/PHP Console" timestamp="1490795450551">
+      <file name="/PHP Console" timestamp="1490966105194">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/sites/default/development.settings.php.j2" timestamp="1490598572491">
@@ -66,9 +67,12 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_release/om_dlv_release.info.yml" timestamp="1490280115892">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="60" column="0" />
+      <file name="D:/project/dls/project/config/simplesamlphp/development/config/config.php.j2" timestamp="1490963950964">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="2" column="42" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/LandingController.php" timestamp="1490947868836">
         <mark key="[" line="83" column="19" />
@@ -99,8 +103,18 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/DataForm.php" timestamp="1490966019679">
+        <mark key="'" line="28" column="6" />
+      </file>
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" timestamp="1490347753252">
         <mark key="'" line="74" column="76" />
+      </file>
+      <file name="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" timestamp="1490963969898">
+        <mark key="'" line="77" column="4" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_debug/src/Form/DebugConfigForm.php" timestamp="1490258562395">
         <mark key="[" line="56" column="34" />
@@ -163,12 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="116" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
-      <jump line="52" column="16" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
-      <jump line="44" column="21" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
-      <jump line="45" column="43" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
-      <jump line="144" column="5" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
-      <jump line="155" column="5" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
       <jump line="166" column="5" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
       <jump line="175" column="5" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
       <jump line="133" column="5" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
@@ -263,66 +271,68 @@
       <jump line="674" column="30" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="748" column="43" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="63" column="0" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapStubAllBsn.php" />
+      <jump line="8" column="22" filename="D:/project/dls/project/config/simplesamlphp/development/config/config.php.j2" />
+      <jump line="23" column="29" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
+      <jump line="2" column="2" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
+      <jump line="133" column="57" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
+      <jump line="77" column="4" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
+      <jump line="28" column="6" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/DataForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'om_warning_bar',</text>
+        <text>syslog</text>
       </register>
       <register name="-" type="4">
-        <text>'om_warning_bar',</text>
+        <text>syslog</text>
       </register>
       <register name="/" type="4">
-        <text>:get</text>
+        <text>open</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnI3R5cGUnID0+ICdvbV93YXJuaW5nX2JhcicsCg==</text>
+        <text encoding="base64">ICAnbG9nZ2luZ2RpcicgPT4gJy9leHBvcnQvd3d3L2Rscy9sb2dzLycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhZ3M6CiAgICAgIC0geyBuYW1lOiBjYWNoZS5iaW4sIGRlZmF1bHRfYmFja2VuZDogY2FjaGUuYmFja2VuZC5tZW1vcnkgfQo=</text>
+        <text encoding="base64">ICAnbG9nZ2luZ2RpcicgPT4gJ2xvZy8nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAaW50ZXJuYWwgcGFyYW0gXERydXBhbFx1c2VyXFByaXZhdGVUZW1wU3RvcmUgJHN0b3JlCg==</text>
+        <text encoding="base64">ICAgIHRhZ3M6CiAgICAgIC0geyBuYW1lOiBjYWNoZS5iaW4sIGRlZmF1bHRfYmFja2VuZDogY2FjaGUuYmFja2VuZC5tZW1vcnkgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gQ29uZmlnRmFjdG9yeUludGVyZmFjZSAkY29uZmlnRmFjdG9yeQo=</text>
+        <text encoding="base64">ICAgKiBAaW50ZXJuYWwgcGFyYW0gXERydXBhbFx1c2VyXFByaXZhdGVUZW1wU3RvcmUgJHN0b3JlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5zdG9yZS0+Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gQ29uZmlnRmFjdG9yeUludGVyZmFjZSAkY29uZmlnRmFjdG9yeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdlbnRpdHlJRCcgICAgICAgICAgICAgPT4gJ3ZlcmtlZXIubG9rZXQub20ubmwnLAogICAgJ3ByaXZhdGVrZXknICAgICAgICAgICA9PiAnL2V4cG9ydC93d3cva2V5cy1wcm9kdWN0aW9uL2NvbmYvc2VjdXJlL3ByaXZhdGUua2V5JywKICAgICdjZXJ0aWZpY2F0ZScgICAgICAgICAgPT4gJy9leHBvcnQvd3d3L2tleXMtcHJvZHVjdGlvbi9jb25mL3NlY3VyZS9wdWJsaWMuY3J0JywKICAgICdBdXRobkNvbnRleHRDbGFzc1JlZicgPT4gJ3VybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDphYzpjbGFzc2VzOlBhc3N3b3JkUHJvdGVjdGVkVHJhbnNwb3J0JywKICAgICdpZHAnICAgICAgICAgICAgICAgICAgPT4gJ2h0dHBzOi8vd2FzLmRpZ2lkLm5sL3NhbWwvaWRwL21ldGFkYXRhJywKICAgICdzaWduLmxvZ291dCcgICAgICAgICAgPT4gVFJVRSwK</text>
+        <text encoding="base64">ICAgICR0aGlzLT5zdG9yZS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdlbnRpdHlJRCcgICAgICAgICAgICAgPT4gJ3ZlcmtlZXIubG9rZXQub20ubmwnLAogICAgJ3ByaXZhdGVrZXknICAgICAgICAgICA9PiAnL2V4cG9ydC93d3cva2V5cy1wcm9kdWN0aW9uL2NvbmYvc2VjdXJlL3ByaXZhdGUua2V5JywKICAgICdjZXJ0aWZpY2F0ZScgICAgICAgICAgPT4gJy9leHBvcnQvd3d3L2tleXMtcHJvZHVjdGlvbi9jb25mL3NlY3VyZS9wdWJsaWMuY3J0JywKICAgICdBdXRobkNvbnRleHRDbGFzc1JlZicgPT4gJ3VybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDphYzpjbGFzc2VzOlBhc3N3b3JkUHJvdGVjdGVkVHJhbnNwb3J0JywKICAgICdpZHAnICAgICAgICAgICAgICAgICAgPT4gJ2h0dHBzOi8vd2FzLmRpZ2lkLm5sL3NhbWwvaWRwL21ldGFkYXRhJywKICAgICdzaWduLmxvZ291dCcgICAgICAgICAgPT4gVFJVRSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJGV2ZW50LT5nZXRSZXNwb25zZSgpLT5oZWFkZXJzLT5hZGQoWydYLU5vZGUnID0+ICRoZWFkZXJWYWx1ZV0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGsK</text>
+        <text encoding="base64">ICAgICAgJGV2ZW50LT5nZXRSZXNwb25zZSgpLT5oZWFkZXJzLT5hZGQoWydYLU5vZGUnID0+ICRoZWFkZXJWYWx1ZV0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkaGVhZGVyVmFsdWUgPSAkX0VOVlskZW52aXJvbm1lbnRhbF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>:get</last-search>
+      <last-search>open</last-search>
       <last-offset />
-      <last-pattern>:get</last-pattern>
-      <last-replace>model</last-replace>
-      <last-substitute>gbaResult</last-substitute>
+      <last-pattern>open</last-pattern>
+      <last-replace>dls</last-replace>
+      <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>use</entry>
-        <entry>remove</entry>
-        <entry>photo</entry>
-        <entry>speedcamera</entry>
         <entry encoding="base64">XDxzcGVlZENhbWVyYVBob3RvXD4=</entry>
         <entry>speedcamer</entry>
         <entry>excee</entry>
@@ -339,12 +349,12 @@
         <entry>tempstore</entry>
         <entry>private</entry>
         <entry>:get</entry>
+        <entry>verkeer</entry>
+        <entry>release</entry>
+        <entry>dlv</entry>
+        <entry>open</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/database/lol</entry>
-        <entry encoding="base64">JzwsJz4lcy9cXC8=</entry>
-        <entry encoding="base64">JzwsJz4lcy9Edm9tL0FhcA==</entry>
-        <entry encoding="base64">JzwsJz4lcy9zb2FwY2xpZW50L3RoaXMtPnNvYXA=</entry>
         <entry>Wq</entry>
         <entry encoding="base64">JzwsJz4lcy9hbWJlclN5bmNocm9uaXplci9zeW5jaHJvbml6ZXI=</entry>
         <entry encoding="base64">JzwsJz4lcy9hbWJlclN5bmNocm9uaXplci9zeW5jaHJvbml6ZXIvZw==</entry>
@@ -359,7 +369,11 @@
         <entry>Lw</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>%s/verkeer/slachtoffer/g</entry>
+        <entry>%s/release/tst/g</entry>
         <entry>W</entry>
+        <entry>%s/dlv/dls/g</entry>
+        <entry>5</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -416,6 +430,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
