@@ -79,7 +79,7 @@
         <mark key="." line="83" column="23" />
         <mark key="^" line="83" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490347678584">
+      <file name="/Dummy.txt" timestamp="1491226940882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1490793671341">
@@ -328,7 +328,7 @@
       <last-replace>dls</last-replace>
       <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
