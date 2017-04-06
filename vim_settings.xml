@@ -40,6 +40,7 @@
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1490280122269">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="D:/project/dls/project/web/profiles/custom/om_dls_dev_profile/config/install/om_strafzaak.settings.soap.yml" timestamp="1491470790716" />
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_acceptance/om_dlv_acceptance.info.yml" timestamp="1487175745040">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="16" />
@@ -89,7 +90,7 @@
         <mark key="." line="441" column="41" />
         <mark key="^" line="442" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491310699295">
+      <file name="/Dummy.txt" timestamp="1491470738864">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/core.services.yml" timestamp="1490793671341">
@@ -338,7 +339,7 @@
       <last-replace>dls</last-replace>
       <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
