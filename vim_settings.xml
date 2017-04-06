@@ -70,12 +70,12 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="D:/project/dls/project/config/simplesamlphp/development/config/config.php.j2" timestamp="1490963950964">
+      <file name="D:/project/dls/project/config/simplesamlphp/development/config/config.php.j2" timestamp="1491477251792">
         <mark key="'" line="8" column="22" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="2" column="42" />
-        <mark key="." line="4" column="34" />
+        <mark key="[" line="123" column="96" />
+        <mark key="]" line="123" column="99" />
+        <mark key="^" line="123" column="99" />
+        <mark key="." line="123" column="99" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/LandingController.php" timestamp="1490947868836">
         <mark key="[" line="83" column="19" />
@@ -119,12 +119,12 @@
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" timestamp="1490347753252">
         <mark key="'" line="74" column="76" />
       </file>
-      <file name="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" timestamp="1490963969898">
-        <mark key="'" line="77" column="4" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
+      <file name="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" timestamp="1491477342173">
+        <mark key="'" line="135" column="30" />
+        <mark key="[" line="123" column="96" />
+        <mark key="]" line="123" column="99" />
+        <mark key="." line="123" column="99" />
+        <mark key="^" line="123" column="99" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_debug/src/Form/DebugConfigForm.php" timestamp="1490258562395">
         <mark key="[" line="56" column="34" />
@@ -187,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="195" column="56" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="206" column="70" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
       <jump line="230" column="60" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ReasonForm.php" />
@@ -287,6 +286,7 @@
       <jump line="0" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/modules/saml/lib/Message.php" />
       <jump line="138" column="4" filename="D:/project/dlv/project/web/core/modules/user/src/Form/UserLoginForm.php" />
       <jump line="162" column="40" filename="D:/project/dlv/project/web/core/modules/user/src/Form/UserLoginForm.php" />
+      <jump line="135" column="30" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -329,7 +329,7 @@
         <text encoding="base64">ICAgICAgJGV2ZW50LT5nZXRSZXNwb25zZSgpLT5oZWFkZXJzLT5hZGQoWydYLU5vZGUnID0+ICRoZWFkZXJWYWx1ZV0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -377,14 +377,14 @@
         <entry encoding="base64">JzwsJz5zL2diYVJlc3VsdC9tb2RlbA==</entry>
         <entry>bd</entry>
         <entry>Lw</entry>
-        <entry>wq</entry>
-        <entry>q</entry>
         <entry>%s/verkeer/slachtoffer/g</entry>
         <entry>%s/release/tst/g</entry>
         <entry>W</entry>
         <entry>%s/dlv/dls/g</entry>
         <entry>5</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
