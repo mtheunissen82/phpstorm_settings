@@ -26,6 +26,12 @@
         <mark key="]" line="7" column="35" />
         <mark key="." line="9" column="114" />
       </file>
+      <file name="D:/project/dls/project/web/profiles/custom/om_dls_profile/om_dls_release/config/install/om_digid.settings.simplesaml.yml" timestamp="1491832841302">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_login/composer.json" timestamp="1486547038103">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -291,11 +297,11 @@
       <jump line="225" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/OvJRedenController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3lzbG9nCg==</text>
+      <register name="&quot;" type="4">
+        <text>saml_local</text>
       </register>
       <register name="-" type="4">
-        <text>syslog</text>
+        <text>saml_local</text>
       </register>
       <register name="/" type="4">
         <text>appeal</text>
@@ -341,7 +347,7 @@
       <last-replace>dls</last-replace>
       <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
