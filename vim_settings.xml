@@ -154,42 +154,20 @@
         <mark key="." line="168" column="0" />
         <mark key="^" line="82" column="25" />
       </file>
+      <file name="D:/project/dls/project/web/sites/default/services.yml" timestamp="1493391246110">
+        <mark key="'" line="122" column="31" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_debug/om_debug.permissions.yml" timestamp="1490194349520">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="37" />
       </file>
+      <file name="D:/project/dls/project/web/sites/default/settings.php" timestamp="1493391470434">
+        <mark key="'" line="653" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_release/om_dlv_release.info.yml" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" />
-      <jump line="11" column="17" filename="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/composer.json" />
-      <jump line="75" column="24" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" />
-      <jump line="61" column="14" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" />
-      <jump line="69" column="32" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" />
-      <jump line="74" column="76" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1546" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1566" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1571" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1576" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1301" column="17" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1302" column="37" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1304" column="40" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1541" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="365" column="21" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="647" column="21" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1073" column="2" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1074" column="23" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1078" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1457" column="18" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="1595" column="39" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/web/core/modules/user/user.services.yml" />
-      <jump line="50" column="7" filename="D:/project/dlv/project/web/core/modules/user/user.services.yml" />
-      <jump line="51" column="23" filename="D:/project/dlv/project/web/core/modules/user/user.services.yml" />
-      <jump line="230" column="21" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="239" column="26" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="245" column="26" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="251" column="26" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="315" column="51" filename="D:/project/dlv/project/web/core/core.services.yml" />
@@ -262,6 +240,34 @@
       <jump line="735" column="33" filename="D:/project/dls/project/web/core/core.services.yml" />
       <jump line="736" column="12" filename="D:/project/dls/project/web/core/core.services.yml" />
       <jump line="737" column="33" filename="D:/project/dls/project/web/core/core.services.yml" />
+      <jump line="0" column="0" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="58" column="6" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="60" column="30" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="67" column="6" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="69" column="18" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="70" column="45" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="73" column="6" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="38" column="2" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="42" column="27" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="47" column="43" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="49" column="8" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="127" column="16" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="39" column="11" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="41" column="11" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="44" column="23" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="45" column="68" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="52" column="33" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="57" column="4" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="62" column="28" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="117" column="17" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="122" column="31" filename="D:/project/dls/project/web/sites/default/services.yml" />
+      <jump line="623" column="16" filename="D:/project/dls/project/web/sites/default/settings.php" />
+      <jump line="551" column="56" filename="D:/project/dls/project/web/sites/default/settings.php" />
+      <jump line="563" column="56" filename="D:/project/dls/project/web/sites/default/settings.php" />
+      <jump line="655" column="45" filename="D:/project/dls/project/web/sites/default/settings.php" />
+      <jump line="53" column="34" filename="D:/project/dls/project/web/sites/default/settings.php" />
+      <jump line="594" column="19" filename="D:/project/dls/project/web/sites/default/settings.php" />
+      <jump line="653" column="8" filename="D:/project/dls/project/web/sites/default/settings.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -271,7 +277,7 @@
         <text encoding="base64">IHdpbmRvd1dpZHRo</text>
       </register>
       <register name="/" type="4">
-        <text>message</text>
+        <text>services</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b3JpZ1dpbmRvd1dpZHRoIA==</text>
@@ -304,13 +310,13 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGhpc3RvcnlUYWJzID0gZnVuY3Rpb24oZSkgewogICAgICAgICAgICAgIGlmICh3aW5kb3cubG9jYXRpb24uaGFzaCkgewogICAgICAgICAgICAgICAgdmFyIGN1cnJlbnRIYXNoID0gd2luZG93LmxvY2F0aW9uLmhhc2g7CiAgICAgICAgICAgICAgICB2YXIgcGhhc2VGcm9tSGFzaCA9IGN1cnJlbnRIYXNoLnN1YnN0cigxKTsKCiAgICAgICAgICAgICAgICB2YXIgcGhhc2VCbG9ja0ZvdW5kID0gJCgnLnByb2dyZXNzLWJsb2NrJykuZmluZCgiW2RhdGEtcGhhc2U9JyIgKyBwaGFzZUZyb21IYXNoICsgIiddIik7CgogICAgICAgICAgICAgICAgaWYgKHBoYXNlQmxvY2tGb3VuZCkgewogICAgICAgICAgICAgICAgICBwaGFzZUJsb2NrRm91bmQudHJpZ2dlcigiY2xpY2siKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>message</last-search>
+      <last-search>services</last-search>
       <last-offset />
-      <last-pattern>message</last-pattern>
+      <last-pattern>services</last-pattern>
       <last-replace>dls</last-replace>
       <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
@@ -318,7 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>temp</entry>
         <entry>tempstore</entry>
         <entry>private</entry>
         <entry>:get</entry>
@@ -335,9 +340,10 @@
         <entry>delete</entry>
         <entry>article.phase</entry>
         <entry>null</entry>
+        <entry>message</entry>
         <entry>debug</entry>
         <entry>twig</entry>
-        <entry>message</entry>
+        <entry>services</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9hbWJlclN5bmNocm9uaXplci9zeW5jaHJvbml6ZXI=</entry>
@@ -356,10 +362,10 @@
         <entry>%s/dlv/dls/g</entry>
         <entry>5</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>ls</entry>
         <entry>w</entry>
         <entry>W</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
