@@ -15,6 +15,9 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" timestamp="1493809755172">
+        <mark key="'" line="42" column="9" />
+      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1490280111472">
         <mark key="'" line="0" column="0" />
       </file>
@@ -168,13 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="26" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="251" column="26" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="315" column="51" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="346" column="43" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="386" column="27" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="401" column="27" filename="D:/project/dlv/project/web/core/core.services.yml" />
-      <jump line="418" column="39" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="665" column="29" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="674" column="30" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="748" column="43" filename="D:/project/dlv/project/web/core/core.services.yml" />
@@ -268,6 +264,13 @@
       <jump line="53" column="34" filename="D:/project/dls/project/web/sites/default/settings.php" />
       <jump line="594" column="19" filename="D:/project/dls/project/web/sites/default/settings.php" />
       <jump line="653" column="8" filename="D:/project/dls/project/web/sites/default/settings.php" />
+      <jump line="282" column="18" filename="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" />
+      <jump line="493" column="4" filename="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" />
+      <jump line="494" column="22" filename="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" />
+      <jump line="499" column="28" filename="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" />
+      <jump line="500" column="14" filename="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" />
+      <jump line="503" column="13" filename="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" />
+      <jump line="42" column="9" filename="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -277,7 +280,7 @@
         <text encoding="base64">IHdpbmRvd1dpZHRo</text>
       </register>
       <register name="/" type="4">
-        <text>services</text>
+        <text>stat</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b3JpZ1dpbmRvd1dpZHRoIA==</text>
@@ -314,9 +317,9 @@
       </register>
     </registers>
     <search>
-      <last-search>services</last-search>
+      <last-search>stat</last-search>
       <last-offset />
-      <last-pattern>services</last-pattern>
+      <last-pattern>stat</last-pattern>
       <last-replace>dls</last-replace>
       <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
@@ -324,8 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tempstore</entry>
-        <entry>private</entry>
         <entry>:get</entry>
         <entry>verkeer</entry>
         <entry>release</entry>
@@ -344,6 +345,8 @@
         <entry>debug</entry>
         <entry>twig</entry>
         <entry>services</entry>
+        <entry>url_stat</entry>
+        <entry>stat</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9hbWJlclN5bmNocm9uaXplci9zeW5jaHJvbml6ZXI=</entry>
