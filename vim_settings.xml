@@ -34,18 +34,14 @@
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1490280111472">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/dlv/project/web/core/lib/Drupal/Component/PhpStorage/FileStorage.php" timestamp="1492179531005">
-        <mark key="'" line="181" column="18" />
-        <mark key="m" line="265" column="18" />
-        <mark key="n" line="265" column="18" />
-      </file>
+      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/samenvattingstrafzaak-bsn-111112485-parketnummer-0105837017.xml" timestamp="1494327787102" />
       <file name="D:/project/dlv/project/web/core/modules/user/src/Form/UserLoginForm.php" timestamp="1491309011848">
         <mark key="'" line="162" column="40" />
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1490280122269">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1490966105194">
+      <file name="/PHP Console" timestamp="1494328074528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/sites/default/development.settings.php.j2" timestamp="1493889329243">
@@ -77,6 +73,9 @@
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/OvJRedenController.php" timestamp="1491815131025">
         <mark key="'" line="225" column="0" />
+      </file>
+      <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1494328129776">
+        <mark key="'" line="676" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1494256120651">
         <mark key="[" line="0" column="0" />
@@ -198,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapStubAllBsn.php" />
-      <jump line="8" column="22" filename="D:/project/dls/project/config/simplesamlphp/development/config/config.php.j2" />
-      <jump line="23" column="29" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
       <jump line="2" column="2" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
       <jump line="133" column="57" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
       <jump line="77" column="4" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
@@ -298,6 +294,9 @@
       <jump line="0" column="0" filename="D:/project/dlv/project/web/sites/default/development.settings.php.j2" />
       <jump line="3" column="0" filename="D:/project/dlv/project/web/sites/default/local.settings.php" />
       <jump line="0" column="0" filename="D:/project/dlv/project/web/sites/default/local.settings.php" />
+      <jump line="121" column="0" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
+      <jump line="664" column="58" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
+      <jump line="676" column="46" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -345,12 +344,12 @@
     </registers>
     <search>
       <last-search>stat</last-search>
-      <last-offset />
+      <last-offset>zittingzm</last-offset>
       <last-pattern>stat</last-pattern>
       <last-replace>dls</last-replace>
       <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
