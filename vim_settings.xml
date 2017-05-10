@@ -6,7 +6,6 @@
       <file name="D:/project/dls/project/web/core/core.services.yml" timestamp="1493390218187">
         <mark key="'" line="737" column="33" />
       </file>
-      <file name="D:/Users/mtheunis/Desktop/strafprocedure.inc" timestamp="1494333844978" />
       <file name="D:/project/dlv/project/web/sites/default/local.settings.php" timestamp="1494255954020">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="2" />
@@ -23,7 +22,6 @@
         <mark key="^" line="5" column="111" />
         <mark key="." line="5" column="111" />
       </file>
-      <file name="D:/project/dls/project/web/core/includes/errors.inc" timestamp="1494395794237" />
       <file name="D:/project/dls/project/web/profiles/custom/om_dls_profile/om_dls_release/config/install/om_digid.settings.simplesaml.yml" timestamp="1491832841302">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="25" />
@@ -33,11 +31,9 @@
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" timestamp="1493809755172">
         <mark key="'" line="42" column="9" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_dls/templates/phase-zitting.html.twig" timestamp="1494333526314" />
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1490280111472">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/samenvattingstrafzaak-bsn-111112485-parketnummer-0105837017.xml" timestamp="1494338210294" />
       <file name="D:/project/dlv/project/web/core/modules/user/src/Form/UserLoginForm.php" timestamp="1491309011848">
         <mark key="'" line="162" column="40" />
       </file>
@@ -61,7 +57,6 @@
         <mark key="^" line="123" column="99" />
         <mark key="." line="123" column="99" />
       </file>
-      <file name="D:/project/dls/project/web/core/includes/bootstrap.inc" timestamp="1494395712491" />
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/LandingController.php" timestamp="1490947868836">
         <mark key="[" line="83" column="19" />
         <mark key="]" line="83" column="23" />
@@ -99,6 +94,13 @@
         <mark key="]" line="30" column="59" />
         <mark key="." line="30" column="59" />
         <mark key="^" line="30" column="59" />
+      </file>
+      <file name="D:/project/dls/project/config/simplesamlphp/production/config/config.php.j2" timestamp="1494397958587">
+        <mark key="[" line="18" column="40" />
+        <mark key="k" line="19" column="27" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/DataForm.php" timestamp="1491029171443">
         <mark key="'" line="69" column="4" />
@@ -299,10 +301,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>NOTICE</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>NOTICE</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
@@ -348,7 +350,7 @@
       <last-replace>dls</last-replace>
       <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -391,8 +393,8 @@
         <entry>5</entry>
         <entry>wq</entry>
         <entry>ls</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
