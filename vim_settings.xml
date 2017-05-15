@@ -43,6 +43,7 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="19" column="27" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_digid/src/Controller/DigidErrorController.php" timestamp="1494849659092" />
       <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/config.php.j2" timestamp="1494403557762">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="39" />
@@ -169,7 +170,7 @@
       <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1494328129776">
         <mark key="'" line="676" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494409386183">
+      <file name="/Dummy.txt" timestamp="1494849551570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
