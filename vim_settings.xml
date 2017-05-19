@@ -24,6 +24,9 @@
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" timestamp="1493809755172">
         <mark key="'" line="42" column="9" />
       </file>
+      <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" timestamp="1495181668679">
+        <mark key="'" line="53" column="7" />
+      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1490280111472">
         <mark key="'" line="0" column="0" />
       </file>
@@ -123,13 +126,19 @@
       <file name="/PHP Console" timestamp="1494395810067">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/project/dlv/project/vendor/dvom/justid_service/src/JustIdService.php" timestamp="1495181580461">
+        <mark key="[" line="144" column="13" />
+        <mark key="]" line="144" column="13" />
+        <mark key="." line="144" column="13" />
+        <mark key="^" line="144" column="13" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/OvJRedenController.php" timestamp="1491815131025">
         <mark key="'" line="225" column="0" />
       </file>
       <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1494328129776">
         <mark key="'" line="676" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494849551570">
+      <file name="/Dummy.txt" timestamp="1495181060190">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
@@ -185,11 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="2" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
-      <jump line="133" column="57" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
-      <jump line="77" column="4" filename="D:/project/dls/project/config/simplesamlphp/release/config/config.php.j2" />
-      <jump line="28" column="6" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/DataForm.php" />
-      <jump line="69" column="4" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/DataForm.php" />
       <jump line="0" column="0" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/modules/saml/lib/Message.php" />
       <jump line="138" column="4" filename="D:/project/dlv/project/web/core/modules/user/src/Form/UserLoginForm.php" />
       <jump line="162" column="40" filename="D:/project/dlv/project/web/core/modules/user/src/Form/UserLoginForm.php" />
@@ -285,16 +289,21 @@
       <jump line="121" column="0" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
       <jump line="664" column="58" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
       <jump line="676" column="46" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
+      <jump line="15" column="6" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" />
+      <jump line="25" column="2" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" />
+      <jump line="9" column="4" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" />
+      <jump line="58" column="30" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" />
+      <jump line="53" column="7" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>RequestException</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>RequestException</text>
       </register>
       <register name="/" type="4">
-        <text>stat</text>
+        <text>soapclient</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdzYW1sLlNPQVBDbGllbnQuc3RyZWFtY29udGV4dC5zc2wucGVlcl9uYW1lJyA9PiAnd2FzLXByZXByb2QxLmRpZ2lkLm5sJywK</text>
@@ -331,19 +340,16 @@
       </register>
     </registers>
     <search>
-      <last-search>stat</last-search>
-      <last-offset>zittingzm</last-offset>
-      <last-pattern>stat</last-pattern>
+      <last-search>soapclient</last-search>
+      <last-offset />
+      <last-pattern>soapclient</last-pattern>
       <last-replace>dls</last-replace>
       <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>:get</entry>
-        <entry>verkeer</entry>
-        <entry>release</entry>
         <entry>dlv</entry>
         <entry>open</entry>
         <entry>choice</entry>
@@ -361,6 +367,9 @@
         <entry>services</entry>
         <entry>url_stat</entry>
         <entry>stat</entry>
+        <entry>handleExcep</entry>
+        <entry>soap</entry>
+        <entry>soapclient</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9hbWJlclN5bmNocm9uaXplci9zeW5jaHJvbml6ZXI=</entry>
