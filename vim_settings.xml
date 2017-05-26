@@ -34,6 +34,9 @@
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1490280111472">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/core/modules/image/src/Plugin/Field/FieldWidget/ImageWidget.php" timestamp="1495785460963">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/project/dlv/project/web/core/modules/user/src/Form/UserLoginForm.php" timestamp="1491309011848">
         <mark key="'" line="162" column="40" />
       </file>
@@ -146,7 +149,7 @@
       <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1495455267985">
         <mark key="'" line="151" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495528731051">
+      <file name="/Dummy.txt" timestamp="1495784507561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
@@ -213,9 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="15" filename="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" />
-      <jump line="204" column="9" filename="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" />
-      <jump line="208" column="42" filename="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" />
       <jump line="211" column="9" filename="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" />
       <jump line="212" column="22" filename="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" />
       <jump line="13" column="3" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Entity/EntityInterface.php" />
@@ -313,6 +313,9 @@
       <jump line="177" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
       <jump line="182" column="44" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
       <jump line="76" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/templates/om-dlv-appeal-document.html.twig" />
+      <jump line="9" column="24" filename="D:/project/dlv/project/web/core/modules/image/src/Plugin/Field/FieldWidget/ImageWidget.php" />
+      <jump line="312" column="27" filename="D:/project/dlv/project/web/core/modules/image/src/Plugin/Field/FieldWidget/ImageWidget.php" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/web/core/modules/image/src/Plugin/Field/FieldWidget/ImageWidget.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -322,7 +325,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>widget</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJGluc3RhbmNlLT5zZXRUYWcoJG5hbWUpOwo=</text>
@@ -359,18 +362,16 @@
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>widget</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>widget</last-pattern>
       <last-replace>dls</last-replace>
       <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>comparison</entry>
-        <entry>flood</entry>
         <entry>appeal</entry>
         <entry>file_cron</entry>
         <entry>garbage</entry>
@@ -389,6 +390,8 @@
         <entry>image</entry>
         <entry>$ss</entry>
         <entry>name</entry>
+        <entry>formatter</entry>
+        <entry>widget</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9hbWJlclN5bmNocm9uaXplci9zeW5jaHJvbml6ZXI=</entry>
