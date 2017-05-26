@@ -43,10 +43,6 @@
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1490280122269">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/acceptance/config/authsources.php" timestamp="1494403911960">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="77" />
-      </file>
       <file name="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" timestamp="1494403574858">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="40" />
@@ -59,6 +55,9 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="6" column="35" />
       </file>
+      <file name="D:/project/dls/project/web/core/modules/image/tests/src/Kernel/ImageFormatterTest.php" timestamp="1495786929768">
+        <mark key="'" line="86" column="27" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/LandingController.php" timestamp="1490947868836">
         <mark key="[" line="83" column="19" />
         <mark key="]" line="83" column="23" />
@@ -68,12 +67,8 @@
       <file name="D:/project/dlv/project/web/core/modules/file/file.module" timestamp="1492179882347">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/config/simplesamlphp/production/config/config.php.j2" timestamp="1494421955588">
-        <mark key="[" line="4" column="41" />
-        <mark key="k" line="19" column="27" />
-        <mark key="]" line="4" column="41" />
-        <mark key="." line="4" column="41" />
-        <mark key="^" line="18" column="44" />
+      <file name="D:/project/dls/project/web/core/modules/user/tests/src/Kernel/Field/UserNameFormatterTest.php" timestamp="1495787117620">
+        <mark key="'" line="10" column="13" />
       </file>
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" timestamp="1490347753252">
         <mark key="'" line="74" column="76" />
@@ -93,16 +88,14 @@
       <file name="D:/project/dls/project/web/sites/example.settings.local.php" timestamp="1493389603242">
         <mark key="'" line="81" column="70" />
       </file>
+      <file name="D:/project/dls/project/web/core/modules/node/src/Entity/Node.php" timestamp="1495786632835">
+        <mark key="'" line="9" column="22" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_debug/om_debug.links.menu.yml" timestamp="1490192126646">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="3" column="37" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="3" column="37" />
-      </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/release/config/config.php.j2" timestamp="1494403568714">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="39" />
-        <mark key="." line="4" column="40" />
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Cache/PhpBackend.php" timestamp="1492179629064">
         <mark key="'" line="161" column="22" />
@@ -113,11 +106,6 @@
       <file name="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" timestamp="1492179457680">
         <mark key="'" line="212" column="22" />
       </file>
-      <file name="D:/project/dls/project/config/simplesamlphp/production/config/authsources.php" timestamp="1494421766642">
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="23" column="57" />
-      </file>
       <file name="D:/project/dlv/project/web/sites/development.services.yml" timestamp="1493889395965">
         <mark key="[" line="44" column="11" />
         <mark key="]" line="44" column="15" />
@@ -127,12 +115,23 @@
       <file name="D:/project/dls/project/web/modules/custom/om_dls/templates/page-generic.html.twig" timestamp="1495445134319">
         <mark key="'" line="51" column="28" />
       </file>
+      <file name="D:/project/dls/project/web/modules/custom/om_dls/src/Entity/GenericPage.php" timestamp="1495787593224">
+        <mark key="'" line="232" column="16" />
+      </file>
+      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/EntityViewBuilder.php" timestamp="1495787661541">
+        <mark key="'" line="461" column="34" />
+      </file>
+      <file name="D:/project/dls/project/web/core/modules/field/src/Tests/Email/EmailFieldTest.php" timestamp="1495787402829">
+        <mark key="k" line="78" column="19" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/templates/om-dlv-appeal-document.html.twig" timestamp="1495541351297">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="D:/project/dls/project/config/simplesamlphp/release/config/authsources.php" timestamp="1494401957312">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="77" />
+      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Field/FieldDefinitionInterface.php" timestamp="1495787950279">
+        <mark key="'" line="116" column="48" />
+      </file>
+      <file name="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" timestamp="1495787880203">
+        <mark key="'" line="440" column="8" />
       </file>
       <file name="/PHP Console" timestamp="1494395810067">
         <mark key="[" line="0" column="0" />
@@ -149,11 +148,17 @@
       <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1495455267985">
         <mark key="'" line="151" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495784507561">
+      <file name="/Dummy.txt" timestamp="1495787547274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Field/Plugin/Field/FieldFormatter/BooleanFormatter.php" timestamp="1495787342074">
+        <mark key="[" line="155" column="3" />
+        <mark key="]" line="155" column="8" />
+        <mark key="^" line="155" column="8" />
+        <mark key="." line="155" column="8" />
       </file>
       <file name="/fragment.php" timestamp="1490792314344">
         <mark key="[" line="0" column="0" />
@@ -169,16 +174,6 @@
         <mark key="]" line="41" column="27" />
         <mark key="." line="41" column="32" />
         <mark key="^" line="40" column="25" />
-      </file>
-      <file name="D:/project/dlv/project/config/simplesamlphp/production/config/authsources.php" timestamp="1494403921576">
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="23" column="57" />
-      </file>
-      <file name="D:/project/dls/project/config/simplesamlphp/acceptance/config/config.php.j2" timestamp="1494401454720">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="42" />
-        <mark key="." line="4" column="19" />
       </file>
       <file name="D:/project/dls/project/web/modules/custom/om_dls/src/GenericPageViewBuilder.php" timestamp="1495445392752">
         <mark key="[" line="26" column="4" />
@@ -210,46 +205,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="37" />
       </file>
-      <file name="D:/project/dlv/project/web/sites/example.settings.local.php" timestamp="1493889268642">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="75" column="73" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="9" filename="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" />
-      <jump line="212" column="22" filename="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" />
-      <jump line="13" column="3" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Entity/EntityInterface.php" />
-      <jump line="66" column="3" filename="D:/project/dlv/project/web/core/lib/Drupal/Component/PhpStorage/FileStorage.php" />
-      <jump line="206" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Component/PhpStorage/FileStorage.php" />
-      <jump line="211" column="5" filename="D:/project/dlv/project/web/core/lib/Drupal/Component/PhpStorage/FileStorage.php" />
-      <jump line="240" column="29" filename="D:/project/dlv/project/web/core/lib/Drupal/Component/PhpStorage/FileStorage.php" />
-      <jump line="181" column="18" filename="D:/project/dlv/project/web/core/lib/Drupal/Component/PhpStorage/FileStorage.php" />
-      <jump line="161" column="22" filename="D:/project/dlv/project/web/core/lib/Drupal/Core/Cache/PhpBackend.php" />
-      <jump line="64" column="0" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.js" />
-      <jump line="86" column="25" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.js" />
-      <jump line="87" column="25" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.js" />
-      <jump line="91" column="23" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.js" />
-      <jump line="93" column="39" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.js" />
-      <jump line="97" column="23" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.js" />
-      <jump line="84" column="25" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.js" />
-      <jump line="195" column="0" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.bak.js" />
-      <jump line="0" column="0" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.bak.js" />
-      <jump line="79" column="0" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.js" />
-      <jump line="0" column="0" filename="D:/project/dls/project/web/themes/custom/om_dls_theme/js/om_dls_theme.js" />
-      <jump line="0" column="0" filename="D:/project/dls/project/web/sites/example.settings.local.php" />
-      <jump line="55" column="0" filename="D:/project/dls/project/web/sites/example.settings.local.php" />
-      <jump line="81" column="70" filename="D:/project/dls/project/web/sites/example.settings.local.php" />
-      <jump line="330" column="43" filename="D:/project/dls/project/web/core/core.services.yml" />
-      <jump line="1609" column="38" filename="D:/project/dls/project/web/core/core.services.yml" />
-      <jump line="414" column="13" filename="D:/project/dls/project/web/core/core.services.yml" />
-      <jump line="415" column="33" filename="D:/project/dls/project/web/core/core.services.yml" />
-      <jump line="696" column="28" filename="D:/project/dls/project/web/core/core.services.yml" />
-      <jump line="735" column="33" filename="D:/project/dls/project/web/core/core.services.yml" />
-      <jump line="736" column="12" filename="D:/project/dls/project/web/core/core.services.yml" />
-      <jump line="737" column="33" filename="D:/project/dls/project/web/core/core.services.yml" />
-      <jump line="0" column="0" filename="D:/project/dls/project/web/sites/default/services.yml" />
-      <jump line="58" column="6" filename="D:/project/dls/project/web/sites/default/services.yml" />
-      <jump line="60" column="30" filename="D:/project/dls/project/web/sites/default/services.yml" />
       <jump line="67" column="6" filename="D:/project/dls/project/web/sites/default/services.yml" />
       <jump line="69" column="18" filename="D:/project/dls/project/web/sites/default/services.yml" />
       <jump line="70" column="45" filename="D:/project/dls/project/web/sites/default/services.yml" />
@@ -316,6 +273,40 @@
       <jump line="9" column="24" filename="D:/project/dlv/project/web/core/modules/image/src/Plugin/Field/FieldWidget/ImageWidget.php" />
       <jump line="312" column="27" filename="D:/project/dlv/project/web/core/modules/image/src/Plugin/Field/FieldWidget/ImageWidget.php" />
       <jump line="0" column="0" filename="D:/project/dlv/project/web/core/modules/image/src/Plugin/Field/FieldWidget/ImageWidget.php" />
+      <jump line="0" column="0" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="8" column="22" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="0" column="0" filename="D:/project/dls/project/web/core/modules/node/src/Entity/Node.php" />
+      <jump line="9" column="22" filename="D:/project/dls/project/web/core/modules/node/src/Entity/Node.php" />
+      <jump line="62" column="3" filename="D:/project/dls/project/web/core/modules/image/tests/src/Kernel/ImageFormatterTest.php" />
+      <jump line="16" column="11" filename="D:/project/dls/project/web/core/modules/image/tests/src/Kernel/ImageFormatterTest.php" />
+      <jump line="84" column="37" filename="D:/project/dls/project/web/core/modules/image/tests/src/Kernel/ImageFormatterTest.php" />
+      <jump line="86" column="27" filename="D:/project/dls/project/web/core/modules/image/tests/src/Kernel/ImageFormatterTest.php" />
+      <jump line="79" column="58" filename="D:/project/dls/project/web/core/modules/user/tests/src/Kernel/Field/UserNameFormatterTest.php" />
+      <jump line="83" column="58" filename="D:/project/dls/project/web/core/modules/user/tests/src/Kernel/Field/UserNameFormatterTest.php" />
+      <jump line="88" column="58" filename="D:/project/dls/project/web/core/modules/user/tests/src/Kernel/Field/UserNameFormatterTest.php" />
+      <jump line="92" column="58" filename="D:/project/dls/project/web/core/modules/user/tests/src/Kernel/Field/UserNameFormatterTest.php" />
+      <jump line="10" column="13" filename="D:/project/dls/project/web/core/modules/user/tests/src/Kernel/Field/UserNameFormatterTest.php" />
+      <jump line="476" column="0" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="65" column="0" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="41" column="28" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="89" column="36" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="374" column="42" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="34" column="0" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="27" column="39" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="444" column="86" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="453" column="65" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="232" column="16" filename="D:/project/dls/project/web/modules/custom/om_dls/src/Entity/GenericPage.php" />
+      <jump line="21" column="6" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/EntityViewBuilder.php" />
+      <jump line="31" column="7" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/EntityViewBuilder.php" />
+      <jump line="115" column="12" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/EntityViewBuilder.php" />
+      <jump line="209" column="45" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/EntityViewBuilder.php" />
+      <jump line="233" column="46" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/EntityViewBuilder.php" />
+      <jump line="461" column="34" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/EntityViewBuilder.php" />
+      <jump line="26" column="8" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="447" column="6" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="440" column="8" filename="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" />
+      <jump line="50" column="10" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Field/FieldDefinitionInterface.php" />
+      <jump line="116" column="48" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Field/FieldDefinitionInterface.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -325,7 +316,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>widget</text>
+        <text>getdisplay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJGluc3RhbmNlLT5zZXRUYWcoJG5hbWUpOwo=</text>
@@ -362,9 +353,9 @@
       </register>
     </registers>
     <search>
-      <last-search>widget</last-search>
+      <last-search>getdisplay</last-search>
       <last-offset />
-      <last-pattern>widget</last-pattern>
+      <last-pattern>getdisplay</last-pattern>
       <last-replace>dls</last-replace>
       <last-substitute>dlv</last-substitute>
       <last-dir>1</last-dir>
@@ -372,14 +363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>appeal</entry>
-        <entry>file_cron</entry>
-        <entry>garbage</entry>
-        <entry>delete</entry>
-        <entry>article.phase</entry>
-        <entry>null</entry>
-        <entry>message</entry>
-        <entry>debug</entry>
         <entry>twig</entry>
         <entry>services</entry>
         <entry>url_stat</entry>
@@ -391,7 +374,15 @@
         <entry>$ss</entry>
         <entry>name</entry>
         <entry>formatter</entry>
+        <entry>basefield</entry>
         <entry>widget</entry>
+        <entry>formatt</entry>
+        <entry>user_name</entry>
+        <entry>view</entry>
+        <entry>format</entry>
+        <entry>setDisplay</entry>
+        <entry>setdisplayoptions</entry>
+        <entry>getdisplay</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9hbWJlclN5bmNocm9uaXplci9zeW5jaHJvbml6ZXI=</entry>
