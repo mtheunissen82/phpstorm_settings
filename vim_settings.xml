@@ -81,7 +81,12 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_login/om_login.module" timestamp="1496137214990" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_login/om_login.module" timestamp="1496145824649">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="31" column="4" />
+      </file>
       <file name="D:/project/dls/project/web/modules/custom/om_dls/templates/page-generic.html.twig" timestamp="1496132163062">
         <mark key="'" line="26" column="27" />
       </file>
@@ -103,7 +108,7 @@
       <file name="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" timestamp="1495787880203">
         <mark key="'" line="440" column="8" />
       </file>
-      <file name="/PHP Console" timestamp="1496137103525">
+      <file name="/PHP Console" timestamp="1496145271618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" timestamp="1496060322118">
@@ -346,8 +351,8 @@
         <entry>W</entry>
         <entry>bd</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>Q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
