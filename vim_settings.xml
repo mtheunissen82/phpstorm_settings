@@ -316,7 +316,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">JHRoaXMtPm1wZGY=</text>
+        <text>lower</text>
       </register>
       <register name="0" type="4">
         <text>return (string)</text>
@@ -353,17 +353,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">JHRoaXMtPm1wZGY=</last-search>
+      <last-search>lower</last-search>
       <last-offset />
-      <last-pattern encoding="base64">JHRoaXMtPm1wZGY=</last-pattern>
+      <last-pattern>lower</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>format</entry>
         <entry>filter</entry>
         <entry>submit</entry>
         <entry>getImage</entry>
@@ -383,6 +382,7 @@
         <entry>Delete</entry>
         <entry>mpdf</entry>
         <entry encoding="base64">JHRoaXMtPm1wZGY=</entry>
+        <entry>lower</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
