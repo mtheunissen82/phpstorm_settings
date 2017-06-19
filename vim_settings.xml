@@ -52,6 +52,7 @@
       <file name="D:/project/dlv/project/web/core/modules/user/src/Form/UserLoginForm.php" timestamp="1491309011848">
         <mark key="'" line="162" column="40" />
       </file>
+      <file name="D:/project/dlv/project/web/core/modules/toolbar/toolbar.libraries.yml" timestamp="1497862002934" />
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1490280122269">
         <mark key="'" line="0" column="0" />
       </file>
@@ -154,7 +155,7 @@
       <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1495455267985">
         <mark key="'" line="151" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497441001765">
+      <file name="/Dummy.txt" timestamp="1497862546932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
@@ -185,6 +186,7 @@
       <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/xsd/cdm/cdm_afdoeningsbeslissing_1.1.xsd" timestamp="1497441133279">
         <mark key="'" line="45" column="26" />
       </file>
+      <file name="D:/project/dlv/project/web/core/modules/toolbar/css/toolbar.icons.theme.css" timestamp="1497862484649" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/Textarea.php" timestamp="1495804792730">
         <mark key="'" line="24" column="16" />
       </file>
@@ -365,7 +367,7 @@
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
