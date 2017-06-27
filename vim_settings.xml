@@ -87,6 +87,12 @@
       <file name="D:/project/dlv/project/vendor/dvom/cjib_service/src/Resources/Webservice/v2.1/3062542176467711-response.xml" timestamp="1496226393629">
         <mark key="'" line="7" column="40" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/EventSubscriber/AppealStatusChangeSubscriber.php" timestamp="1498548248809">
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="47" column="8" />
+        <mark key="." line="47" column="8" />
+        <mark key="^" line="47" column="8" />
+      </file>
       <file name="D:/project/dlv/project/web/core/modules/file/file.module" timestamp="1498484064923">
         <mark key="'" line="0" column="0" />
         <mark key="." line="649" column="80" />
@@ -163,8 +169,11 @@
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
         <mark key="'" line="239" column="9" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" timestamp="1497424594917">
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" timestamp="1498548507329">
         <mark key="'" line="458" column="3" />
+        <mark key="[" line="804" column="0" />
+        <mark key="]" line="804" column="0" />
+        <mark key="." line="804" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/OvJRedenController.php" timestamp="1491815131025">
         <mark key="'" line="225" column="0" />
@@ -326,11 +335,11 @@
       <jump line="98" column="36" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/ConfirmationController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmICgkb2xkU3RhdHVzID09ICRuZXdTdGF0dXMpIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>appeal</text>
@@ -339,31 +348,31 @@
         <text>'imageVariable' . $</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgJGFsbEF0dGFjaG1lbnRzSW5mb1tdID0gWwogICAgICAgICAgJ3RpdGxlJyA9PiAkdGhpcy0+dCgiU3BlZWQgdHJhcCBwaG90byIpLAogICAgICAgICAgJ3R5cGUnID0+ICRwaG90by0+Z2V0TWltZVR5cGUoKSwKICAgICAgICAgICd1cmwnID0+ICRpbWFnZVVybCwKICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgIGlmICgkb2xkU3RhdHVzID09ICRuZXdTdGF0dXMpIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICRpbWFnZVVybCA9IGZpbGVfY3JlYXRlX3VybCgkcGhvdG8tPmdldEZpbGVVcmkoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICRpdGVtID0gbmV3IFxzdGRDbGFzcygpOwogICAgJGl0ZW0tPmFwcGVhbElkID0gJGV2ZW50LT5nZXRBcHBlYWwoKS0+Z2V0QXBwZWFsSWQoKTsKCiAgICAkdGhpcy0+Z2V0UXVldWUoKS0+Y3JlYXRlSXRlbSgkaXRlbSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRlbXBsYXRlID09IHNlbGY6OlRFTVBMQVRFX1BERikgewo=</text>
+        <text encoding="base64">CiAgICAgICAgJGFsbEF0dGFjaG1lbnRzSW5mb1tdID0gWwogICAgICAgICAgJ3RpdGxlJyA9PiAkdGhpcy0+dCgiU3BlZWQgdHJhcCBwaG90byIpLAogICAgICAgICAgJ3R5cGUnID0+ICRwaG90by0+Z2V0TWltZVR5cGUoKSwKICAgICAgICAgICd1cmwnID0+ICRpbWFnZVVybCwKICAgICAgICBdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICdiYXNlNjQnID0+ICRiYXNlNjQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICRpbWFnZVVybCA9IGZpbGVfY3JlYXRlX3VybCgkcGhvdG8tPmdldEZpbGVVcmkoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRlbXBsYXRlID09IHNlbGY6OlRFTVBMQVRFX1BERikgewogICAgICAgICAgJGZpbGVfdXJpID0gJHBob3RvLT5nZXRGaWxlVXJpKCk7CiAgICAgICAgICAkZmlsZSA9IGZpbGVfZ2V0X2NvbnRlbnRzKCRmaWxlX3VyaSk7CiAgICAgICAgICAkYmFzZTY0ID0gJ2RhdGE6JyAuICRwaG90by0+Z2V0TWltZVR5cGUoKSAuICc7YmFzZTY0LCcgLiBiYXNlNjRfZW5jb2RlKCRmaWxlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlL2pwZycsICdpbWFnZS9wbmcnLAogICAgICAgICAgICAnaW1hZ2UvanBlZycsCiAgICAgICAgICAgICdpbWFnZS9wanBlZycsCiAgICAgICAgICAgICdpbWFnZS9naWYnCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRlbXBsYXRlID09IHNlbGY6OlRFTVBMQVRFX1BERikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYmFzZTY0ID0gTlVMTDsK</text>
+        <text encoding="base64">ICAgICAgICAgICdiYXNlNjQnID0+ICRiYXNlNjQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRtcGRmLT5Xcml0ZUhUTUwoJHRoaXMtPmdldEh0bWwoc2VsZjo6VEVNUExBVEVfUERGKSwgMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRlbXBsYXRlID09IHNlbGY6OlRFTVBMQVRFX1BERikgewogICAgICAgICAgJGZpbGVfdXJpID0gJHBob3RvLT5nZXRGaWxlVXJpKCk7CiAgICAgICAgICAkZmlsZSA9IGZpbGVfZ2V0X2NvbnRlbnRzKCRmaWxlX3VyaSk7CiAgICAgICAgICAkYmFzZTY0ID0gJ2RhdGE6JyAuICRwaG90by0+Z2V0TWltZVR5cGUoKSAuICc7YmFzZTY0LCcgLiBiYXNlNjRfZW5jb2RlKCRmaWxlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
