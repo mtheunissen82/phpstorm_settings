@@ -200,6 +200,7 @@
       <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/xsd/cdm/cdm_afdoeningsbeslissing_1.1.xsd" timestamp="1497441133279">
         <mark key="'" line="45" column="26" />
       </file>
+      <file name="D:/project/dlv/project/web/core/includes/file.inc" timestamp="1498488922792" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/Textarea.php" timestamp="1495804792730">
         <mark key="'" line="24" column="16" />
       </file>
@@ -372,7 +373,7 @@
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
