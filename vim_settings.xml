@@ -38,12 +38,6 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Menu/MenuLinkTree.php" timestamp="1496141845615">
         <mark key="'" line="162" column="10" />
       </file>
-      <file name="D:/project/dlv/project/vendor/mpdf/mpdf/mpdf.php" timestamp="1497966145415">
-        <mark key="'" line="21102" column="66" />
-        <mark key="[" line="9267" column="12" />
-        <mark key="]" line="9267" column="24" />
-        <mark key="." line="9267" column="12" />
-      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1490280111472">
         <mark key="'" line="0" column="0" />
       </file>
@@ -59,6 +53,9 @@
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1490280122269">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Element/OmDndUpload.php" timestamp="1498738147992">
+        <mark key="'" line="28" column="6" />
+      </file>
       <file name="D:/project/dls/project/web/modules/custom/om_dls/src/EventSubscriber/RouteSubscriber.php" timestamp="1496151962018">
         <mark key="'" line="7" column="29" />
       </file>
@@ -73,6 +70,12 @@
         <mark key="]" line="9" column="46" />
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
+      </file>
+      <file name="D:/project/dlv/project/vendor/masterexploder/phpthumb/src/PHPThumb/GD.php" timestamp="1498738170196">
+        <mark key="[" line="913" column="20" />
+        <mark key="]" line="913" column="21" />
+        <mark key="^" line="913" column="21" />
+        <mark key="." line="913" column="21" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/SendForm.php" timestamp="1498547766138">
         <mark key="'" line="24" column="6" />
@@ -214,15 +217,12 @@
       <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Utility/DataWrapper.php" timestamp="1495455098835">
         <mark key="'" line="137" column="18" />
       </file>
-      <file name="D:/project/dlv/project/vendor/symfony/http-foundation/File/UploadedFile.php" timestamp="1498726156410" />
       <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/xsd/cdm/cdm_afdoeningsbeslissing_1.1.xsd" timestamp="1497441133279">
         <mark key="'" line="45" column="26" />
       </file>
-      <file name="D:/project/dlv/project/web/core/includes/file.inc" timestamp="1498725446710" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/Textarea.php" timestamp="1495804792730">
         <mark key="'" line="24" column="16" />
       </file>
-      <file name="D:/project/dlv/project/vendor/symfony/http-foundation/Request.php" timestamp="1498725176985" />
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AmberSynchronizer.php" timestamp="1498549364132">
         <mark key="'" line="85" column="21" />
       </file>
@@ -240,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="18" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/Model/AppealInterface.php" />
       <jump line="458" column="3" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
       <jump line="53" column="24" filename="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/xsd/cdm/cdm_afdoeningsbeslissing_1.1.xsd" />
       <jump line="9" column="47" filename="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/xsd/cdm/cdm_afdoeningsbeslissing_1.1.xsd" />
@@ -340,6 +339,7 @@
       <jump line="76" column="29" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" />
       <jump line="77" column="49" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" />
       <jump line="801" column="4" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
+      <jump line="28" column="6" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Element/OmDndUpload.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -349,7 +349,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>equals</text>
+        <text>GD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN0YXR1c0NoYW5nZUV4Y2VwdGlvbigiQ291bGQgbm90IGNoYW5nZSBhcHBlYWwgc3RhdHVza2siKTsK</text>
@@ -386,17 +386,16 @@
       </register>
     </registers>
     <search>
-      <last-search>equals</last-search>
+      <last-search>GD</last-search>
       <last-offset />
-      <last-pattern>equals</last-pattern>
+      <last-pattern>GD</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>imagick</entry>
         <entry>md4</entry>
         <entry>Image</entry>
         <entry>base64</entry>
@@ -416,6 +415,7 @@
         <entry>appeal</entry>
         <entry>synchronize</entry>
         <entry>equals</entry>
+        <entry>GD</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
