@@ -29,6 +29,9 @@
         <mark key="^" line="167" column="13" />
         <mark key="." line="167" column="13" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" timestamp="1499164490794">
+        <mark key="'" line="94" column="14" />
+      </file>
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" timestamp="1493809755172">
         <mark key="'" line="42" column="9" />
       </file>
@@ -47,7 +50,6 @@
       <file name="D:/project/dlv/project/web/core/modules/image/src/Plugin/Field/FieldWidget/ImageWidget.php" timestamp="1495785460963">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/dlv/project/web/sites/default/production.settings.php.j2" timestamp="1499156710772" />
       <file name="D:/project/dlv/project/web/core/modules/user/src/Form/UserLoginForm.php" timestamp="1491309011848">
         <mark key="'" line="162" column="40" />
       </file>
@@ -197,7 +199,7 @@
       <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1495455267985">
         <mark key="'" line="151" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499073030150">
+      <file name="/Dummy.txt" timestamp="1499164381164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
@@ -248,11 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="34" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" />
-      <jump line="22" column="11" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" />
-      <jump line="38" column="13" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" />
-      <jump line="39" column="27" filename="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/vendor/mpdf/mpdf/mpdf.php" />
       <jump line="13373" column="8" filename="D:/project/dlv/project/vendor/mpdf/mpdf/mpdf.php" />
       <jump line="28873" column="6" filename="D:/project/dlv/project/vendor/mpdf/mpdf/mpdf.php" />
       <jump line="19" column="0" filename="D:/project/dlv/project/vendor/mpdf/mpdf/mpdf.php" />
@@ -348,6 +345,11 @@
       <jump line="1183" column="34" filename="D:/project/dlv/project/web/core/modules/file/file.module" />
       <jump line="65" column="0" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/src/Element/ManagedFile.php" />
       <jump line="72" column="19" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/src/Element/ManagedFile.php" />
+      <jump line="0" column="0" filename="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" />
+      <jump line="127" column="14" filename="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" />
+      <jump line="12" column="14" filename="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" />
+      <jump line="26" column="14" filename="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" />
+      <jump line="94" column="14" filename="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,7 +359,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>file_managed_file_save_upload</text>
+        <text>hook</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN0YXR1c0NoYW5nZUV4Y2VwdGlvbigiQ291bGQgbm90IGNoYW5nZSBhcHBlYWwgc3RhdHVza2siKTsK</text>
@@ -394,17 +396,16 @@
       </register>
     </registers>
     <search>
-      <last-search>file_managed_file_save_upload</last-search>
+      <last-search>hook</last-search>
       <last-offset />
-      <last-pattern>file_managed_file_save_upload</last-pattern>
+      <last-pattern>hook</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>phots</entry>
         <entry>photos</entry>
         <entry>outputPdf</entry>
         <entry>$mpdf</entry>
@@ -424,6 +425,7 @@
         <entry>correctPermissions</entry>
         <entry>upload_location</entry>
         <entry>file_managed_file_save_upload</entry>
+        <entry>hook</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
