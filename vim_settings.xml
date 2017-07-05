@@ -109,6 +109,13 @@
         <mark key="." line="47" column="8" />
         <mark key="^" line="47" column="8" />
       </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" timestamp="1499246909083">
+        <mark key="'" line="488" column="7" />
+        <mark key="[" line="772" column="7" />
+        <mark key="]" line="772" column="3" />
+        <mark key="^" line="772" column="3" />
+        <mark key="." line="772" column="3" />
+      </file>
       <file name="D:/project/dlv/project/web/core/modules/file/file.module" timestamp="1499169640224">
         <mark key="'" line="520" column="13" />
         <mark key="[" line="844" column="88" />
@@ -163,7 +170,6 @@
       <file name="D:/project/dls/project/web/modules/custom/om_dls/src/Entity/GenericPage.php" timestamp="1495787593224">
         <mark key="'" line="232" column="16" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_private_file/src/Service/PrivateFileService.php" timestamp="1499167415518" />
       <file name="D:/project/dlv/project/web/pdftest2.php" timestamp="1498035116462">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="20" />
@@ -176,6 +182,9 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Plugin/QueueWorker/AmberSynchronizerBase.php" timestamp="1498549384463">
         <mark key="'" line="77" column="49" />
       </file>
+      <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/SessionHandlerPHP.php" timestamp="1499246632070">
+        <mark key="'" line="210" column="20" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/templates/om-dlv-appeal-document.html.twig" timestamp="1495541351297">
         <mark key="'" line="76" column="0" />
       </file>
@@ -185,7 +194,6 @@
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Field/FieldDefinitionInterface.php" timestamp="1495787950279">
         <mark key="'" line="116" column="48" />
       </file>
-      <file name="D:/Users/mtheunis/Desktop/PDF Test/pdftest.php" timestamp="1499174511816" />
       <file name="D:/project/dls/project/web/core/modules/user/src/Entity/User.php" timestamp="1496151315792">
         <mark key="'" line="440" column="8" />
       </file>
@@ -245,7 +253,6 @@
       <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/xsd/cdm/cdm_afdoeningsbeslissing_1.1.xsd" timestamp="1497441133279">
         <mark key="'" line="45" column="26" />
       </file>
-      <file name="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/lib/Drupal/Core/Form/FormBuilderInterface.php" timestamp="1499170260539" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/Textarea.php" timestamp="1495804792730">
         <mark key="'" line="24" column="16" />
       </file>
@@ -266,15 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="6" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/SendForm.php" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
-      <jump line="16" column="6" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/Controller/AppealController.php" />
-      <jump line="46" column="18" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/Controller/AppealController.php" />
-      <jump line="186" column="4" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
-      <jump line="276" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
-      <jump line="195" column="7" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
-      <jump line="93" column="23" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
-      <jump line="178" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
       <jump line="117" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
       <jump line="113" column="30" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
       <jump line="180" column="9" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
@@ -366,6 +364,15 @@
       <jump line="213" column="13" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/file.module" />
       <jump line="215" column="9" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/file.module" />
       <jump line="218" column="168" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/file.module" />
+      <jump line="761" column="26" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="772" column="5" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="658" column="20" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="660" column="43" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="577" column="19" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="808" column="8" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="491" column="22" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="488" column="7" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <jump line="210" column="20" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/SessionHandlerPHP.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -375,7 +382,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>file_move</text>
+        <text>savesession</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN0YXR1c0NoYW5nZUV4Y2VwdGlvbigiQ291bGQgbm90IGNoYW5nZSBhcHBlYWwgc3RhdHVza2siKTsK</text>
@@ -412,9 +419,9 @@
       </register>
     </registers>
     <search>
-      <last-search>file_move</last-search>
+      <last-search>savesession</last-search>
       <last-offset />
-      <last-pattern>file_move</last-pattern>
+      <last-pattern>savesession</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
@@ -422,9 +429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add speed</entry>
-        <entry>md5</entry>
-        <entry>claimItem</entry>
         <entry>expire</entry>
         <entry>queue</entry>
         <entry>cron</entry>
@@ -442,6 +446,9 @@
         <entry>processManaged</entry>
         <entry>valueCallback</entry>
         <entry>file_move</entry>
+        <entry>dologout</entry>
+        <entry>destruct</entry>
+        <entry>savesession</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
