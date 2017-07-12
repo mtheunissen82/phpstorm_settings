@@ -120,7 +120,7 @@
         <mark key="." line="772" column="3" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/file/file.module" timestamp="1499780309646">
-        <mark key="'" line="684" column="23" />
+        <mark key="'" line="683" column="23" />
         <mark key="[" line="647" column="9" />
         <mark key="]" line="647" column="10" />
         <mark key="." line="647" column="10" />
@@ -227,7 +227,7 @@
       <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1495455267985">
         <mark key="'" line="151" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499780319518">
+      <file name="/Dummy.txt" timestamp="1499863685048">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
@@ -430,7 +430,7 @@
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
