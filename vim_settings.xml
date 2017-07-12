@@ -153,6 +153,7 @@
         <mark key="'" line="9" column="22" />
       </file>
       <file name="D:/project/dlv/project/vendor/dvom/cjib_service/src/Resources/Webservice/v2.1/3062542176468220-response.xml" timestamp="1499867408730" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Access/AppealStepAccessCheck.php" timestamp="1499868649925" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Cache/PhpBackend.php" timestamp="1492179629064">
         <mark key="'" line="161" column="22" />
       </file>
@@ -164,6 +165,12 @@
       </file>
       <file name="D:/project/dlv/project/web/core/modules/file/src/Element/ManagedFile.php" timestamp="1498744238278">
         <mark key="'" line="44" column="8" />
+      </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/StateTransitionException.php" timestamp="1499869351129">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="/Clipboard.txt" timestamp="1497863358856">
         <mark key="[" line="0" column="0" />
@@ -222,12 +229,12 @@
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
         <mark key="'" line="239" column="9" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" timestamp="1499866594322">
-        <mark key="'" line="808" column="4" />
-        <mark key="[" line="804" column="107" />
-        <mark key="]" line="804" column="107" />
-        <mark key="." line="804" column="107" />
-        <mark key="^" line="804" column="105" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" timestamp="1499870018202">
+        <mark key="'" line="64" column="23" />
+        <mark key="[" line="842" column="42" />
+        <mark key="]" line="842" column="43" />
+        <mark key="." line="842" column="43" />
+        <mark key="^" line="842" column="96" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/OvJRedenController.php" timestamp="1491815131025">
         <mark key="'" line="225" column="0" />
@@ -235,7 +242,7 @@
       <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1495455267985">
         <mark key="'" line="151" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499867391110">
+      <file name="/Dummy.txt" timestamp="1499869298158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
@@ -278,6 +285,12 @@
       <file name="D:/project/dls/project/web/core/modules/image/src/Entity/ImageStyle.php" timestamp="1495521358730">
         <mark key="'" line="522" column="0" />
       </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/StatusTransitionException.php" timestamp="1499869415846">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+      </file>
       <file name="D:/project/dls/project/web/sites/default/services.yml" timestamp="1493391246110">
         <mark key="'" line="122" column="31" />
       </file>
@@ -286,8 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="27" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
-      <jump line="79" column="20" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
       <jump line="88" column="45" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
       <jump line="194" column="42" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
       <jump line="215" column="44" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
@@ -386,55 +397,57 @@
       <jump line="136" column="21" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
       <jump line="404" column="58" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
       <jump line="265" column="4" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
+      <jump line="607" column="2" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
+      <jump line="64" column="23" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">XERydXBhbDo6Y29uZmlnKCdzeXN0ZW0uZmlsZScpLT5nZXQoJ3RlbXBvcmFyeV9tYXhpbXVtX2FnZScp</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XERydXBhbDo6Y29uZmlnKCdzeXN0ZW0uZmlsZScpLT5nZXQoJ3RlbXBvcmFyeV9tYXhpbXVtX2FnZScp</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>isdeletable</text>
+        <text>changeappealstatus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAkYWdlID0gXERydXBhbDo6Y29uZmlnKCdzeXN0ZW0uZmlsZScpLT5nZXQoJ3RlbXBvcmFyeV9tYXhpbXVtX2FnZScpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN0YXR1c1RyYW5zaXRpb25FeGNlcHRpb24oKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JG1wZGYtPm15SW1hZ2VWYXJpYWJsZTIgPSBmaWxlX2dldF9jb250ZW50cygnS29hbGEuanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGUzID0gZmlsZV9nZXRfY29udGVudHMoJ0NocnlzYW50aGVtdW0uanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGU0ID0gZmlsZV9nZXRfY29udGVudHMoJ0h5ZHJhbmdlYXMuanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGU1ID0gZmlsZV9nZXRfY29udGVudHMoJ0xpZ2h0aG91c2UuanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGU2ID0gZmlsZV9nZXRfY29udGVudHMoJ0Rlc2VydC5qcGcnKTsKJG1wZGYtPm15SW1hZ2VWYXJpYWJsZTcgPSBmaWxlX2dldF9jb250ZW50cygnVHVsaXBzLmpwZycpOwokbXBkZi0+bXlJbWFnZVZhcmlhYmxlOCA9IGZpbGVfZ2V0X2NvbnRlbnRzKCdiaW5nby5qcGcnKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAga2oK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGgxPnBkZnRlc3QyLnBocDwvaDE+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlMSIgLz4KPGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGUyIiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTMiIC8+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlNCIgLz4KPGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGU1IiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTYiIC8+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlNyIgLz4KPGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGU4IiAvPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICRvbGRTdGF0dXMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICgkb2xkU3RhdHVzLT5lcXVhbHMoJG5ld1N0YXR1cykpIHsKICAgICAgdGhyb3cgbmV3IFN0YXR1c0NoYW5nZUV4Y2VwdGlvbigiQ291bGQgbm90IGNoYW5nZSBhcHBlYWwgc3RhdHVza2siKTsKICAgIH0K</text>
+        <text encoding="base64">ICAvKioKICAgKiBTdGF0ZVRyYW5zaXRpb25FeGNlcHRpb24gY29uc3RydWN0b3IuCiAgICovCiAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgewogIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">JG1wZGYtPm15SW1hZ2VWYXJpYWJsZTIgPSBmaWxlX2dldF9jb250ZW50cygnS29hbGEuanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGUzID0gZmlsZV9nZXRfY29udGVudHMoJ0NocnlzYW50aGVtdW0uanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGU0ID0gZmlsZV9nZXRfY29udGVudHMoJ0h5ZHJhbmdlYXMuanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGU1ID0gZmlsZV9nZXRfY29udGVudHMoJ0xpZ2h0aG91c2UuanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGU2ID0gZmlsZV9nZXRfY29udGVudHMoJ0Rlc2VydC5qcGcnKTsKJG1wZGYtPm15SW1hZ2VWYXJpYWJsZTcgPSBmaWxlX2dldF9jb250ZW50cygnVHVsaXBzLmpwZycpOwokbXBkZi0+bXlJbWFnZVZhcmlhYmxlOCA9IGZpbGVfZ2V0X2NvbnRlbnRzKCdiaW5nby5qcGcnKTs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICRvbGRTdGF0dXMgPSAkdGhpcy0+Z2V0QXBwZWFsU3RhdHVzKCk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGgxPnBkZnRlc3QyLnBocDwvaDE+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlMSIgLz4KPGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGUyIiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTMiIC8+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlNCIgLz4KPGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGU1IiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTYiIC8+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlNyIgLz4KPGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGU4IiAvPg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICgkb2xkU3RhdHVzID09ICRuZXdTdGF0dXMpIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgkb2xkU3RhdHVzLT5lcXVhbHMoJG5ld1N0YXR1cykpIHsKICAgICAgdGhyb3cgbmV3IFN0YXR1c0NoYW5nZUV4Y2VwdGlvbigiQ291bGQgbm90IGNoYW5nZSBhcHBlYWwgc3RhdHVza2siKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isdeletable</last-search>
+      <last-search>changeappealstatus</last-search>
       <last-offset />
-      <last-pattern>isdeletable</last-pattern>
+      <last-pattern>changeappealstatus</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
@@ -442,7 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>file_managed_file_save_upload</entry>
         <entry>hook</entry>
         <entry encoding="base64">XDxwcm9jZXNzTWFuYWdlZEZpbGVcPg==</entry>
         <entry>processManaged</entry>
@@ -462,6 +474,7 @@
         <entry>delete</entry>
         <entry>cache</entry>
         <entry>isdeletable</entry>
+        <entry>changeappealstatus</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
