@@ -6,8 +6,12 @@
       <file name="D:/project/dls/project/web/core/core.services.yml" timestamp="1493390218187">
         <mark key="'" line="737" column="33" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/Model/AppealInterface.php" timestamp="1497424550440">
-        <mark key="'" line="238" column="18" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/Model/AppealInterface.php" timestamp="1499871115487">
+        <mark key="'" line="16" column="10" />
+        <mark key="[" line="361" column="52" />
+        <mark key="]" line="362" column="35" />
+        <mark key="^" line="362" column="35" />
+        <mark key="." line="362" column="35" />
       </file>
       <file name="D:/project/dls/project/web/modules/custom/om_dls/om_dls.routing.yml" timestamp="1496150721561">
         <mark key="'" line="121" column="23" />
@@ -40,6 +44,9 @@
       </file>
       <file name="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/file.module" timestamp="1499171013727">
         <mark key="'" line="218" column="168" />
+      </file>
+      <file name="/a.dummy" timestamp="1499870262156">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" timestamp="1493809755172">
         <mark key="'" line="42" column="9" />
@@ -229,12 +236,12 @@
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
         <mark key="'" line="239" column="9" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" timestamp="1499870018202">
-        <mark key="'" line="64" column="23" />
-        <mark key="[" line="842" column="42" />
-        <mark key="]" line="842" column="43" />
-        <mark key="." line="842" column="43" />
-        <mark key="^" line="842" column="96" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" timestamp="1499871135590">
+        <mark key="'" line="820" column="0" />
+        <mark key="[" line="64" column="69" />
+        <mark key="]" line="64" column="69" />
+        <mark key="." line="64" column="69" />
+        <mark key="^" line="64" column="69" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/OvJRedenController.php" timestamp="1491815131025">
         <mark key="'" line="225" column="0" />
@@ -299,9 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="45" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
-      <jump line="194" column="42" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
-      <jump line="215" column="44" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
       <jump line="47" column="4" filename="D:/project/dlv/project/vendor/drush/drush/lib/Drush/Queue/Queue8.php" />
       <jump line="46" column="2" filename="D:/project/dlv/project/web/core/modules/system/system.module" />
       <jump line="114" column="41" filename="D:/project/dlv/project/web/core/modules/system/system.module" />
@@ -399,55 +403,58 @@
       <jump line="265" column="4" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
       <jump line="607" column="2" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
       <jump line="64" column="23" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
+      <jump line="805" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
+      <jump line="820" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
+      <jump line="16" column="10" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/Model/AppealInterface.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>StatusTransitionException</text>
       </register>
       <register name="/" type="4">
-        <text>changeappealstatus</text>
+        <text>force</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN0YXR1c1RyYW5zaXRpb25FeGNlcHRpb24oKTsK</text>
+      <register name="0" type="4">
+        <text>StatusChangeException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAga2oK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRvbGRTdGF0dXMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBTdGF0ZVRyYW5zaXRpb25FeGNlcHRpb24gY29uc3RydWN0b3IuCiAgICovCiAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgewogIH0K</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIE5VTEwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIE5VTEwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JG1wZGYtPm15SW1hZ2VWYXJpYWJsZTIgPSBmaWxlX2dldF9jb250ZW50cygnS29hbGEuanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGUzID0gZmlsZV9nZXRfY29udGVudHMoJ0NocnlzYW50aGVtdW0uanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGU0ID0gZmlsZV9nZXRfY29udGVudHMoJ0h5ZHJhbmdlYXMuanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGU1ID0gZmlsZV9nZXRfY29udGVudHMoJ0xpZ2h0aG91c2UuanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGU2ID0gZmlsZV9nZXRfY29udGVudHMoJ0Rlc2VydC5qcGcnKTsKJG1wZGYtPm15SW1hZ2VWYXJpYWJsZTcgPSBmaWxlX2dldF9jb250ZW50cygnVHVsaXBzLmpwZycpOwokbXBkZi0+bXlJbWFnZVZhcmlhYmxlOCA9IGZpbGVfZ2V0X2NvbnRlbnRzKCdiaW5nby5qcGcnKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICghYXJyYXlfa2V5X2V4aXN0cygkZnJvbVN0YXR1cy0+Z2V0QXBwZWFsU3RhdHVzSWQoKSwgc2VsZjo6JHN0YXRlVHJhbnNpdGlvbk1hcCkpIHsKICAgICAgdGhyb3cgbmV3IFN0YXR1c1RyYW5zaXRpb25FeGNlcHRpb24oKTsKICAgIH0KCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGgxPnBkZnRlc3QyLnBocDwvaDE+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlMSIgLz4KPGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGUyIiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTMiIC8+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlNCIgLz4KPGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGU1IiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTYiIC8+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlNyIgLz4KPGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGU4IiAvPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAga2oK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRvbGRTdGF0dXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICgkb2xkU3RhdHVzLT5lcXVhbHMoJG5ld1N0YXR1cykpIHsKICAgICAgdGhyb3cgbmV3IFN0YXR1c0NoYW5nZUV4Y2VwdGlvbigiQ291bGQgbm90IGNoYW5nZSBhcHBlYWwgc3RhdHVza2siKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>changeappealstatus</last-search>
+      <last-search>force</last-search>
       <last-offset />
-      <last-pattern>changeappealstatus</last-pattern>
+      <last-pattern>force</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hook</entry>
         <entry encoding="base64">XDxwcm9jZXNzTWFuYWdlZEZpbGVcPg==</entry>
         <entry>processManaged</entry>
         <entry>valueCallback</entry>
@@ -475,6 +481,7 @@
         <entry>cache</entry>
         <entry>isdeletable</entry>
         <entry>changeappealstatus</entry>
+        <entry>force</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
