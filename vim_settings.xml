@@ -16,10 +16,10 @@
       <file name="D:/project/dls/project/web/modules/custom/om_dls/om_dls.routing.yml" timestamp="1496150721561">
         <mark key="'" line="121" column="23" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" timestamp="1498052454516">
-        <mark key="'" line="215" column="44" />
-        <mark key="[" line="88" column="16" />
-        <mark key="]" line="88" column="16" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" timestamp="1499958778881">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="120" column="49" />
         <mark key="^" line="88" column="15" />
         <mark key="." line="88" column="16" />
       </file>
@@ -194,11 +194,11 @@
       <file name="D:/project/dls/project/web/modules/custom/om_dls/src/Entity/GenericPage.php" timestamp="1495787593224">
         <mark key="'" line="232" column="16" />
       </file>
-      <file name="D:/project/dlv/project/web/pdftest2.php" timestamp="1499958347196">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="68" />
-        <mark key="^" line="16" column="68" />
-        <mark key="." line="16" column="68" />
+      <file name="D:/project/dlv/project/web/pdftest2.php" timestamp="1499959789638">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="20" />
       </file>
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/EntityViewBuilder.php" timestamp="1496133385994">
         <mark key="'" line="158" column="33" />
@@ -306,7 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="850" column="15" filename="D:/project/dlv/project/web/core/modules/file/file.module" />
       <jump line="1183" column="34" filename="D:/project/dlv/project/web/core/modules/file/file.module" />
       <jump line="65" column="0" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/src/Element/ManagedFile.php" />
       <jump line="72" column="19" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/src/Element/ManagedFile.php" />
@@ -406,43 +405,44 @@
       <jump line="637" column="37" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
       <jump line="736" column="37" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
       <jump line="842" column="35" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
+      <jump line="14" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Chrysanthemum.jpg</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Chrysanthemum.jpg</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>from</text>
+        <text>imagick</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JGFzID0g</text>
+        <text encoding="base64">PGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGUxIiAv</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGU0IiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTUiIC8+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlNiIgLz4KPGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGU3IiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTgiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JG1wZGYtPm15SW1hZ2VWYXJpYWJsZTQgPSBmaWxlX2dldF9jb250ZW50cygnSHlkcmFuZ2Vhcy5qcGcnKTsKJG1wZGYtPm15SW1hZ2VWYXJpYWJsZTUgPSBmaWxlX2dldF9jb250ZW50cygnTGlnaHRob3VzZS5qcGcnKTsKJG1wZGYtPm15SW1hZ2VWYXJpYWJsZTYgPSBmaWxlX2dldF9jb250ZW50cygnRGVzZXJ0LmpwZycpOwokbXBkZi0+bXlJbWFnZVZhcmlhYmxlNyA9IGZpbGVfZ2V0X2NvbnRlbnRzKCdUdWxpcHMuanBnJyk7CiRtcGRmLT5teUltYWdlVmFyaWFibGU4ID0gZmlsZV9nZXRfY29udGVudHMoJ2JpbmdvLmpwZycpOwo=</text>
+        <text encoding="base64">JG1wZGYtPm15SW1hZ2VWYXJpYWJsZTIgPSBmaWxlX2dldF9jb250ZW50cygnMjAxNzA0MjZfMTMwMzA5X05FV18wMDAxLnBkZicpOwokbXBkZi0+bXlJbWFnZVZhcmlhYmxlMyA9IGZpbGVfZ2V0X2NvbnRlbnRzKCcyMDE3MDYxOV8wNTU2MTBfTkVXLnBkZicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUUlVFCg==</text>
+        <text encoding="base64">Zm9yZWFjaCgkcGRmQXJyIGFzICRrZXkgPT4gJHZhbHVlKSB7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRhcyA9IG5ldyBBcHBlYWxTdG9yYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAkbXBkZi0+SW1hZ2UoInZhcjogeyR2YXJuYW1lfSIsIDAsIDApOwogICRtcGRmLT5teUltYWdlVmFyaWFibGUxID0gZmlsZV9nZXRfY29udGVudHMoJzIwMTcwNDI2XzEzMDMwOV9ORVcucGRmJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFxEcnVwYWw6OmdldENvbnRhaW5lcigpLT5nZXQoJ2FwcGVhbF9zdG9yYWdlJyk7Cg==</text>
+        <text encoding="base64">alYK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRhcHBlYWwtPmNoYW5nZUFwcGVhbFN0YXR1cyhuZXcgQXBwZWFsU3RhdHVzKEFwcGVhbFN0YXR1c0ludGVyZmFjZTo6U1RBVFVTX1NVQk1JVFRFRCkpOwo=</text>
+        <text encoding="base64">JGltID0gbmV3IFxJbWFnaWNrKCR1cmkpOwokaW0tPnNldFJlc29sdXRpb24oMzAwLCAzMDApOwoKJGltLT5yZWFkSW1hZ2UoJHBkZkZpbGUpOwokbXBkZi0+bXlJbWFnZVZhcmlhYmxlMSA9IGZpbGVfZ2V0X2NvbnRlbnRzKCcyMDE3MDQyNl8xMzAzMDlfTkVXLnBkZicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIGRkawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -452,9 +452,9 @@
       </register>
     </registers>
     <search>
-      <last-search>from</last-search>
+      <last-search>imagick</last-search>
       <last-offset />
-      <last-pattern>from</last-pattern>
+      <last-pattern>imagick</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
@@ -462,7 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>valueCallback</entry>
         <entry>file_move</entry>
         <entry>dologout</entry>
         <entry>destruct</entry>
@@ -482,6 +481,7 @@
         <entry>force</entry>
         <entry>storage</entry>
         <entry>from</entry>
+        <entry>imagick</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
