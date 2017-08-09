@@ -57,6 +57,13 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Menu/MenuLinkTree.php" timestamp="1496141845615">
         <mark key="'" line="162" column="10" />
       </file>
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/LdapServiceFactoryCollector.php" timestamp="1502284733597">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="34" column="78" />
+        <mark key="]" line="34" column="78" />
+        <mark key="^" line="34" column="78" />
+        <mark key="." line="34" column="78" />
+      </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_production/om_dlv_production.info.yml" timestamp="1490280111472">
         <mark key="'" line="0" column="0" />
       </file>
@@ -148,6 +155,12 @@
       <file name="D:/project/dls/project/web/core/modules/user/tests/src/Kernel/Field/UserNameFormatterTest.php" timestamp="1495787117620">
         <mark key="'" line="10" column="13" />
       </file>
+      <file name="D:/project/dls/project/vendor/dvom/ldap_service/src/Models/LdapSettings.php" timestamp="1502285343768">
+        <mark key="[" line="102" column="39" />
+        <mark key="]" line="102" column="39" />
+        <mark key="." line="102" column="39" />
+        <mark key="^" line="102" column="31" />
+      </file>
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" timestamp="1490347753252">
         <mark key="'" line="74" column="76" />
       </file>
@@ -187,6 +200,7 @@
       <file name="D:/project/dls/project/web/modules/custom/om_dls/templates/page-generic.html.twig" timestamp="1496132163062">
         <mark key="'" line="26" column="27" />
       </file>
+      <file name="D:/project/dls/project/vendor/dvom/ldap_service/src/Models/LdapSettingsInterface.php" timestamp="1502285244208" />
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" timestamp="1499844652719">
         <mark key="'" line="63" column="46" />
       </file>
@@ -226,7 +240,7 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1496233014448">
+      <file name="/PHP Console" timestamp="1502286482267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
@@ -240,6 +254,21 @@
         <mark key="^" line="64" column="78" />
       </file>
       <file name="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.routing.yml" timestamp="1502283997352" />
+      <file name="D:/project/dls/project/vendor/dvom/ldap_service/src/Services/AdLdapService.php" timestamp="1502286178175" />
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/TestLoginForm.php" timestamp="1502286568946">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="133" column="18" />
+        <mark key="]" line="133" column="18" />
+        <mark key="." line="133" column="18" />
+        <mark key="^" line="132" column="65" />
+      </file>
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdSettingsForm.php" timestamp="1502285646196">
+        <mark key="'" line="71" column="22" />
+        <mark key="[" line="71" column="19" />
+        <mark key="]" line="71" column="22" />
+        <mark key="." line="71" column="22" />
+        <mark key="^" line="71" column="22" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/OvJRedenController.php" timestamp="1491815131025">
         <mark key="'" line="225" column="0" />
       </file>
@@ -309,9 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="19" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/src/Element/ManagedFile.php" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" />
-      <jump line="127" column="14" filename="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" />
       <jump line="12" column="14" filename="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" />
       <jump line="26" column="14" filename="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" />
       <jump line="94" column="14" filename="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" />
@@ -409,65 +435,65 @@
       <jump line="14" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealRenderer.php" />
       <jump line="7" column="64" filename="D:/Users/mtheunis/Desktop/mtheunissen82atgmaildotcom-secret-gpg.key" />
       <jump line="49" column="0" filename="D:/Users/mtheunis/Desktop/mtheunissen82atgmaildotcom-secret-gpg.key" />
+      <jump line="16" column="7" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/LdapServiceFactoryCollector.php" />
+      <jump line="71" column="22" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdSettingsForm.php" />
+      <jump line="71" column="4" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/TestLoginForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>85</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>85</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>R+</text>
+        <text>getAttribute</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGUxIiAv</text>
+        <text>dc=org,dc=om,dc=local</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXJfZHVtcCgkcGRmRmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgJyNkZWZhdWx0X3ZhbHVlJyA9PiAnR2Vycml0c1MnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGUxIiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTIiIC8+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlMyIgLz4K</text>
+        <text encoding="base64">ICAgICAgJyNlbXB0eV92YWx1ZScgPT4gJ25vbmUnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXJfZHVtcCgkcGRmRmlsZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JG1wZGYtPm15SW1hZ2VWYXJpYWJsZTIgPSBmaWxlX2dldF9jb250ZW50cygnMjAxNzA0MjZfMTMwMzA5X05FV18wMDAxLnBkZicpOwokbXBkZi0+bXlJbWFnZVZhcmlhYmxlMyA9IGZpbGVfZ2V0X2NvbnRlbnRzKCcyMDE3MDYxOV8wNTU2MTBfTkVXLnBkZicpOwo=</text>
+        <text encoding="base64">PGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGUxIiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTIiIC8+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlMyIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yZWFjaCgkcGRmQXJyIGFzICRrZXkgPT4gJHZhbHVlKSB7Cn0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAkbXBkZi0+SW1hZ2UoInZhcjogeyR2YXJuYW1lfSIsIDAsIDApOwogICRtcGRmLT5teUltYWdlVmFyaWFibGUxID0gZmlsZV9nZXRfY29udGVudHMoJzIwMTcwNDI2XzEzMDMwOV9ORVcucGRmJyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">alYK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">JG1wZGYtPm15SW1hZ2VWYXJpYWJsZTIgPSBmaWxlX2dldF9jb250ZW50cygnMjAxNzA0MjZfMTMwMzA5X05FV18wMDAxLnBkZicpOwokbXBkZi0+bXlJbWFnZVZhcmlhYmxlMyA9IGZpbGVfZ2V0X2NvbnRlbnRzKCcyMDE3MDYxOV8wNTU2MTBfTkVXLnBkZicpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Zm9yZWFjaCgkcGRmQXJyIGFzICRrZXkgPT4gJHZhbHVlKSB7Cn0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAkbXBkZi0+SW1hZ2UoInZhcjogeyR2YXJuYW1lfSIsIDAsIDApOwogICRtcGRmLT5teUltYWdlVmFyaWFibGUxID0gZmlsZV9nZXRfY29udGVudHMoJzIwMTcwNDI2XzEzMDMwOV9ORVcucGRmJyk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">JGltID0gbmV3IFxJbWFnaWNrKCR1cmkpOwokaW0tPnNldFJlc29sdXRpb24oMzAwLCAzMDApOwoKJGltLT5yZWFkSW1hZ2UoJHBkZkZpbGUpOwokbXBkZi0+bXlJbWFnZVZhcmlhYmxlMSA9IGZpbGVfZ2V0X2NvbnRlbnRzKCcyMDE3MDQyNl8xMzAzMDlfTkVXLnBkZicpOwo=</text>
+        <text encoding="base64">alYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>R+</last-search>
+      <last-search>getAttribute</last-search>
       <last-offset />
-      <last-pattern>R+</last-pattern>
+      <last-pattern>getAttribute</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute encoding="base64">JHRoaXMtPm1wZGY=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dologout</entry>
-        <entry>destruct</entry>
-        <entry>savesession</entry>
         <entry>life</entry>
         <entry>time</entry>
         <entry>expire</entry>
@@ -485,6 +511,9 @@
         <entry>from</entry>
         <entry>imagick</entry>
         <entry>R+</entry>
+        <entry>hasfactory</entry>
+        <entry>void</entry>
+        <entry>getAttribute</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
