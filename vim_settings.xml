@@ -152,6 +152,7 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/FormElementInterface.php" timestamp="1499169758375">
         <mark key="'" line="38" column="25" />
       </file>
+      <file name="D:/project/dls/project/web/modules/contrib/ldap/ldap_servers/ldap_types/LdapTypeAbstract.class.php" timestamp="1502447789782" />
       <file name="D:/project/dls/project/web/core/modules/user/tests/src/Kernel/Field/UserNameFormatterTest.php" timestamp="1495787117620">
         <mark key="'" line="10" column="13" />
       </file>
@@ -279,7 +280,7 @@
       <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1495455267985">
         <mark key="'" line="151" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499869298158">
+      <file name="/Dummy.txt" timestamp="1502447813608">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
@@ -494,7 +495,7 @@
       <last-replace>$mpdf</last-replace>
       <last-substitute>getAttribute</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
