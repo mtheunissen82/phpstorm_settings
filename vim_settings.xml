@@ -103,8 +103,8 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1502708183248">
-        <mark key="'" line="21" column="0" />
+      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1502709961903">
+        <mark key="'" line="158" column="7" />
       </file>
       <file name="D:/project/dlv/project/vendor/masterexploder/phpthumb/src/PHPThumb/GD.php" timestamp="1498739434820">
         <mark key="'" line="906" column="60" />
@@ -197,6 +197,12 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Queue/DatabaseQueue.php" timestamp="1498053293395">
         <mark key="'" line="13" column="60" />
       </file>
+      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/FormElement.php" timestamp="1502709882675">
+        <mark key="'" line="59" column="6" />
+      </file>
+      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/PasswordConfirm.php" timestamp="1502709698568">
+        <mark key="'" line="82" column="8" />
+      </file>
       <file name="D:/project/dlv/project/vendor/drush/drush/lib/Drush/Queue/Queue8.php" timestamp="1498053116133">
         <mark key="'" line="47" column="4" />
       </file>
@@ -249,7 +255,7 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1502287608494">
+      <file name="/PHP Console" timestamp="1502709575499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
@@ -268,6 +274,9 @@
         <mark key="]" line="133" column="18" />
         <mark key="." line="133" column="18" />
         <mark key="^" line="132" column="65" />
+      </file>
+      <file name="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" timestamp="1502709773014">
+        <mark key="'" line="68" column="19" />
       </file>
       <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdSettingsForm.php" timestamp="1502285646196">
         <mark key="'" line="71" column="22" />
@@ -348,63 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="41" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/src/Element/ManagedFile.php" />
-      <jump line="229" column="22" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/src/Element/ManagedFile.php" />
-      <jump line="331" column="51" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/src/Element/ManagedFile.php" />
-      <jump line="1175" column="18" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/file.module" />
-      <jump line="203" column="52" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/file.module" />
-      <jump line="213" column="13" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/file.module" />
-      <jump line="215" column="9" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/file.module" />
-      <jump line="218" column="168" filename="D:/project/dlv/project/vendor/composer/dfe66a32/drupal-core-53326f9/modules/file/file.module" />
-      <jump line="761" column="26" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="772" column="5" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="658" column="20" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="660" column="43" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="577" column="19" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="808" column="8" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="491" column="22" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="488" column="7" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Session.php" />
-      <jump line="210" column="20" filename="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/SessionHandlerPHP.php" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
-      <jump line="37" column="17" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
-      <jump line="39" column="22" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
-      <jump line="50" column="26" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
-      <jump line="93" column="23" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
-      <jump line="17" column="3" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
-      <jump line="36" column="17" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
-      <jump line="133" column="18" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
-      <jump line="35" column="29" filename="D:/project/dlv/project/config/simplesamlphp/production/config/config.php.j2" />
-      <jump line="683" column="23" filename="D:/project/dlv/project/web/core/modules/file/file.module" />
-      <jump line="2" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
-      <jump line="64" column="13" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
-      <jump line="60" column="26" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
-      <jump line="61" column="31" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
-      <jump line="63" column="46" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.routing.yml" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
-      <jump line="366" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
-      <jump line="367" column="31" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
-      <jump line="378" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
-      <jump line="459" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
-      <jump line="460" column="31" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
-      <jump line="471" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
-      <jump line="472" column="31" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
-      <jump line="481" column="22" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
-      <jump line="639" column="18" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/ViolationForm.php" />
-      <jump line="32" column="6" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
-      <jump line="106" column="11" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
-      <jump line="108" column="19" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
-      <jump line="121" column="9" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
-      <jump line="125" column="43" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
-      <jump line="136" column="21" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
-      <jump line="404" column="58" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
-      <jump line="265" column="4" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" />
-      <jump line="607" column="2" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
-      <jump line="64" column="23" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
-      <jump line="805" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
-      <jump line="820" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Entity/Appeal.php" />
-      <jump line="16" column="10" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/Model/AppealInterface.php" />
-      <jump line="0" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
-      <jump line="23" column="0" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
       <jump line="61" column="90" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
       <jump line="0" column="0" filename="D:/project/dlv/project/web/core/core.services.yml" />
       <jump line="1" column="10" filename="D:/project/dlv/project/web/core/core.services.yml" />
@@ -446,8 +398,65 @@
       <jump line="181" column="37" filename="D:/project/dls/project/web/modules/contrib/ldap/ldap_user/ldap_user.module" />
       <jump line="188" column="37" filename="D:/project/dls/project/web/modules/contrib/ldap/ldap_user/ldap_user.module" />
       <jump line="195" column="9" filename="D:/project/dls/project/web/modules/contrib/ldap/ldap_user/ldap_user.module" />
-      <jump line="130" column="6" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
       <jump line="21" column="0" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="113" column="58" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/PasswordConfirm.php" />
+      <jump line="27" column="0" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/PasswordConfirm.php" />
+      <jump line="107" column="23" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/PasswordConfirm.php" />
+      <jump line="108" column="59" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/PasswordConfirm.php" />
+      <jump line="74" column="32" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/PasswordConfirm.php" />
+      <jump line="82" column="8" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/PasswordConfirm.php" />
+      <jump line="14" column="18" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="118" column="73" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="130" column="30" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="105" column="29" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="107" column="46" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="112" column="33" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="74" column="38" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="90" column="5" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="98" column="22" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="99" column="26" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="19" column="7" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="65" column="37" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="68" column="19" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
+      <jump line="112" column="20" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="114" column="87" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="117" column="29" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="120" column="86" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="121" column="24" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="122" column="14" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="123" column="50" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="126" column="43" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="128" column="34" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="129" column="22" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="130" column="40" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="132" column="47" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="134" column="51" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="141" column="46" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="142" column="11" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="143" column="36" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="146" column="14" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="84" column="15" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/FormElement.php" />
+      <jump line="59" column="6" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/FormElement.php" />
+      <jump line="157" column="10" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="144" column="71" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="154" column="20" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="156" column="46" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="162" column="55" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="164" column="33" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="325" column="20" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="326" column="56" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="327" column="24" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="328" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="332" column="7" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="333" column="73" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="344" column="7" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="362" column="7" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="383" column="60" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="79" column="29" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="82" column="66" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="87" column="8" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="97" column="8" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="158" column="7" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -457,7 +466,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>pass</text>
+        <text>required</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JmFtcA==</text>
@@ -494,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pass</last-search>
+      <last-search>required</last-search>
       <last-offset />
-      <last-pattern>pass</last-pattern>
+      <last-pattern>required</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute>getAttribute</last-substitute>
       <last-dir>1</last-dir>
@@ -504,7 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>datastore</entry>
         <entry>hook_conr</entry>
         <entry>hook_cron</entry>
         <entry>import</entry>
@@ -524,6 +532,7 @@
         <entry encoding="base64">XDxsZGFwX3VzZXJfZ3JhYl9wYXNzd29yZF92YWxpZGF0ZVw+</entry>
         <entry>password</entry>
         <entry>pass</entry>
+        <entry>required</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
