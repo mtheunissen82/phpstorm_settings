@@ -57,6 +57,12 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Element/OmDndUpload.php" timestamp="1499170014041">
         <mark key="'" line="28" column="6" />
       </file>
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.module.php" timestamp="1502776330273">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="9" column="3" />
+      </file>
       <file name="D:/project/dlv/project/web/core/modules/config_translation/src/FormElement/FormElementBase.php" timestamp="1495800798057">
         <mark key="'" line="153" column="3" />
       </file>
@@ -82,13 +88,13 @@
         <mark key="." line="647" column="10" />
         <mark key="^" line="647" column="10" />
       </file>
-      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Form/FormBuilder.php" timestamp="1502721609221" />
       <file name="D:/project/dls/project/web/core/modules/user/tests/src/Kernel/Field/UserNameFormatterTest.php" timestamp="1495787117620">
         <mark key="'" line="10" column="13" />
       </file>
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/Utils/Config.php" timestamp="1490347753252">
         <mark key="'" line="74" column="76" />
       </file>
+      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/EntityTypeManager.php" timestamp="1502777020956" />
       <file name="D:/project/dls/project/web/sites/example.settings.local.php" timestamp="1493389603242">
         <mark key="'" line="81" column="70" />
       </file>
@@ -107,10 +113,10 @@
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/FormElement.php" timestamp="1502709882675">
         <mark key="'" line="59" column="6" />
       </file>
-      <file name="D:/project/dls/project/web/core/modules/user/user.routing.yml" timestamp="1502716644557">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="45" column="34" />
+      <file name="D:/project/dls/project/web/core/modules/user/user.routing.yml" timestamp="1502775561722">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="33" />
       </file>
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/PasswordConfirm.php" timestamp="1502709698568">
         <mark key="'" line="82" column="8" />
@@ -168,7 +174,7 @@
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1502721761130">
+      <file name="/fragment.php" timestamp="1502775606284">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/vendor/dvom/cjib_service/src/Resources/Webservice/v2.1/3062542176468319-response.xml" timestamp="1496223177710">
@@ -235,10 +241,10 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1502720853029">
-        <mark key="'" line="318" column="2" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="34" />
+      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1502777326375">
+        <mark key="'" line="179" column="18" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="184" column="5" />
         <mark key="." line="152" column="12" />
         <mark key="^" line="152" column="12" />
       </file>
@@ -318,9 +324,8 @@
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
       </file>
-      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/HtmlEntityFormController.php" timestamp="1502721754099" />
-      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Controller/FormController.php" timestamp="1502721726873" />
-      <file name="/PHP Console" timestamp="1502721709793">
+      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Controller/FormController.php" timestamp="1502775399290" />
+      <file name="/PHP Console" timestamp="1502777172152">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
@@ -333,12 +338,12 @@
         <mark key="." line="851" column="90" />
         <mark key="^" line="64" column="78" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.routing.yml" timestamp="1502716963495">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.routing.yml" timestamp="1502775569917">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
         <mark key="^" line="38" column="4" />
-        <mark key="." line="40" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/TestLoginForm.php" timestamp="1502286568946">
         <mark key="'" line="71" column="4" />
@@ -353,11 +358,11 @@
       <file name="/Dummy.txt" timestamp="1502716586146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" timestamp="1502717204804">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="14" column="1" />
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" timestamp="1502777445179">
+        <mark key="[" line="22" column="52" />
+        <mark key="]" line="22" column="67" />
+        <mark key="." line="22" column="67" />
+        <mark key="^" line="22" column="67" />
       </file>
       <file name="D:/project/dls/project/web/modules/contrib/ldap/ldap_user/ldap_user.module" timestamp="1502707791806">
         <mark key="'" line="195" column="9" />
@@ -384,6 +389,12 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/Textarea.php" timestamp="1495804792730">
         <mark key="'" line="24" column="16" />
       </file>
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.module" timestamp="1502776710739">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="51" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="8" column="51" />
+      </file>
       <file name="D:/project/dls/project/web/modules/custom/om_dls/src/Controller/PageController.php" timestamp="1496152006252">
         <mark key="[" line="28" column="3" />
       </file>
@@ -395,12 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="55" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="164" column="33" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="325" column="20" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="326" column="56" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="327" column="24" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="328" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
       <jump line="332" column="7" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
       <jump line="333" column="73" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
       <jump line="344" column="7" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
@@ -495,55 +500,61 @@
       <jump line="408" column="28" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" />
       <jump line="427" column="26" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" />
       <jump line="437" column="52" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" />
+      <jump line="39" column="4" filename="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.routing.yml" />
+      <jump line="0" column="0" filename="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.routing.yml" />
+      <jump line="126" column="0" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
+      <jump line="77" column="5" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="141" column="18" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="179" column="18" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text>Active</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>Active</text>
       </register>
       <register name="/" type="4">
-        <text>entity</text>
+        <text>radio</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIF9mb3JtOiAnXERydXBhbFxvbV9sZGFwXEZvcm1cQWRSZWdpc3RlckZvcm0nCg==</text>
+        <text encoding="base64">ICAgICRmb3JtWydhY2NvdW50J11bJ3N0YXR1cyddID0gWwogICAgICAnI3R5cGUnID0+ICdyYWRpb3MnLAogICAgICAnI3RpdGxlJyA9PiAkdGhpcy0+dCgnU3RhdHVzJyksCiAgICAgICcjZGVmYXVsdF92YWx1ZScgPT4gJHN0YXR1cywKICAgICAgJyNvcHRpb25zJyA9PiBbJHRoaXMtPnQoJ0Jsb2NrZWQnKSwgJHRoaXMtPnQoJ0FjdGl2ZScpXSwKICAgICAgJyNhY2Nlc3MnID0+ICRhZG1pbiwKICAgIF07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRoYW5kbGVycy52YXJfZHVtcCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b21fbGRhcC5sb2dpbjoKICBwYXRoOiAnL3VzZXIvcmVnaXN0ZXJhZCcKICBkZWZhdWx0czoKICAgIF9mb3JtOiAnXERydXBhbFxvbV9sZGFwXEZvcm1cQWRSZWdpc3RlckZvcm0nCiAgICBfdGl0bGU6ICdMb2cgaW4nCiAgcmVxdWlyZW1lbnRzOgogICAgX3VzZXJfaXNfbG9nZ2VkX2luOiAnRkFMU0UnCiAgb3B0aW9uczoKICAgIF9tYWludGVuYW5jZV9hY2Nlc3M6IFRSVUUK</text>
+        <text encoding="base64">ICAkaGFuZGxlcnMgPSAkZW50aXR5X3R5cGVzWyd1c2VyJ10tPmdldEhhbmRsZXJDbGFzc2VzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9lbnRpdHlfZm9ybTogJ3VzZXIucmVnaXN0ZXInCg==</text>
+        <text encoding="base64">ICB2YXJfZHVtcCgkaGFuZGxlcnMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9mb3JtOiAnXERydXBhbFx1c2VyXEZvcm1cVXNlckxvZ2luRm9ybScK</text>
+        <text encoding="base64">ICAkZW50aXR5X3R5cGVzWyd1c2VyJ10tPnNldEZvcm1DbGFzcyhqaikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG4K</text>
+        <text encoding="base64">ICBlY2hvICdhYmMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJyNkZWZhdWx0X3ZhbHVlJyA9PiAnR2Vycml0c1MnLAo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IE1USEVVTklTCiAqIERhdGU6IDgvMTUvMjAxNwogKiBUaW1lOiA3OjQ0IEFNCiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJyNlbXB0eV92YWx1ZScgPT4gJ25vbmUnLAo=</text>
+        <text encoding="base64">ICAgIF9mb3JtOiAnXERydXBhbFxvbV9sZGFwXEZvcm1cQWRSZWdpc3RlckZvcm0nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXJfZHVtcCgkcGRmRmlsZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGltZyBzcmM9InZhcjpteUltYWdlVmFyaWFibGUxIiAvPgo8aW1nIHNyYz0idmFyOm15SW1hZ2VWYXJpYWJsZTIiIC8+CjxpbWcgc3JjPSJ2YXI6bXlJbWFnZVZhcmlhYmxlMyIgLz4K</text>
+        <text encoding="base64">b21fbGRhcC5sb2dpbjoKICBwYXRoOiAnL3VzZXIvcmVnaXN0ZXJhZCcKICBkZWZhdWx0czoKICAgIF9mb3JtOiAnXERydXBhbFxvbV9sZGFwXEZvcm1cQWRSZWdpc3RlckZvcm0nCiAgICBfdGl0bGU6ICdMb2cgaW4nCiAgcmVxdWlyZW1lbnRzOgogICAgX3VzZXJfaXNfbG9nZ2VkX2luOiAnRkFMU0UnCiAgb3B0aW9uczoKICAgIF9tYWludGVuYW5jZV9hY2Nlc3M6IFRSVUUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>entity</last-search>
+      <last-search>radio</last-search>
       <last-offset />
-      <last-pattern>entity</last-pattern>
+      <last-pattern>radio</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute>getAttribute</last-substitute>
       <last-dir>1</last-dir>
@@ -551,8 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>from</entry>
-        <entry>imagick</entry>
         <entry>R+</entry>
         <entry>hasfactory</entry>
         <entry>void</entry>
@@ -571,6 +580,8 @@
         <entry>buildForm</entry>
         <entry>create</entry>
         <entry>entity</entry>
+        <entry>checkbox</entry>
+        <entry>radio</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
