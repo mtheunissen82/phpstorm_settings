@@ -205,10 +205,10 @@
       <file name="D:/project/dlv/project/web/core/modules/filter/src/Element/TextFormat.php" timestamp="1495805133460">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1502782715100">
-        <mark key="'" line="182" column="8" />
-        <mark key="[" line="172" column="16" />
-        <mark key="]" line="172" column="45" />
+      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1502802997746">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="71" column="53" />
         <mark key="." line="152" column="12" />
         <mark key="^" line="152" column="12" />
       </file>
@@ -257,6 +257,7 @@
       <file name="D:/project/dls/project/web/modules/custom/om_dls/templates/page-generic.html.twig" timestamp="1496132163062">
         <mark key="'" line="26" column="27" />
       </file>
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Mapper/AdStaticRoleMapper.php" timestamp="1502803632876" />
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/EntityViewBuilder.php" timestamp="1496133385994">
         <mark key="'" line="158" column="33" />
       </file>
@@ -277,7 +278,7 @@
         <mark key="^" line="34" column="44" />
       </file>
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Controller/FormController.php" timestamp="1502775399290" />
-      <file name="/PHP Console" timestamp="1502783837421">
+      <file name="/PHP Console" timestamp="1502804632296">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
@@ -307,14 +308,14 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/OvJRedenController.php" timestamp="1491815131025">
         <mark key="'" line="225" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502716586146">
+      <file name="/Dummy.txt" timestamp="1502803342413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" timestamp="1502782928093">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="26" column="29" />
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" timestamp="1502804693517">
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="35" column="58" />
+        <mark key="." line="35" column="58" />
+        <mark key="^" line="35" column="58" />
       </file>
       <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/SettingsForm.php" timestamp="1502781739868">
         <mark key="'" line="32" column="3" />
@@ -360,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="42" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
       <jump line="124" column="39" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
       <jump line="138" column="5" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
       <jump line="147" column="5" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
@@ -460,37 +460,41 @@
       <jump line="115" column="1" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
       <jump line="82" column="27" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
       <jump line="90" column="27" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
+      <jump line="1" column="0" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAkaGFuZGxlcnMgPSAkZW50aXR5X3R5cGVzWyd1c2VyJ10tPmdldEhhbmRsZXJDbGFzc2VzKCk7CiAgdmFyX2R1bXAoJGhhbmRsZXJzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>keys</text>
+      </register>
+      <register name="k" type="2">
+        <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>keys</text>
       </register>
       <register name="/" type="4">
-        <text>\.default</text>
+        <text>roles</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JGFjY291bnQtPmdldCgnc3RhdHVzJyktPnZhbHVl</text>
+        <text encoding="base64">cm9sZU1hcHBlcgogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAkaGFuZGxlcnMgPSAkZW50aXR5X3R5cGVzWyd1c2VyJ10tPmdldEhhbmRsZXJDbGFzc2VzKCk7CiAgdmFyX2R1bXAoJGhhbmRsZXJzKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRmb3JtWydhY2NvdW50J11bJ2F1dGhlbnRpY2F0b25fdHlwZSddID0gWwogICAgICAnI3R5cGUnID0+ICdyYWRpb3MnLAogICAgICAnI3RpdGxlJyA9PiAkdGhpcy0+dCgnQXV0aGVudGljYXRpb24vYXV0aG9yaXphdGlvbiB0eXBlJyksCiAgICAgICcjZGVmYXVsdF92YWx1ZScgPT4gJGFjY291bnQtPmdldCgnc3RhdHVzJyktPnZhbHVlLAogICAgICAnI29wdGlvbnMnID0+IFsnZGVmYXVsdCcgPT4gJHRoaXMtPnQoJ0RlZmF1bHQnKSwgJ2FkJyA9PiAkdGhpcy0+dCgnQWN0aXZlIERpcmVjdG9yeScpXSwKICAgICAgJyNhY2Nlc3MnID0+ICRhZG1pbiwKICAgIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVuc2V0KCRmb3JtWydhY2NvdW50J11bJ3Bhc3MnXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgago=</text>
+        <text encoding="base64">CiAgICByZXR1cm4gJGZvcm07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -499,16 +503,16 @@
         <text encoding="base64">ICAgIGlmICgkYWRtaW4pIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkaGFuZGxlcnMgPSAkZW50aXR5X3R5cGVzWyd1c2VyJ10tPmdldEhhbmRsZXJDbGFzc2VzKCk7CiAgdmFyX2R1bXAoJGhhbmRsZXJzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\.default</last-search>
+      <last-search>roles</last-search>
       <last-offset />
-      <last-pattern>\.default</last-pattern>
+      <last-pattern>roles</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute>getAttribute</last-substitute>
       <last-dir>1</last-dir>
@@ -516,7 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user.register</entry>
         <entry>__construct</entry>
         <entry>entity =</entry>
         <entry>getBaseFormId</entry>
@@ -536,9 +539,9 @@
         <entry>abc</entry>
         <entry>.default</entry>
         <entry>\.default</entry>
+        <entry>roles</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL14vIw==</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMtPg==</entry>
         <entry encoding="base64">JzwsJz5zL2N1cnJlbnRVc2VyL3VzZXI=</entry>
         <entry encoding="base64">JzwsJz5zL2diYVJlc3VsdC9tb2RlbA==</entry>
@@ -557,6 +560,7 @@
         <entry>W</entry>
         <entry>bd</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
