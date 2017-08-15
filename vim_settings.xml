@@ -241,10 +241,10 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1502777326375">
-        <mark key="'" line="179" column="18" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="184" column="5" />
+      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1502778738428">
+        <mark key="'" line="100" column="8" />
+        <mark key="[" line="172" column="16" />
+        <mark key="]" line="172" column="45" />
         <mark key="." line="152" column="12" />
         <mark key="^" line="152" column="12" />
       </file>
@@ -325,7 +325,7 @@
         <mark key="^" line="34" column="44" />
       </file>
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Controller/FormController.php" timestamp="1502775399290" />
-      <file name="/PHP Console" timestamp="1502777172152">
+      <file name="/PHP Console" timestamp="1502778809515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
@@ -358,11 +358,12 @@
       <file name="/Dummy.txt" timestamp="1502716586146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" timestamp="1502777445179">
-        <mark key="[" line="22" column="52" />
-        <mark key="]" line="22" column="67" />
-        <mark key="." line="22" column="67" />
-        <mark key="^" line="22" column="67" />
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" timestamp="1502778741014">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="56" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="81" />
       </file>
       <file name="D:/project/dls/project/web/modules/contrib/ldap/ldap_user/ldap_user.module" timestamp="1502707791806">
         <mark key="'" line="195" column="9" />
@@ -406,8 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="7" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="333" column="73" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
       <jump line="344" column="7" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
       <jump line="362" column="7" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
       <jump line="383" column="60" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
@@ -506,55 +505,57 @@
       <jump line="77" column="5" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
       <jump line="141" column="18" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
       <jump line="179" column="18" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="26" column="8" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" />
+      <jump line="100" column="8" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Active</text>
+        <text encoding="base64">JGFjY291bnQtPmdldCgnc3RhdHVzJyktPnZhbHVl</text>
       </register>
       <register name="-" type="4">
-        <text>Active</text>
+        <text>$status</text>
       </register>
       <register name="/" type="4">
-        <text>radio</text>
+        <text>Blocked</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICRmb3JtWydhY2NvdW50J11bJ3N0YXR1cyddID0gWwogICAgICAnI3R5cGUnID0+ICdyYWRpb3MnLAogICAgICAnI3RpdGxlJyA9PiAkdGhpcy0+dCgnU3RhdHVzJyksCiAgICAgICcjZGVmYXVsdF92YWx1ZScgPT4gJHN0YXR1cywKICAgICAgJyNvcHRpb25zJyA9PiBbJHRoaXMtPnQoJ0Jsb2NrZWQnKSwgJHRoaXMtPnQoJ0FjdGl2ZScpXSwKICAgICAgJyNhY2Nlc3MnID0+ICRhZG1pbiwKICAgIF07Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JGFjY291bnQtPmdldCgnc3RhdHVzJyktPnZhbHVl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRoYW5kbGVycy52YXJfZHVtcCgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAkaGFuZGxlcnMgPSAkZW50aXR5X3R5cGVzWyd1c2VyJ10tPmdldEhhbmRsZXJDbGFzc2VzKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB2YXJfZHVtcCgkaGFuZGxlcnMpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAkZW50aXR5X3R5cGVzWyd1c2VyJ10tPnNldEZvcm1DbGFzcyhqaikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBlY2hvICdhYmMnOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IE1USEVVTklTCiAqIERhdGU6IDgvMTUvMjAxNwogKiBUaW1lOiA3OjQ0IEFNCiAqLwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIF9mb3JtOiAnXERydXBhbFxvbV9sZGFwXEZvcm1cQWRSZWdpc3RlckZvcm0nCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICgkYWRtaW4pIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICRmb3JtWydhY2NvdW50J11bJ2F1dGhlbnRpY2F0b25fdHlwZSddID0gWwogICAgICAnI3R5cGUnID0+ICdyYWRpb3MnLAogICAgICAnI3RpdGxlJyA9PiAkdGhpcy0+dCgnQXV0aGVudGljYXRpb24vYXV0aG9yaXphdGlvbiB0eXBlJyksCiAgICAgICcjZGVmYXVsdF92YWx1ZScgPT4gJHN0YXR1cywKICAgICAgJyNvcHRpb25zJyA9PiBbJHRoaXMtPnQoJ1JlZ3VsYXInKSwgJHRoaXMtPnQoJ0FjdGl2ZSBEaXJlY3RvcnknKV0sCiAgICAgICcjYWNjZXNzJyA9PiAkYWRtaW4sCiAgICBdOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICRmb3JtID0gcGFyZW50Ojpmb3JtKCRmb3JtLCAkZm9ybV9zdGF0ZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICRsYW5ndWFnZV9pbnRlcmZhY2UgPSBcRHJ1cGFsOjpsYW5ndWFnZU1hbmFnZXIoKS0+Z2V0Q3VycmVudExhbmd1YWdlKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICRmb3JtWycjY2FjaGUnXVsndGFncyddID0gJGNvbmZpZy0+Z2V0Q2FjaGVUYWdzKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">b21fbGRhcC5sb2dpbjoKICBwYXRoOiAnL3VzZXIvcmVnaXN0ZXJhZCcKICBkZWZhdWx0czoKICAgIF9mb3JtOiAnXERydXBhbFxvbV9sZGFwXEZvcm1cQWRSZWdpc3RlckZvcm0nCiAgICBfdGl0bGU6ICdMb2cgaW4nCiAgcmVxdWlyZW1lbnRzOgogICAgX3VzZXJfaXNfbG9nZ2VkX2luOiAnRkFMU0UnCiAgb3B0aW9uczoKICAgIF9tYWludGVuYW5jZV9hY2Nlc3M6IFRSVUUK</text>
+        <text encoding="base64">ICAgICRoYW5kbGVycy52YXJfZHVtcCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>radio</last-search>
+      <last-search>Blocked</last-search>
       <last-offset />
-      <last-pattern>radio</last-pattern>
+      <last-pattern>Blocked</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute>getAttribute</last-substitute>
       <last-dir>1</last-dir>
@@ -562,7 +563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>R+</entry>
         <entry>hasfactory</entry>
         <entry>void</entry>
         <entry>getAttribute</entry>
@@ -582,6 +582,7 @@
         <entry>entity</entry>
         <entry>checkbox</entry>
         <entry>radio</entry>
+        <entry>Blocked</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
