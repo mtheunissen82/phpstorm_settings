@@ -190,12 +190,12 @@
       <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapStubAllBsn.php" timestamp="1490944664371">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedAccountFormTrait.php" timestamp="1502894866062">
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedAccountFormTrait.php" timestamp="1503042089186">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="18" column="27" />
+        <mark key="[" line="54" column="70" />
+        <mark key="]" line="54" column="76" />
+        <mark key="." line="54" column="76" />
+        <mark key="^" line="54" column="76" />
       </file>
       <file name="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" timestamp="1499164490794">
         <mark key="'" line="94" column="14" />
@@ -278,6 +278,7 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Cache/PhpBackend.php" timestamp="1492179629064">
         <mark key="'" line="161" column="22" />
       </file>
+      <file name="D:/project/dls/project/web/core/modules/user/user.module" timestamp="1503042108025" />
       <file name="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" timestamp="1492179457680">
         <mark key="'" line="212" column="22" />
       </file>
@@ -333,10 +334,15 @@
         <mark key="." line="133" column="18" />
         <mark key="^" line="132" column="65" />
       </file>
+      <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/Checkboxes.php" timestamp="1503041042839">
+        <mark key="'" line="42" column="18" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="86" column="9" />
+      </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/OvJRedenController.php" timestamp="1491815131025">
         <mark key="'" line="225" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502880213904">
+      <file name="/Dummy.txt" timestamp="1503040824973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" timestamp="1502867745671">
@@ -392,9 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="10" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="3" column="19" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="6" column="12" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
       <jump line="101" column="4" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="282" column="28" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="283" column="90" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
@@ -492,25 +495,28 @@
       <jump line="3" column="0" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedAccountFormTrait.php" />
       <jump line="65" column="6" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/Checkbox.php" />
       <jump line="115" column="41" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/Checkbox.php" />
+      <jump line="45" column="18" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/Checkboxes.php" />
+      <jump line="54" column="25" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/Checkboxes.php" />
+      <jump line="42" column="18" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/Checkboxes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>roleKey</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>roleKey</text>
       </register>
       <register name="/" type="4">
-        <text>disabled</text>
+        <text encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TW9kaWZpZWRBY2NvdW50Rm9ybVRyYWl0IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkZWxlbWVudFska2V5XSArPSBbCiAgICAgICAgICAnI3R5cGUnID0+ICdjaGVja2JveCcsCiAgICAgICAgICAnI3RpdGxlJyA9PiAkY2hvaWNlLAogICAgICAgICAgJyNyZXR1cm5fdmFsdWUnID0+ICRrZXksCiAgICAgICAgICAnI2RlZmF1bHRfdmFsdWUnID0+IGlzc2V0KCR2YWx1ZVska2V5XSkgPyAka2V5IDogTlVMTCwKICAgICAgICAgICcjYXR0cmlidXRlcycgPT4gJGVsZW1lbnRbJyNhdHRyaWJ1dGVzJ10sCiAgICAgICAgICAnI2FqYXgnID0+IGlzc2V0KCRlbGVtZW50WycjYWpheCddKSA/ICRlbGVtZW50WycjYWpheCddIDogTlVMTCwKICAgICAgICAgIC8vIEVycm9ycyBzaG91bGQgb25seSBiZSBzaG93biBvbiB0aGUgcGFyZW50IGNoZWNrYm94ZXMgZWxlbWVudC4KICAgICAgICAgICcjZXJyb3Jfbm9fbWVzc2FnZScgPT4gVFJVRSwKICAgICAgICAgICcjd2VpZ2h0JyA9PiAkd2VpZ2h0LAogICAgICAgIF07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIE1vZGlmaWVkUmVnaXN0ZXJGb3JtCiAqIFRoaXMgY2xhc3MgZXh0ZW5kcyB0aGUgY29yZSBEcnVwYWwgXERydXBhbFx1c2VyXEZvcm1cUmVnaXN0ZXJGb3JtIHdoaWNoIGlzCiAqIG5lc2Vzc2FyeSB3aXRoIHRoZSBpbnRyb2R1Y3Rpb24gb2YgbGRhcCBhdXRoZW50aWNhdGlvbi9hdXRob3JpemF0aW9uLgogKiBUaGlzIGZvcm0gaXMgbW9kaWZpZWQgdG8gcmVhY2ggdGhlIGZvbGxvd2luZyBnb2FsczoKICogLSByZW1vdmUgcGFzc3dvcmQgZmllbGRzLiBUaGVzZSBhcmUgbm90IG5lZWRlZCBhbnltb3JlIHNpbmNlIGF1dGhlbnRpY2F0aW9uIGlzCiAqIGRvbmUgYWdhaW5zdCBBY3RpdmUgRGlyZWN0b3J5LgogKiAtIFJlbW92ZSBBRCBtYXBwZWQgcm9sZXMgZnJvbSB0aGUgY2hlY2tib3ggbGlzdCBzaW5jZSB0aGVzZSBhcmUgbWFuYWdlZCBhZnRlcgogKiBhdXRoZW50aWNhdGluZyB3aXRoIHRoZSBBRC4KICoKICogQHBhY2thZ2UgRHJ1cGFsXG9tX2xkYXBcRm9ybQogKiBAc2VlIFxEcnVwYWxcb21fbGRhcFxPbUxkYXBTZXJ2aWNlUHJvdmlkZXIgZm9yIG1vZGlmaWVkIHVzZXIuYXV0aCBzZXJ2aWNlIHdoaWNoCiAqICdjaGFuZ2VzJyB0aGUgd2F5IHVzZXIgYXV0aGVudGljYXRpb24gd29ya3MgaW4gZHJ1cGFsLgogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -519,34 +525,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRhZG1pbiA9ICR1c2VyLT5oYXNQZXJtaXNzaW9uKCdhZG1pbmlzdGVyIHVzZXJzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgJGZvcm1bJ2FjY291bnQnXVsncm9sZXMnXVskcm9sZUtleV0gKz0gWwogICAgICAgICcjdHlwZScgPT4gJ2NoZWNrYm94JywKICAgICAgICAnI3RpdGxlJyA9PiAkcm9sZVRpdGxlLAogICAgICAgICcjcmV0dXJuX3ZhbHVlJyA9PiAkcm9sZUtleSwKICAgICAgICAnI2RlZmF1bHRfdmFsdWUnID0+ICRyb2xlS2V5LAogICAgICBdOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRjb25maWcgPSBcRHJ1cGFsOjpjb25maWcoJ3VzZXIuc2V0dGluZ3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAnI3dlaWdodCcgPT4gJHdlaWdodCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFJlbW92ZSBwYXNzd29yZCBzaW5jZSBhdXRoZW50aWNhdGlvbiBpcyBkb25lIGFnYWluc3QgdGhlIEFjdGl2ZSBEaXJlY3RvcnkK</text>
+        <text encoding="base64">ICAgICAgICAnI2Vycm9yX25vX21lc3NhZ2UnID0+IFRSVUUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAnI2Vycm9yX25vX21lc3NhZ2UnID0+IFRSVUUsCiAgICAgICAgJyN3ZWlnaHQnID0+ICR3ZWlnaHQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgamsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBFcnJvcnMgc2hvdWxkIG9ubHkgYmUgc2hvd24gb24gdGhlIHBhcmVudCBjaGVja2JveGVzIGVsZW1lbnQuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVuc2V0KCRmb3JtWydhY2NvdW50J11bJ3Bhc3MnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnI2FqYXgnID0+IGlzc2V0KCRlbGVtZW50WycjYWpheCddKSA/ICRlbGVtZW50WycjYWpheCddIDogTlVMTCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZnVuY3Rpb24gZm9ybShhcnJheSAkZm9ybSwgRm9ybVN0YXRlSW50ZXJmYWNlICRmb3JtX3N0YXRlKSB7CiAgICByZXR1cm4gcGFyZW50Ojpmb3JtKCRmb3JtLCAkZm9ybV9zdGF0ZSk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAnI2F0dHJpYnV0ZXMnID0+ICRlbGVtZW50WycjYXR0cmlidXRlcyddLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>disabled</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</last-search>
       <last-offset />
-      <last-pattern>disabled</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute>getAttribute</last-substitute>
       <last-dir>1</last-dir>
@@ -554,8 +560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getBaseFormId</entry>
-        <entry>init</entry>
         <entry>buildForm</entry>
         <entry>create</entry>
         <entry>entity</entry>
@@ -574,6 +578,8 @@
         <entry>roles</entry>
         <entry>user.auth</entry>
         <entry>disabled</entry>
+        <entry encoding="base64">XDxwcmVSZW5kZXJDb21wb3NpdGVGb3JtRWxlbWVudFw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2N1cnJlbnRVc2VyL3VzZXI=</entry>
