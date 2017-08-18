@@ -33,11 +33,11 @@
       <file name="/a.dummy" timestamp="1499870262156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedRegisterForm.php" timestamp="1502894761508">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedRegisterForm.php" timestamp="1503047384727">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" timestamp="1493809755172">
         <mark key="'" line="42" column="9" />
@@ -190,15 +190,19 @@
       <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapStubAllBsn.php" timestamp="1490944664371">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedAccountFormTrait.php" timestamp="1503042089186">
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedAccountFormTrait.php" timestamp="1503047339055">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="54" column="70" />
-        <mark key="]" line="54" column="76" />
-        <mark key="." line="54" column="76" />
-        <mark key="^" line="54" column="76" />
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="60" />
       </file>
       <file name="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" timestamp="1499164490794">
         <mark key="'" line="94" column="14" />
+      </file>
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.services.yml" timestamp="1503047016553">
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="30" />
       </file>
       <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapService.php" timestamp="1497545700346">
         <mark key="'" line="39" column="27" />
@@ -216,12 +220,12 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Form/MyAppealsForm.php" timestamp="1499864163030">
         <mark key="'" line="265" column="4" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedProfileForm.php" timestamp="1502884873130">
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedProfileForm.php" timestamp="1503047371037">
         <mark key="'" line="4" column="32" />
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="4" column="33" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="39" column="2" />
+        <mark key="." line="33" column="23" />
+        <mark key="^" line="21" column="62" />
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1490280122269">
         <mark key="'" line="0" column="0" />
@@ -232,10 +236,10 @@
       <file name="D:/project/dlv/project/web/core/modules/filter/src/Element/TextFormat.php" timestamp="1495805133460">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1502894065215">
+      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1503046890211">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="71" column="53" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="57" column="2" />
         <mark key="." line="152" column="12" />
         <mark key="^" line="152" column="12" />
       </file>
@@ -307,7 +311,7 @@
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
       </file>
-      <file name="/PHP Console" timestamp="1502894629730">
+      <file name="/PHP Console" timestamp="1503047401578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
@@ -500,50 +504,50 @@
       <jump line="42" column="18" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/Checkboxes.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>roleKey</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBAdmFyIFxEcnVwYWxcb21fbGRhcFxNYXBwZXJcUm9sZU1hcHBlckludGVyZmFjZQogICAqLwogIHByaXZhdGUgJHJvbGVNYXBwZXI7CgogIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChSb2xlTWFwcGVySW50ZXJmYWNlICRyb2xlTWFwcGVyLCBFbnRpdHlNYW5hZ2VySW50ZXJmYWNlICRlbnRpdHlfbWFuYWdlciwgTGFuZ3VhZ2VNYW5hZ2VySW50ZXJmYWNlICRsYW5ndWFnZV9tYW5hZ2VyLCBFbnRpdHlUeXBlQnVuZGxlSW5mb0ludGVyZmFjZSAkZW50aXR5X3R5cGVfYnVuZGxlX2luZm8gPSBOVUxMLCBUaW1lSW50ZXJmYWNlICR0aW1lID0gTlVMTCkgewogICAgcGFyZW50OjpfX2NvbnN0cnVjdCgkZW50aXR5X21hbmFnZXIsICRsYW5ndWFnZV9tYW5hZ2VyLCAkZW50aXR5X3R5cGVfYnVuZGxlX2luZm8sICR0aW1lKTsKICAgICR0aGlzLT5yb2xlTWFwcGVyID0gJHJvbGVNYXBwZXI7CiAgfQoKICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNyZWF0ZShDb250YWluZXJJbnRlcmZhY2UgJGNvbnRhaW5lcikgewogICAgcmV0dXJuIG5ldyBzdGF0aWMoCiAgICAgICRjb250YWluZXItPmdldCgnb21fbGRhcC5yb2xlX21hcHBlci5hZF9zdGF0aWMnKSwKICAgICAgJGNvbnRhaW5lci0+Z2V0KCdlbnRpdHkubWFuYWdlcicpLAogICAgICAkY29udGFpbmVyLT5nZXQoJ2xhbmd1YWdlX21hbmFnZXInKSwKICAgICAgJGNvbnRhaW5lci0+Z2V0KCdlbnRpdHlfdHlwZS5idW5kbGUuaW5mbycpLAogICAgICAkY29udGFpbmVyLT5nZXQoJ2RhdGV0aW1lLnRpbWUnKQogICAgKTsKICB9Cg==</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="-" type="4">
-        <text>roleKey</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZWxlbWVudFska2V5XSArPSBbCiAgICAgICAgICAnI3R5cGUnID0+ICdjaGVja2JveCcsCiAgICAgICAgICAnI3RpdGxlJyA9PiAkY2hvaWNlLAogICAgICAgICAgJyNyZXR1cm5fdmFsdWUnID0+ICRrZXksCiAgICAgICAgICAnI2RlZmF1bHRfdmFsdWUnID0+IGlzc2V0KCR2YWx1ZVska2V5XSkgPyAka2V5IDogTlVMTCwKICAgICAgICAgICcjYXR0cmlidXRlcycgPT4gJGVsZW1lbnRbJyNhdHRyaWJ1dGVzJ10sCiAgICAgICAgICAnI2FqYXgnID0+IGlzc2V0KCRlbGVtZW50WycjYWpheCddKSA/ICRlbGVtZW50WycjYWpheCddIDogTlVMTCwKICAgICAgICAgIC8vIEVycm9ycyBzaG91bGQgb25seSBiZSBzaG93biBvbiB0aGUgcGFyZW50IGNoZWNrYm94ZXMgZWxlbWVudC4KICAgICAgICAgICcjZXJyb3Jfbm9fbWVzc2FnZScgPT4gVFJVRSwKICAgICAgICAgICcjd2VpZ2h0JyA9PiAkd2VpZ2h0LAogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBAdmFyIFxEcnVwYWxcb21fbGRhcFxNYXBwZXJcUm9sZU1hcHBlckludGVyZmFjZQogICAqLwogIHByaXZhdGUgJHJvbGVNYXBwZXI7CgogIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChSb2xlTWFwcGVySW50ZXJmYWNlICRyb2xlTWFwcGVyLCBFbnRpdHlNYW5hZ2VySW50ZXJmYWNlICRlbnRpdHlfbWFuYWdlciwgTGFuZ3VhZ2VNYW5hZ2VySW50ZXJmYWNlICRsYW5ndWFnZV9tYW5hZ2VyLCBFbnRpdHlUeXBlQnVuZGxlSW5mb0ludGVyZmFjZSAkZW50aXR5X3R5cGVfYnVuZGxlX2luZm8gPSBOVUxMLCBUaW1lSW50ZXJmYWNlICR0aW1lID0gTlVMTCkgewogICAgcGFyZW50OjpfX2NvbnN0cnVjdCgkZW50aXR5X21hbmFnZXIsICRsYW5ndWFnZV9tYW5hZ2VyLCAkZW50aXR5X3R5cGVfYnVuZGxlX2luZm8sICR0aW1lKTsKICAgICR0aGlzLT5yb2xlTWFwcGVyID0gJHJvbGVNYXBwZXI7CiAgfQoKICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNyZWF0ZShDb250YWluZXJJbnRlcmZhY2UgJGNvbnRhaW5lcikgewogICAgcmV0dXJuIG5ldyBzdGF0aWMoCiAgICAgICRjb250YWluZXItPmdldCgnb21fbGRhcC5yb2xlX21hcHBlci5hZF9zdGF0aWMnKSwKICAgICAgJGNvbnRhaW5lci0+Z2V0KCdlbnRpdHkubWFuYWdlcicpLAogICAgICAkY29udGFpbmVyLT5nZXQoJ2xhbmd1YWdlX21hbmFnZXInKSwKICAgICAgJGNvbnRhaW5lci0+Z2V0KCdlbnRpdHlfdHlwZS5idW5kbGUuaW5mbycpLAogICAgICAkY29udGFpbmVyLT5nZXQoJ2RhdGV0aW1lLnRpbWUnKQogICAgKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIERydXBhbFxvbV9sZGFwXE1hcHBlclxBZFN0YXRpY1JvbGVNYXBwZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJHJvbGVNYXBwZXIgPSBuZXcgQWRTdGF0aWNSb2xlTWFwcGVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJGZvcm1bJ2FjY291bnQnXVsncm9sZXMnXVskcm9sZUtleV0gKz0gWwogICAgICAgICcjdHlwZScgPT4gJ2NoZWNrYm94JywKICAgICAgICAnI3RpdGxlJyA9PiAkcm9sZVRpdGxlLAogICAgICAgICcjcmV0dXJuX3ZhbHVlJyA9PiAkcm9sZUtleSwKICAgICAgICAnI2RlZmF1bHRfdmFsdWUnID0+ICRyb2xlS2V5LAogICAgICBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnI3dlaWdodCcgPT4gJHdlaWdodCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnI2Vycm9yX25vX21lc3NhZ2UnID0+IFRSVUUsCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNyZWF0ZShDb250YWluZXJJbnRlcmZhY2UgJGNvbnRhaW5lcikgewogICAgcmV0dXJuIHBhcmVudDo6Y3JlYXRlKCRjb250YWluZXIpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1YgogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnI2Vycm9yX25vX21lc3NhZ2UnID0+IFRSVUUsCiAgICAgICAgJyN3ZWlnaHQnID0+ICR3ZWlnaHQsCg==</text>
+        <text encoding="base64">ICBqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFcnJvcnMgc2hvdWxkIG9ubHkgYmUgc2hvd24gb24gdGhlIHBhcmVudCBjaGVja2JveGVzIGVsZW1lbnQuCg==</text>
+        <text encoding="base64">Ly8gICAgICAkY29uZmlndXJlYWJsZVJvbGVzID0gYXJyYXlfZGlmZl9rZXkoJHJvbGVzLCBhcnJheV9mbGlwKCRtYXBwZWRSb2xlcykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnI2FqYXgnID0+IGlzc2V0KCRlbGVtZW50WycjYWpheCddKSA/ICRlbGVtZW50WycjYWpheCddIDogTlVMTCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnI2F0dHJpYnV0ZXMnID0+ICRlbGVtZW50WycjYXR0cmlidXRlcyddLAo=</text>
+        <text encoding="base64">Ly8gICAgICAkZm9ybVsnYWNjb3VudCddWydyb2xlcyddID0gWwovLyAgICAgICAgJyN0eXBlJyA9PiAnY2hlY2tib3hlcycsCi8vICAgICAgICAnI3RpdGxlJyA9PiAkdGhpcy0+dCgnUm9sZXMnKSwKLy8gICAgICAgICcjZGVmYXVsdF92YWx1ZScgPT4gKCEkcmVnaXN0ZXIgPyAkYWNjb3VudC0+Z2V0Um9sZXMoKSA6IFtdKSwKLy8gICAgICAgICcjb3B0aW9ucycgPT4gJGNvbmZpZ3VyZWFibGVSb2xlcywKLy8gICAgICAgICcjYWNjZXNzJyA9PiAkY29uZmlndXJlYWJsZVJvbGVzICYmICR1c2VyLT5oYXNQZXJtaXNzaW9uKCdhZG1pbmlzdGVyIHBlcm1pc3Npb25zJyksCi8vICAgICAgXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -598,9 +602,9 @@
         <entry>wq</entry>
         <entry>bd</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
-        <entry>q</entry>
         <entry>83</entry>
+        <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
