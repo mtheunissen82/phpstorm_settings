@@ -33,12 +33,12 @@
       <file name="/a.dummy" timestamp="1499870262156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedRegisterForm.php" timestamp="1503054869043">
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedRegisterForm.php" timestamp="1503061927320">
         <mark key="'" line="34" column="2" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="53" />
         <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="." line="4" column="53" />
       </file>
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" timestamp="1493809755172">
         <mark key="'" line="42" column="9" />
@@ -191,12 +191,12 @@
       <file name="D:/project/dlv/project/vendor/dvom/gba_service/src/SoapStubAllBsn.php" timestamp="1490944664371">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedAccountFormTrait.php" timestamp="1503047339055">
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedAccountFormTrait.php" timestamp="1503063031878">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="36" />
-        <mark key="." line="16" column="36" />
-        <mark key="^" line="16" column="60" />
+        <mark key="[" line="55" column="7" />
+        <mark key="]" line="55" column="7" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="57" column="3" />
       </file>
       <file name="D:/project/dlv/project/web/modules/contrib/autologout/autologout.module" timestamp="1499164490794">
         <mark key="'" line="94" column="14" />
@@ -237,8 +237,8 @@
       <file name="D:/project/dlv/project/web/core/modules/filter/src/Element/TextFormat.php" timestamp="1495805133460">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1503046890211">
-        <mark key="'" line="1" column="0" />
+      <file name="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" timestamp="1503063000111">
+        <mark key="'" line="53" column="0" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="57" column="2" />
         <mark key="." line="152" column="12" />
@@ -312,7 +312,7 @@
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
       </file>
-      <file name="/PHP Console" timestamp="1503054607824">
+      <file name="/PHP Console" timestamp="1503063066799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
@@ -350,7 +350,7 @@
       <file name="/Dummy.txt" timestamp="1503040824973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/core/modules/user/src/Authentication/Provider/Cookie.php" timestamp="1503054096702" />
+      <file name="D:/project/dls/project/web/core/modules/user/src/Authentication/Provider/Cookie.php" timestamp="1503062957999" />
       <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" timestamp="1502867745671">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="19" column="0" />
@@ -404,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="90" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="287" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="290" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="293" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
@@ -504,22 +503,23 @@
       <jump line="42" column="18" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/Checkboxes.php" />
       <jump line="21" column="39" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedRegisterForm.php" />
       <jump line="29" column="2" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedRegisterForm.php" />
+      <jump line="53" column="0" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIERydXBhbFx1c2VyXFByb2ZpbGVGb3JtOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEFkUmVnaXN0ZXJGb3Jt</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IEFkUmVnaXN0ZXJGb3Jt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</text>
+        <text>roles</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dXNlIERydXBhbFxDb21wb25lbnRcRGF0ZXRpbWVcVGltZUludGVyZmFjZTsKdXNlIERydXBhbFxDb3JlXEVudGl0eVxFbnRpdHlNYW5hZ2VySW50ZXJmYWNlOwp1c2UgRHJ1cGFsXENvcmVcRW50aXR5XEVudGl0eVR5cGVCdW5kbGVJbmZvSW50ZXJmYWNlOwp1c2UgRHJ1cGFsXENvcmVcTGFuZ3VhZ2VcTGFuZ3VhZ2VNYW5hZ2VySW50ZXJmYWNlOwp1c2UgRHJ1cGFsXG9tX2xkYXBcTWFwcGVyXFJvbGVNYXBwZXJJbnRlcmZhY2U7CnVzZSBEcnVwYWxcdXNlclxQcm9maWxlRm9ybTsKdXNlIFN5bWZvbnlcQ29tcG9uZW50XERlcGVuZGVuY3lJbmplY3Rpb25cQ29udGFpbmVySW50ZXJmYWNlOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">TW9kaWZpZWRSZWdpc3RlckZvcm0g</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIERydXBhbFx1c2VyXFByb2ZpbGVGb3JtOwo=</text>
@@ -556,9 +556,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</last-search>
+      <last-search>roles</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</last-pattern>
+      <last-pattern>roles</last-pattern>
       <last-replace>$mpdf</last-replace>
       <last-substitute>getAttribute</last-substitute>
       <last-dir>1</last-dir>
@@ -581,11 +581,11 @@
         <entry>abc</entry>
         <entry>.default</entry>
         <entry>\.default</entry>
-        <entry>roles</entry>
         <entry>user.auth</entry>
         <entry>disabled</entry>
         <entry encoding="base64">XDxwcmVSZW5kZXJDb21wb3NpdGVGb3JtRWxlbWVudFw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</entry>
+        <entry>roles</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2N1cnJlbnRVc2VyL3VzZXI=</entry>
@@ -603,10 +603,10 @@
         <entry encoding="base64">JXMvJHRoaXMtPm1wZGYvJG1wZGYvZw==</entry>
         <entry>wq</entry>
         <entry>bd</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>83</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
