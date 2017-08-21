@@ -143,6 +143,13 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/RenderElement.php" timestamp="1495804760943">
         <mark key="'" line="33" column="61" />
       </file>
+      <file name="D:/project/dls/project/changelogs/CHANGELOG-DLS-patch-1.md" timestamp="1503306421438">
+        <mark key="'" line="1" column="38" />
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="37" />
+      </file>
       <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/Ohoho.php" timestamp="1502880175569">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -391,6 +398,13 @@
       <file name="D:/project/dls/project/web/modules/custom/om_dls/src/Controller/PageController.php" timestamp="1496152006252">
         <mark key="[" line="28" column="3" />
       </file>
+      <file name="D:/project/dls/project/CHANGELOG-DLS-patch-1.md" timestamp="1503306184375">
+        <mark key="'" line="36" column="2" />
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="20" />
+      </file>
       <file name="D:/project/dls/project/web/core/modules/image/src/Entity/ImageStyle.php" timestamp="1495521358730">
         <mark key="'" line="522" column="0" />
       </file>
@@ -402,8 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="293" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="296" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="430" column="61" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="440" column="68" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
@@ -502,22 +514,24 @@
       <jump line="29" column="2" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedRegisterForm.php" />
       <jump line="53" column="0" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
       <jump line="14" column="0" filename="D:/project/dls/project/CHANGELOG-DLS-patch-1.md" />
+      <jump line="36" column="2" filename="D:/project/dls/project/CHANGELOG-DLS-patch-1.md" />
+      <jump line="1" column="38" filename="D:/project/dls/project/changelogs/CHANGELOG-DLS-patch-1.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEFkUmVnaXN0ZXJGb3Jt</text>
+        <text>h</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEFkUmVnaXN0ZXJGb3Jt</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>\s+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">TW9kaWZpZWRSZWdpc3RlckZvcm0g</text>
+        <text>DLS patch</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIERydXBhbFx1c2VyXFByb2ZpbGVGb3JtOwo=</text>
@@ -550,7 +564,7 @@
         <text encoding="base64">ICBqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/\s+</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -600,12 +614,12 @@
         <entry>bd</entry>
         <entry>83</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/\s+$</entry>
-        <entry>w</entry>
         <entry>%s/\s+$/</entry>
         <entry>%s/\s+</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
