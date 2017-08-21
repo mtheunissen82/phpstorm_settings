@@ -283,7 +283,6 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Cache/PhpBackend.php" timestamp="1492179629064">
         <mark key="'" line="161" column="22" />
       </file>
-      <file name="D:/project/dls/project/web/core/modules/user/user.module" timestamp="1503042108025" />
       <file name="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" timestamp="1492179457680">
         <mark key="'" line="212" column="22" />
       </file>
@@ -350,7 +349,6 @@
       <file name="/Dummy.txt" timestamp="1503040824973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/dls/project/web/core/modules/user/src/Authentication/Provider/Cookie.php" timestamp="1503062957999" />
       <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" timestamp="1502867745671">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="19" column="0" />
@@ -404,7 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="290" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="293" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="296" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
@@ -504,6 +501,7 @@
       <jump line="21" column="39" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedRegisterForm.php" />
       <jump line="29" column="2" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedRegisterForm.php" />
       <jump line="53" column="0" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
+      <jump line="14" column="0" filename="D:/project/dls/project/CHANGELOG-DLS-patch-1.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -516,7 +514,7 @@
         <text encoding="base64">IEFkUmVnaXN0ZXJGb3Jt</text>
       </register>
       <register name="/" type="4">
-        <text>roles</text>
+        <text>\s+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TW9kaWZpZWRSZWdpc3RlckZvcm0g</text>
@@ -552,23 +550,20 @@
         <text encoding="base64">ICBqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/\s+</text>
       </register>
     </registers>
     <search>
-      <last-search>roles</last-search>
+      <last-search>\s+</last-search>
       <last-offset />
-      <last-pattern>roles</last-pattern>
-      <last-replace>$mpdf</last-replace>
-      <last-substitute>getAttribute</last-substitute>
+      <last-pattern>\s+</last-pattern>
+      <last-replace />
+      <last-substitute>\s+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>buildForm</entry>
-        <entry>create</entry>
-        <entry>entity</entry>
         <entry>checkbox</entry>
         <entry>radio</entry>
         <entry>Blocked</entry>
@@ -586,11 +581,11 @@
         <entry encoding="base64">XDxwcmVSZW5kZXJDb21wb3NpdGVGb3JtRWxlbWVudFw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</entry>
         <entry>roles</entry>
+        <entry>\s+$</entry>
+        <entry>seckit</entry>
+        <entry>\s+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2N1cnJlbnRVc2VyL3VzZXI=</entry>
-        <entry encoding="base64">JzwsJz5zL2diYVJlc3VsdC9tb2RlbA==</entry>
-        <entry>Lw</entry>
         <entry>%s/verkeer/slachtoffer/g</entry>
         <entry>%s/release/tst/g</entry>
         <entry>%s/dlv/dls/g</entry>
@@ -607,7 +602,10 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>%s/\s+$</entry>
         <entry>w</entry>
+        <entry>%s/\s+$/</entry>
+        <entry>%s/\s+</entry>
       </history-cmd>
       <history-expr />
       <history-input />
