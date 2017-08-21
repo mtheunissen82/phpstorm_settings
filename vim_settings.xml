@@ -143,12 +143,12 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/RenderElement.php" timestamp="1495804760943">
         <mark key="'" line="33" column="61" />
       </file>
-      <file name="D:/project/dls/project/changelogs/CHANGELOG-DLS-patch-1.md" timestamp="1503306421438">
+      <file name="D:/project/dls/project/changelogs/CHANGELOG-DLS-patch-1.md" timestamp="1503307952151">
         <mark key="'" line="1" column="38" />
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="37" />
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="50" />
+        <mark key="^" line="11" column="50" />
+        <mark key="." line="11" column="50" />
       </file>
       <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/Ohoho.php" timestamp="1502880175569">
         <mark key="[" line="2" column="0" />
@@ -519,19 +519,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>(</text>
       </register>
       <register name="k" type="2">
         <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>\s+</text>
       </register>
-      <register name="0" type="4">
-        <text>DLS patch</text>
+      <register name="0" type="2">
+        <text encoding="base64">KiBJbmNvcnBlcmF0ZSBjaGFuZ2UgNSBhbmQgY2hhbmdlIDcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIERydXBhbFx1c2VyXFByb2ZpbGVGb3JtOwo=</text>
