@@ -186,8 +186,8 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AmberSynchronizer.php" timestamp="1498549364132">
         <mark key="'" line="85" column="21" />
       </file>
-      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" timestamp="1499933830012">
-        <mark key="'" line="61" column="90" />
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" timestamp="1503381961601">
+        <mark key="'" line="1" column="17" />
       </file>
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/Controller/AppealController.php" timestamp="1497963796327">
         <mark key="'" line="46" column="18" />
@@ -280,6 +280,9 @@
       </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/FormElementInterface.php" timestamp="1499169758375">
         <mark key="'" line="38" column="25" />
+      </file>
+      <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealManager.php" timestamp="1503381817840">
+        <mark key="'" line="227" column="24" />
       </file>
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" timestamp="1502721125899">
         <mark key="'" line="437" column="52" />
@@ -416,9 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="430" column="61" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="440" column="68" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="441" column="71" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="162" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="164" column="35" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
@@ -516,6 +516,9 @@
       <jump line="14" column="0" filename="D:/project/dls/project/CHANGELOG-DLS-patch-1.md" />
       <jump line="36" column="2" filename="D:/project/dls/project/CHANGELOG-DLS-patch-1.md" />
       <jump line="1" column="38" filename="D:/project/dls/project/changelogs/CHANGELOG-DLS-patch-1.md" />
+      <jump line="227" column="24" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealManager.php" />
+      <jump line="0" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
+      <jump line="1" column="17" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -528,7 +531,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\s+</text>
+        <text>flood</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KiBJbmNvcnBlcmF0ZSBjaGFuZ2UgNDogY2hhbmdlIFZhbHVlVW5pdCBmb3JtYXR0aW5nIHRvIGVuYWJsZSBwZXIgdW5pdCB2YWx1ZSBmb3JtYXR0aW5nCg==</text>
@@ -568,9 +571,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\s+</last-search>
+      <last-search>flood</last-search>
       <last-offset />
-      <last-pattern>\s+</last-pattern>
+      <last-pattern>flood</last-pattern>
       <last-replace />
       <last-substitute>\s+</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>checkbox</entry>
         <entry>radio</entry>
         <entry>Blocked</entry>
         <entry>optins</entry>
@@ -598,6 +600,7 @@
         <entry>\s+$</entry>
         <entry>seckit</entry>
         <entry>\s+</entry>
+        <entry>flood</entry>
       </history-search>
       <history-cmd>
         <entry>%s/verkeer/slachtoffer/g</entry>
