@@ -192,6 +192,9 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/Controller/AppealController.php" timestamp="1497963796327">
         <mark key="'" line="46" column="18" />
       </file>
+      <file name="D:/project/dls/project/web/core/modules/user/src/Form/UserLoginForm.php" timestamp="1503392837971">
+        <mark key="'" line="191" column="122" />
+      </file>
       <file name="D:/project/dls/project/web/core/core.services.yml" timestamp="1493390218187">
         <mark key="'" line="737" column="33" />
       </file>
@@ -419,15 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="71" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="162" column="45" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="164" column="35" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="165" column="40" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="280" column="17" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="303" column="228" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="444" column="104" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="445" column="107" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
-      <jump line="97" column="8" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="153" column="108" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="160" column="52" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
       <jump line="188" column="177" filename="D:/project/dls/project/web/core/modules/user/src/AccountSettingsForm.php" />
@@ -519,6 +513,15 @@
       <jump line="227" column="24" filename="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealManager.php" />
       <jump line="0" column="8" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
       <jump line="1" column="17" filename="D:/project/dlv/project/web/modules/custom/om_dlv/om_dlv.services.yml" />
+      <jump line="15" column="6" filename="D:/project/dls/project/web/core/modules/user/src/Form/UserLoginForm.php" />
+      <jump line="21" column="3" filename="D:/project/dls/project/web/core/modules/user/src/Form/UserLoginForm.php" />
+      <jump line="22" column="13" filename="D:/project/dls/project/web/core/modules/user/src/Form/UserLoginForm.php" />
+      <jump line="60" column="25" filename="D:/project/dls/project/web/core/modules/user/src/Form/UserLoginForm.php" />
+      <jump line="141" column="0" filename="D:/project/dls/project/web/core/modules/user/src/Form/UserLoginForm.php" />
+      <jump line="162" column="40" filename="D:/project/dls/project/web/core/modules/user/src/Form/UserLoginForm.php" />
+      <jump line="168" column="6" filename="D:/project/dls/project/web/core/modules/user/src/Form/UserLoginForm.php" />
+      <jump line="170" column="8" filename="D:/project/dls/project/web/core/modules/user/src/Form/UserLoginForm.php" />
+      <jump line="191" column="122" filename="D:/project/dls/project/web/core/modules/user/src/Form/UserLoginForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -531,7 +534,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>flood</text>
+        <text>window</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KiBJbmNvcnBlcmF0ZSBjaGFuZ2UgNDogY2hhbmdlIFZhbHVlVW5pdCBmb3JtYXR0aW5nIHRvIGVuYWJsZSBwZXIgdW5pdCB2YWx1ZSBmb3JtYXR0aW5nCg==</text>
@@ -571,9 +574,9 @@
       </register>
     </registers>
     <search>
-      <last-search>flood</last-search>
+      <last-search>window</last-search>
       <last-offset />
-      <last-pattern>flood</last-pattern>
+      <last-pattern>window</last-pattern>
       <last-replace />
       <last-substitute>\s+</last-substitute>
       <last-dir>1</last-dir>
@@ -581,7 +584,6 @@
     </search>
     <history>
       <history-search>
-        <entry>radio</entry>
         <entry>Blocked</entry>
         <entry>optins</entry>
         <entry>options</entry>
@@ -601,6 +603,7 @@
         <entry>seckit</entry>
         <entry>\s+</entry>
         <entry>flood</entry>
+        <entry>window</entry>
       </history-search>
       <history-cmd>
         <entry>%s/verkeer/slachtoffer/g</entry>
