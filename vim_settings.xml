@@ -40,7 +40,6 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="4" column="53" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_gba/readme.md" timestamp="1503394857806" />
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/StreamWrapper/LocalStream.php" timestamp="1493809755172">
         <mark key="'" line="42" column="9" />
       </file>
@@ -587,7 +586,7 @@
       <last-replace />
       <last-substitute>\s+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -680,7 +679,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
