@@ -173,8 +173,8 @@
         <mark key="." line="71" column="22" />
         <mark key="^" line="71" column="22" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1495455267985">
-        <mark key="'" line="151" column="60" />
+      <file name="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" timestamp="1504258181419">
+        <mark key="'" line="829" column="11" />
       </file>
       <file name="D:/project/dls/project/web/core/modules/file/file.module" timestamp="1492177602567">
         <mark key="'" line="0" column="0" />
@@ -439,9 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="387" column="31" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" />
-      <jump line="392" column="31" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" />
-      <jump line="408" column="28" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" />
       <jump line="427" column="26" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" />
       <jump line="437" column="52" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" />
       <jump line="39" column="4" filename="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.routing.yml" />
@@ -539,6 +536,9 @@
       <jump line="10" column="0" filename="D:/project/dls/project/web/modules/custom/om_ldap/readme.md" />
       <jump line="72" column="0" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Utility/ValueUnitTransformer.php" />
       <jump line="51" column="56" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Utility/ValueUnitTransformer.php" />
+      <jump line="127" column="4" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
+      <jump line="827" column="9" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
+      <jump line="829" column="11" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -551,7 +551,7 @@
         <text encoding="base64">IFJlbW92ZSAsMCBmcm9tIHRoZSBlbmQ=</text>
       </register>
       <register name="/" type="4">
-        <text>rtrim</text>
+        <text>sanctiezm</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHZhbHVlVW5pdC0+Z2V0UmF3VmFsdWUoKQ==</text>
@@ -591,17 +591,16 @@
       </register>
     </registers>
     <search>
-      <last-search>rtrim</last-search>
+      <last-search>sanctiezm</last-search>
       <last-offset />
-      <last-pattern>rtrim</last-pattern>
+      <last-pattern>sanctiezm</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.default</entry>
         <entry>\.default</entry>
         <entry>user.auth</entry>
         <entry>disabled</entry>
@@ -621,6 +620,7 @@
         <entry encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</entry>
         <entry encoding="base64">XDxMZGFwRW1wdHlSZXNwb25zZUV4Y2VwdGlvblw+</entry>
         <entry>rtrim</entry>
+        <entry>sanctiezm</entry>
       </history-search>
       <history-cmd>
         <entry>%s/verkeer/slachtoffer/g</entry>
