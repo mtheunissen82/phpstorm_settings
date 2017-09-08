@@ -49,7 +49,6 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/ConfirmationController.php" timestamp="1500036112151">
         <mark key="'" line="98" column="36" />
       </file>
-      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/SoapStubClient.php" timestamp="1504259835757" />
       <file name="D:/project/dlv/project/web/core/modules/image/src/Plugin/Field/FieldWidget/ImageWidget.php" timestamp="1495785460963">
         <mark key="'" line="0" column="0" />
       </file>
@@ -144,7 +143,6 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/xsd/gps/gps_ophalenSanctieZM_1.0.xsd" timestamp="1504260389385" />
       <file name="D:/project/dlv/project/vendor/dvom/simplesamlphp/lib/SimpleSAML/SessionHandlerPHP.php" timestamp="1499246632070">
         <mark key="'" line="210" column="20" />
       </file>
@@ -308,6 +306,8 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealManager.php" timestamp="1503381817840">
         <mark key="'" line="227" column="24" />
       </file>
+      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/WSSESignedSoapClient.php" timestamp="1504873556316" />
+      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/StrafzaakServiceInterface.php" timestamp="1504872773014" />
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" timestamp="1502721125899">
         <mark key="'" line="437" column="52" />
       </file>
@@ -317,7 +317,6 @@
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Cache/PhpBackend.php" timestamp="1492179629064">
         <mark key="'" line="161" column="22" />
       </file>
-      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/SoapStubService.php" timestamp="1504259647081" />
       <file name="D:/project/dlv/project/web/core/modules/file/src/Entity/File.php" timestamp="1492179457680">
         <mark key="'" line="212" column="22" />
       </file>
@@ -364,7 +363,7 @@
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
       </file>
-      <file name="/PHP Console" timestamp="1504260286952">
+      <file name="/PHP Console" timestamp="1504873631959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dlv/project/web/core/modules/system/system.module" timestamp="1498053265375">
@@ -427,6 +426,8 @@
       <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/xsd/cdm/cdm_afdoeningsbeslissing_1.1.xsd" timestamp="1497441133279">
         <mark key="'" line="45" column="26" />
       </file>
+      <file name="D:/project/dls/project/web/index.php" timestamp="1504872646432" />
+      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/SoapService.php" timestamp="1504872783174" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/Textarea.php" timestamp="1495804792730">
         <mark key="'" line="24" column="16" />
       </file>
@@ -436,7 +437,6 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/samenvattingStrafzaak/interfaces/bs_samenvattingStrafzaak_1.1.xsd" timestamp="1504260482461" />
       <file name="D:/project/dls/project/web/modules/custom/om_dls/src/Controller/PageController.php" timestamp="1496152006252">
         <mark key="[" line="28" column="3" />
       </file>
@@ -616,7 +616,7 @@
       <last-replace />
       <last-substitute encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
