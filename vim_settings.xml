@@ -109,6 +109,9 @@
       <file name="D:/project/dls/project/web/core/modules/node/src/Entity/Node.php" timestamp="1495786632835">
         <mark key="'" line="9" column="22" />
       </file>
+      <file name="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" timestamp="1505120170936">
+        <mark key="'" line="2883" column="159" />
+      </file>
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Entity/EntityInterface.php" timestamp="1492179503437">
         <mark key="'" line="13" column="3" />
       </file>
@@ -306,8 +309,6 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Appeal/AppealManager.php" timestamp="1503381817840">
         <mark key="'" line="227" column="24" />
       </file>
-      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/WSSESignedSoapClient.php" timestamp="1504873556316" />
-      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/StrafzaakServiceInterface.php" timestamp="1504872773014" />
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" timestamp="1502721125899">
         <mark key="'" line="437" column="52" />
       </file>
@@ -393,7 +394,7 @@
       <file name="D:/project/dlv/project/web/modules/custom/om_dlv/src/Controller/OvJRedenController.php" timestamp="1491815131025">
         <mark key="'" line="225" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503578011242">
+      <file name="/Dummy.txt" timestamp="1505120237462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" timestamp="1502867745671">
@@ -426,8 +427,6 @@
       <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/xsd/cdm/cdm_afdoeningsbeslissing_1.1.xsd" timestamp="1497441133279">
         <mark key="'" line="45" column="26" />
       </file>
-      <file name="D:/project/dls/project/web/index.php" timestamp="1504872646432" />
-      <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/SoapService.php" timestamp="1504872783174" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/Textarea.php" timestamp="1495804792730">
         <mark key="'" line="24" column="16" />
       </file>
@@ -456,41 +455,9 @@
       <file name="D:/project/dls/project/web/core/lib/Drupal/Core/Render/Element/Checkbox.php" timestamp="1503040776670">
         <mark key="'" line="115" column="41" />
       </file>
+      <file name="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/300535818-response.xml" timestamp="1505120309813" />
     </filemarks>
     <jumps>
-      <jump line="427" column="26" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" />
-      <jump line="437" column="52" filename="D:/project/dls/project/web/core/lib/Drupal/Core/Entity/ContentEntityForm.php" />
-      <jump line="39" column="4" filename="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.routing.yml" />
-      <jump line="0" column="0" filename="D:/project/dls/project/web/modules/custom/om_ldap/om_ldap.routing.yml" />
-      <jump line="126" column="0" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="77" column="5" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="141" column="18" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="179" column="18" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="26" column="8" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/AdRegisterForm.php" />
-      <jump line="100" column="8" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="172" column="16" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="192" column="8" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="32" column="3" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/SettingsForm.php" />
-      <jump line="182" column="8" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="44" column="20" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
-      <jump line="200" column="0" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="59" column="13" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="87" column="17" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="91" column="13" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="55" column="17" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="95" column="2" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="97" column="1" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="105" column="1" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="115" column="1" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="82" column="27" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="90" column="27" filename="D:/project/dls/project/web/core/modules/user/user.routing.yml" />
-      <jump line="1" column="0" filename="D:/project/dls/project/web/core/modules/user/src/AccountForm.php" />
-      <jump line="0" column="0" filename="D:/project/dls/project/web/core/modules/user/user.services.yml" />
-      <jump line="58" column="2" filename="D:/project/dls/project/web/core/modules/user/user.services.yml" />
-      <jump line="47" column="2" filename="D:/project/dls/project/web/core/modules/user/user.services.yml" />
-      <jump line="17" column="2" filename="D:/project/dls/project/web/core/modules/user/user.services.yml" />
-      <jump line="18" column="18" filename="D:/project/dls/project/web/core/modules/user/user.services.yml" />
-      <jump line="25" column="4" filename="D:/project/dls/project/web/core/modules/user/src/RegisterForm.php" />
       <jump line="59" column="0" filename="D:/project/dls/project/web/core/modules/user/src/ProfileForm.php" />
       <jump line="4" column="32" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedProfileForm.php" />
       <jump line="44" column="0" filename="D:/project/dls/project/web/modules/custom/om_ldap/src/Form/ModifiedAccountFormTrait.php" />
@@ -558,6 +525,39 @@
       <jump line="127" column="4" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
       <jump line="827" column="9" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
       <jump line="829" column="11" filename="D:/project/dls/project/web/modules/custom/om_strafzaak/src/Mapper/SamenvattingStrafzaakMapper.php" />
+      <jump line="0" column="0" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="1287" column="37" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="1425" column="38" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="1568" column="62" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="1586" column="67" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="1587" column="36" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="1809" column="38" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="2349" column="62" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="2971" column="57" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="2972" column="26" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3002" column="26" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3001" column="47" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3029" column="55" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3034" column="80" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3038" column="40" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3039" column="49" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3452" column="71" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3744" column="55" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3749" column="69" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3753" column="40" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="3754" column="49" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="4553" column="32" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="4554" column="54" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="18" column="107" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="55" column="92" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="56" column="66" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="1616" column="55" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="1621" column="92" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="1626" column="40" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="1627" column="49" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="2856" column="22" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="2871" column="73" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
+      <jump line="2883" column="159" filename="D:/project/dls/project/vendor/dvom/gba_service/src/Resources/Webservice/V1.0/Wsdl/xsd/common/EBV-Gegevenswoordenboek-1.xsd" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -570,7 +570,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>sanctiezm</text>
+        <text>initia</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHZhbHVlVW5pdC0+Z2V0UmF3VmFsdWUoKQ==</text>
@@ -610,23 +610,16 @@
       </register>
     </registers>
     <search>
-      <last-search>sanctiezm</last-search>
+      <last-search>initia</last-search>
       <last-offset />
-      <last-pattern>sanctiezm</last-pattern>
+      <last-pattern>initia</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\.default</entry>
-        <entry>user.auth</entry>
-        <entry>disabled</entry>
-        <entry encoding="base64">XDxwcmVSZW5kZXJDb21wb3NpdGVGb3JtRWxlbWVudFw+</entry>
-        <entry encoding="base64">XDxwcm9jZXNzQ2hlY2tib3hlc1w+</entry>
-        <entry>roles</entry>
-        <entry>\s+$</entry>
         <entry>seckit</entry>
         <entry>\s+</entry>
         <entry>flood</entry>
@@ -640,6 +633,13 @@
         <entry encoding="base64">XDxMZGFwRW1wdHlSZXNwb25zZUV4Y2VwdGlvblw+</entry>
         <entry>rtrim</entry>
         <entry>sanctiezm</entry>
+        <entry>natuurlijkpersoon</entry>
+        <entry encoding="base64">XDxOYXR1dXJsaWprUGVyc29vblR5cGVcPg==</entry>
+        <entry>Naam</entry>
+        <entry>Naamgebruik</entry>
+        <entry encoding="base64">XDxOYWFtZ2VicnVpa1w+</entry>
+        <entry>init</entry>
+        <entry>initia</entry>
       </history-search>
       <history-cmd>
         <entry>%s/verkeer/slachtoffer/g</entry>
