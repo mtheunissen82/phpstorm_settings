@@ -85,7 +85,6 @@
         <mark key="." line="647" column="10" />
         <mark key="^" line="647" column="10" />
       </file>
-      <file name="D:/project/dls/project/vendor/symfony/http-foundation/ParameterBag.php" timestamp="1505805969494" />
       <file name="D:/project/dls/project/web/core/modules/user/tests/src/Kernel/Field/UserNameFormatterTest.php" timestamp="1495787117620">
         <mark key="'" line="10" column="13" />
       </file>
@@ -261,12 +260,11 @@
         <mark key="." line="33" column="23" />
         <mark key="^" line="21" column="62" />
       </file>
-      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/LdapUserAuth.php" timestamp="1505809189308">
-        <mark key="'" line="86" column="45" />
-        <mark key="[" line="97" column="82" />
-        <mark key="]" line="97" column="82" />
-        <mark key="^" line="97" column="82" />
-        <mark key="." line="97" column="82" />
+      <file name="D:/project/dls/project/web/modules/custom/om_ldap/src/LdapUserAuth.php" timestamp="1505985879556">
+        <mark key="[" line="68" column="82" />
+        <mark key="]" line="68" column="82" />
+        <mark key="^" line="68" column="82" />
+        <mark key="." line="68" column="82" />
       </file>
       <file name="D:/project/dlv/project/web/profiles/custom/om_dlv_profile/om_dlv_development/om_dlv_development.info.yml" timestamp="1490280122269">
         <mark key="'" line="0" column="0" />
@@ -435,7 +433,6 @@
       <file name="D:/project/dls/project/vendor/dvom/strafzaak_service/src/Resources/xml/wsdl/xsd/cdm/cdm_afdoeningsbeslissing_1.1.xsd" timestamp="1497441133279">
         <mark key="'" line="45" column="26" />
       </file>
-      <file name="D:/project/dls/project/web/index.php" timestamp="1505805768338" />
       <file name="D:/project/dlv/project/web/core/lib/Drupal/Core/Render/Element/Textarea.php" timestamp="1495804792730">
         <mark key="'" line="24" column="16" />
       </file>
@@ -618,7 +615,7 @@
       <last-replace />
       <last-substitute encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
